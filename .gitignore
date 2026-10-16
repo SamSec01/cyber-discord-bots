@@ -1,0 +1,14 @@
+# Secrets — NEVER commit these
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Lesson scratch files
+lessons/seen.json
+preview.html
+state/_preview.json

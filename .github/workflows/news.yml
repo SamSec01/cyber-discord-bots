@@ -1,0 +1,58 @@
+# Runs the news bot every 30 minutes on GitHub's servers (free for public repos).
+name: News bot
+
+on:
+  schedule:
+    # Cron is in UTC. "*/30 * * * *" = every 30 minutes.
+    # GitHub may start scheduled runs a few minutes late when busy — that's normal.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}   # adds a "Run workflow" button on the Actions tab
+
+# The job commits the updated state file back to the repo, so it needs write access.
+permissions:
+  contents: write
+
+# Both bots commit to the same repo. Sharing one concurrency group means they
+# queue behind each other instead of racing and causing git push conflicts.
+concurrency:
+  group: bot-state
+  cancel-in-progress: false
+
+jobs:
+  post-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run news bot
+        run: python -m bots.news_bot
+        env:
+          # Secrets live in: repo Settings → Secrets and variables → Actions
+          DISCORD_WEBHOOK_NEWS: ${{ secrets.DISCORD_WEBHOOK_NEWS }}
+          DISCORD_WEBHOOK_LOGS: ${{ secrets.DISCORD_WEBHOOK_LOGS }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Save state (what has been posted)
+        if: always()   # save even if the bot errored part-way, to avoid duplicates
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/
+          if git diff --cached --quiet; then
+            echo "No state changes."
+            exit 0
+          fi
+          git commit -m "chore: update news state [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase --quiet && git push --quiet && exit 0
+            sleep 5
+          done
+          exit 1

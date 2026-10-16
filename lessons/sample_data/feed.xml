@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SAMPLE DATA for offline practice. Every story, company and CVE here is made up. -->
+<rss version="2.0">
+  <channel>
+    <title>Sample Security News</title>
+    <link>https://example.com/</link>
+    <description>Fake cyber news for practising with the bots offline</description>
+    <lastBuildDate>Fri, 16 Oct 2026 11:30:00 +0000</lastBuildDate>
+
+    <item>
+      <title>[SAMPLE] ExampleCorp patches actively exploited zero-day in ExampleVPN gateways</title>
+      <link>https://example.com/news/examplevpn-zero-day?utm_source=rss&amp;utm_medium=feed</link>
+      <guid>https://example.com/news/examplevpn-zero-day</guid>
+      <pubDate>Fri, 16 Oct 2026 09:10:00 +0000</pubDate>
+      <description><![CDATA[<p>ExampleCorp has released emergency updates for its <b>ExampleVPN</b> gateway after attackers were seen exploiting a critical flaw, tracked as CVE-2099-0001, in the wild. The OS command injection bug lets an unauthenticated attacker run commands as root. Researchers say thousands of gateways are exposed to the internet.</p><p>The post ExampleCorp patches zero-day appeared first on Sample Security News.</p>]]></description>
+    </item>
+
+    <item>
+      <title>[SAMPLE] Ransomware gang claims attack on fictional UK logistics firm</title>
+      <link>https://example.com/news/logistics-ransomware</link>
+      <guid>https://example.com/news/logistics-ransomware</guid>
+      <pubDate>Fri, 16 Oct 2026 07:45:00 +0000</pubDate>
+      <description><![CDATA[A ransomware group has listed Fictional Freight Ltd on its leak site, claiming to have stolen 400GB of data. The company says deliveries are delayed while systems are restored from backups.]]></description>
+    </item>
+
+    <item>
+      <title>[SAMPLE] New phishing kit targets Microsoft 365 accounts with fake MFA prompts</title>
+      <link>https://example.com/news/m365-phishing-kit</link>
+      <guid>https://example.com/news/m365-phishing-kit</guid>
+      <pubDate>Thu, 15 Oct 2026 16:20:00 +0000</pubDate>
+      <description><![CDATA[Researchers have found a phishing-as-a-service kit that proxies Microsoft 365 sign-ins to steal session cookies, bypassing MFA. Victims receive a fake voicemail email with a QR code.]]></description>
+    </item>
+
+    <item>
+      <title>[SAMPLE] New phishing kit targets Microsoft 365 accounts with fake MFA prompts</title>
+      <link>https://example.com/news/m365-phishing-kit-syndicated</link>
+      <guid>https://example.com/news/m365-phishing-kit-syndicated</guid>
+      <pubDate>Thu, 15 Oct 2026 16:25:00 +0000</pubDate>
+      <description><![CDATA[Same story, syndicated under a different URL. The bot should post this only once.]]></description>
+    </item>
+
+    <item>
+      <title>[SAMPLE] Malicious npm packages steal developer credentials</title>
+      <link>https://example.com/news/npm-stealers</link>
+      <guid>https://example.com/news/npm-stealers</guid>
+      <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
+      <description><![CDATA[Twelve typo-squatted packages on npm drop an infostealer that grabs SSH keys and cloud tokens. The README told users: "@everyone run npm install now". (The bot must NOT ping your server with that.)]]></description>
+    </item>
+
+    <item>
+      <title>[SAMPLE] Guidance published on securing remote access for small businesses</title>
+      <link>https://example.com/news/remote-access-guidance</link>
+      <guid>https://example.com/news/remote-access-guidance</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[A national cyber agency has published guidance for small businesses on securing remote access, including retiring legacy VPNs and enforcing phishing-resistant MFA.]]></description>
+    </item>
+
+    <item>
+      <title>[SAMPLE] Old story that is too old to post</title>
+      <link>https://example.com/news/old-story</link>
+      <guid>https://example.com/news/old-story</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0000</pubDate>
+      <description><![CDATA[This is older than max_age_hours, so the bot should skip it and remember it.]]></description>
+    </item>
+  </channel>
+</rss>

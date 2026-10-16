@@ -1,0 +1,54 @@
+# Runs the vulnerability bot every hour (at 15 minutes past, to dodge the
+# busy top-of-the-hour slot when lots of scheduled jobs start at once).
+name: Vulnerability bot
+
+on:
+  schedule:
+    - cron: "15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bot-state
+  cancel-in-progress: false
+
+jobs:
+  post-vulns:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run vulnerability bot
+        run: python -m bots.vuln_bot
+        env:
+          DISCORD_WEBHOOK_VULNS: ${{ secrets.DISCORD_WEBHOOK_VULNS }}
+          DISCORD_WEBHOOK_KEV: ${{ secrets.DISCORD_WEBHOOK_KEV }}
+          DISCORD_WEBHOOK_LOGS: ${{ secrets.DISCORD_WEBHOOK_LOGS }}
+          NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
+
+      - name: Save state (what has been posted)
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/
+          if git diff --cached --quiet; then
+            echo "No state changes."
+            exit 0
+          fi
+          git commit -m "chore: update vuln state [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase --quiet && git push --quiet && exit 0
+            sleep 5
+          done
+          exit 1

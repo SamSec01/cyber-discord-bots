@@ -1,0 +1,454 @@
+{
+  "resultsPerPage": 8,
+  "startIndex": 0,
+  "totalResults": 8,
+  "format": "NVD_CVE",
+  "version": "2.0",
+  "timestamp": "2026-10-16T12:00:00.000",
+  "_note": "SAMPLE DATA - made-up CVEs (CVE-2099-*) in the real NVD API 2.0 response shape",
+  "vulnerabilities": [
+    {
+      "cve": {
+        "id": "CVE-2099-0001",
+        "sourceIdentifier": "psirt@example.com",
+        "published": "2026-10-15T14:00:00.000",
+        "lastModified": "2026-10-16T08:00:00.000",
+        "vulnStatus": "Analyzed",
+        "descriptions": [
+          {
+            "lang": "en",
+            "value": "[SAMPLE] An OS command injection vulnerability in ExampleCorp ExampleVPN gateway before 9.4.2 allows an unauthenticated remote attacker to execute arbitrary commands as root via a crafted HTTP request to the web portal."
+          },
+          {
+            "lang": "es",
+            "value": "(traducción)"
+          }
+        ],
+        "metrics": {
+          "cvssMetricV31": [
+            {
+              "source": "nvd@nist.gov",
+              "type": "Primary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                "baseScore": 9.8,
+                "baseSeverity": "CRITICAL"
+              }
+            }
+          ]
+        },
+        "weaknesses": [
+          {
+            "source": "nvd@nist.gov",
+            "type": "Primary",
+            "description": [
+              {
+                "lang": "en",
+                "value": "CWE-78"
+              }
+            ]
+          }
+        ],
+        "configurations": [
+          {
+            "nodes": [
+              {
+                "operator": "OR",
+                "negate": false,
+                "cpeMatch": [
+                  {
+                    "vulnerable": true,
+                    "criteria": "cpe:2.3:o:examplecorp:examplevpn_firmware:*:*:*:*:*:*:*:*",
+                    "matchCriteriaId": "00000000-0000-0000-0000-000000000000"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "references": [
+          {
+            "url": "https://example.com/psirt/EXCORP-2099-001",
+            "source": "psirt@example.com",
+            "tags": [
+              "Vendor Advisory",
+              "Patch"
+            ]
+          },
+          {
+            "url": "https://example.org/blog/examplevpn-exploitation",
+            "source": "psirt@example.com",
+            "tags": [
+              "Third Party Advisory",
+              "Exploit"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2099-0002",
+        "sourceIdentifier": "psirt@example.com",
+        "published": "2026-10-16T06:30:00.000",
+        "lastModified": "2026-10-16T06:30:00.000",
+        "vulnStatus": "Awaiting Analysis",
+        "descriptions": [
+          {
+            "lang": "en",
+            "value": "[SAMPLE] Globex Endpoint Agent for Windows before 4.1.0 loads DLLs from a user-writable directory, allowing a local attacker to escalate privileges to SYSTEM."
+          },
+          {
+            "lang": "es",
+            "value": "(traducción)"
+          }
+        ],
+        "metrics": {
+          "cvssMetricV40": [
+            {
+              "source": "psirt@example.com",
+              "type": "Secondary",
+              "cvssData": {
+                "version": "4.0",
+                "vectorString": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
+                "baseScore": 8.5,
+                "baseSeverity": "HIGH"
+              }
+            }
+          ]
+        },
+        "weaknesses": [
+          {
+            "source": "nvd@nist.gov",
+            "type": "Primary",
+            "description": [
+              {
+                "lang": "en",
+                "value": "CWE-427"
+              }
+            ]
+          }
+        ],
+        "configurations": [],
+        "references": [
+          {
+            "url": "https://example.com/globex/advisories/GLX-2099-02",
+            "source": "psirt@example.com",
+            "tags": [
+              "Vendor Advisory"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2099-0003",
+        "sourceIdentifier": "psirt@example.com",
+        "published": "2026-10-15T20:00:00.000",
+        "lastModified": "2026-10-16T02:00:00.000",
+        "vulnStatus": "Analyzed",
+        "descriptions": [
+          {
+            "lang": "en",
+            "value": "[SAMPLE] A stored cross-site scripting (XSS) vulnerability in Initech TPS Reports 2.3 allows authenticated users to inject script via the cover sheet title."
+          },
+          {
+            "lang": "es",
+            "value": "(traducción)"
+          }
+        ],
+        "metrics": {
+          "cvssMetricV31": [
+            {
+              "source": "nvd@nist.gov",
+              "type": "Primary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N",
+                "baseScore": 5.4,
+                "baseSeverity": "MEDIUM"
+              }
+            }
+          ]
+        },
+        "weaknesses": [
+          {
+            "source": "nvd@nist.gov",
+            "type": "Primary",
+            "description": [
+              {
+                "lang": "en",
+                "value": "CWE-79"
+              }
+            ]
+          }
+        ],
+        "configurations": [
+          {
+            "nodes": [
+              {
+                "operator": "OR",
+                "negate": false,
+                "cpeMatch": [
+                  {
+                    "vulnerable": true,
+                    "criteria": "cpe:2.3:a:initech:tps_reports:2.3:*:*:*:*:*:*:*",
+                    "matchCriteriaId": "00000000-0000-0000-0000-000000000000"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "references": [
+          {
+            "url": "https://example.com/initech/security",
+            "source": "psirt@example.com",
+            "tags": []
+          }
+        ]
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2099-0004",
+        "sourceIdentifier": "psirt@example.com",
+        "published": "2026-10-16T10:00:00.000",
+        "lastModified": "2026-10-16T10:00:00.000",
+        "vulnStatus": "Received",
+        "descriptions": [
+          {
+            "lang": "en",
+            "value": "[SAMPLE] A vulnerability in Acme Rocket Skates firmware has been reported. Details are pending."
+          },
+          {
+            "lang": "es",
+            "value": "(traducción)"
+          }
+        ],
+        "metrics": {},
+        "weaknesses": [],
+        "configurations": [],
+        "references": []
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2099-0005",
+        "sourceIdentifier": "psirt@example.com",
+        "published": "2026-10-14T09:00:00.000",
+        "lastModified": "2026-10-16T05:00:00.000",
+        "vulnStatus": "Analyzed",
+        "descriptions": [
+          {
+            "lang": "en",
+            "value": "[SAMPLE] An authentication bypass in Umbrella Labs FileShare 3.x allows remote attackers to download arbitrary files without logging in."
+          },
+          {
+            "lang": "es",
+            "value": "(traducción)"
+          }
+        ],
+        "metrics": {
+          "cvssMetricV31": [
+            {
+              "source": "nvd@nist.gov",
+              "type": "Primary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+                "baseScore": 7.5,
+                "baseSeverity": "HIGH"
+              }
+            }
+          ]
+        },
+        "weaknesses": [
+          {
+            "source": "nvd@nist.gov",
+            "type": "Primary",
+            "description": [
+              {
+                "lang": "en",
+                "value": "CWE-287"
+              }
+            ]
+          }
+        ],
+        "configurations": [
+          {
+            "nodes": [
+              {
+                "operator": "OR",
+                "negate": false,
+                "cpeMatch": [
+                  {
+                    "vulnerable": true,
+                    "criteria": "cpe:2.3:a:umbrella_labs:fileshare:*:*:*:*:*:*:*:*",
+                    "matchCriteriaId": "00000000-0000-0000-0000-000000000000"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "references": [
+          {
+            "url": "https://example.com/umbrella/advisory-5",
+            "source": "psirt@example.com",
+            "tags": [
+              "Vendor Advisory"
+            ]
+          },
+          {
+            "url": "https://example.net/poc/fileshare-bypass",
+            "source": "psirt@example.com",
+            "tags": [
+              "Exploit"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2099-0006",
+        "sourceIdentifier": "psirt@example.com",
+        "published": "2026-10-15T09:00:00.000",
+        "lastModified": "2026-10-16T01:00:00.000",
+        "vulnStatus": "Rejected",
+        "descriptions": [
+          {
+            "lang": "en",
+            "value": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. [SAMPLE]"
+          },
+          {
+            "lang": "es",
+            "value": "(traducción)"
+          }
+        ],
+        "metrics": {},
+        "weaknesses": [],
+        "configurations": [],
+        "references": []
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2099-0007",
+        "sourceIdentifier": "psirt@example.com",
+        "published": "2026-08-01T09:00:00.000",
+        "lastModified": "2026-10-16T03:00:00.000",
+        "vulnStatus": "Analyzed",
+        "descriptions": [
+          {
+            "lang": "en",
+            "value": "[SAMPLE] A critical deserialisation flaw in Soylent Data Platform — but it was published months ago, so the bot should ignore it."
+          },
+          {
+            "lang": "es",
+            "value": "(traducción)"
+          }
+        ],
+        "metrics": {
+          "cvssMetricV31": [
+            {
+              "source": "nvd@nist.gov",
+              "type": "Primary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                "baseScore": 9.8,
+                "baseSeverity": "CRITICAL"
+              }
+            }
+          ]
+        },
+        "weaknesses": [
+          {
+            "source": "nvd@nist.gov",
+            "type": "Primary",
+            "description": [
+              {
+                "lang": "en",
+                "value": "CWE-502"
+              }
+            ]
+          }
+        ],
+        "configurations": [],
+        "references": []
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2099-0008",
+        "sourceIdentifier": "psirt@example.com",
+        "published": "2026-10-16T04:15:00.000",
+        "lastModified": "2026-10-16T04:15:00.000",
+        "vulnStatus": "Awaiting Analysis",
+        "descriptions": [
+          {
+            "lang": "en",
+            "value": "[SAMPLE] Hooli Cloud Gateway 5.0 through 5.2 contains a server-side request forgery that lets unauthenticated attackers reach the instance metadata service and steal cloud credentials."
+          },
+          {
+            "lang": "es",
+            "value": "(traducción)"
+          }
+        ],
+        "metrics": {
+          "cvssMetricV40": [
+            {
+              "source": "psirt@example.com",
+              "type": "Secondary",
+              "cvssData": {
+                "version": "4.0",
+                "vectorString": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:N/SC:H/SI:H/SA:N",
+                "baseScore": 9.3,
+                "baseSeverity": "CRITICAL"
+              }
+            }
+          ],
+          "cvssMetricV31": [
+            {
+              "source": "psirt@example.com",
+              "type": "Secondary",
+              "cvssData": {
+                "version": "3.1",
+                "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N",
+                "baseScore": 9.1,
+                "baseSeverity": "CRITICAL"
+              }
+            }
+          ]
+        },
+        "weaknesses": [
+          {
+            "source": "nvd@nist.gov",
+            "type": "Primary",
+            "description": [
+              {
+                "lang": "en",
+                "value": "CWE-918"
+              }
+            ]
+          }
+        ],
+        "configurations": [],
+        "references": [
+          {
+            "url": "https://example.com/hooli/HSA-2099-08",
+            "source": "psirt@example.com",
+            "tags": [
+              "Vendor Advisory",
+              "Mitigation"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

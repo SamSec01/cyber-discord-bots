@@ -1,0 +1,102 @@
+# ============================================================
+#  Bot settings. Edit freely — no code changes needed.
+#  Secrets (webhook URLs, API keys) do NOT go here: they go in
+#  .env locally, or GitHub Secrets when running on Actions.
+# ============================================================
+
+news:
+  # The display name and avatar the webhook posts as.
+  username: "Cyber News"
+  avatar_url: ""
+
+  # RSS/Atom feeds to watch. Set enabled: false to pause one.
+  feeds:
+    - name: The Hacker News
+      url: https://feeds.feedburner.com/TheHackersNews
+      enabled: true
+    - name: BleepingComputer
+      url: https://www.bleepingcomputer.com/feed/
+      enabled: true
+    - name: The Record
+      url: https://therecord.media/feed
+      enabled: true
+    - name: SecurityWeek
+      url: https://www.securityweek.com/feed/
+      enabled: true
+    - name: Krebs on Security
+      url: https://krebsonsecurity.com/feed/
+      enabled: true
+    - name: Dark Reading
+      url: https://www.darkreading.com/rss.xml
+      enabled: true
+    - name: NCSC UK
+      url: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
+      enabled: true
+
+  # Never post more than this many articles in one run (stops channel floods).
+  max_posts_per_run: 8
+  # Ignore articles older than this (stops old posts reappearing).
+  max_age_hours: 48
+  # On the very first run, only post this many of the newest articles.
+  first_run_posts: 3
+  # Seconds to wait between Discord posts.
+  post_delay_seconds: 2
+
+  # Try to download the full article for better context. Some sites block bots;
+  # the bot falls back to the RSS summary when that happens.
+  fetch_full_article: true
+
+  ai:
+    # Uses Gemini only if GEMINI_API_KEY is set. Otherwise rule-based context.
+    enabled: true
+    # "-latest" aliases always point at Google's current model of that type.
+    model: gemini-flash-lite-latest
+    # Free tier is rate-limited per minute; this keeps us well under it.
+    min_seconds_between_calls: 5
+
+vulns:
+  username: "Vuln Watch"
+  avatar_url: ""
+
+  # --- What gets posted from NVD (new / newly-scored CVEs) ---
+  # Anything at or above this severity is posted: LOW, MEDIUM, HIGH, CRITICAL
+  min_severity: CRITICAL
+
+  # CVEs mentioning these vendors/products are posted at a lower bar.
+  # Tune this to the tech YOU look after.
+  watchlist:
+    - microsoft
+    - windows
+    - exchange
+    - fortinet
+    - fortigate
+    - sophos
+    - datto
+    - connectwise
+    - ivanti
+    - citrix
+    - cisco
+    - palo alto
+    - sonicwall
+    - veeam
+    - vmware
+  watchlist_min_severity: HIGH
+
+  # Also post anything whose EPSS exploit probability is at least this (0.1 = 10%).
+  min_epss: 0.10
+
+  # Only consider CVEs published within this many days (the bot watches for
+  # CVEs that were *modified* recently, so this stops 2015 CVEs resurfacing).
+  max_age_days: 14
+
+  max_posts_per_run: 8
+  post_delay_seconds: 2
+
+  # --- CISA KEV (actively exploited) ---
+  kev_enabled: true
+  # On the first run, only post the newest N KEV entries (the catalogue has 1,000+).
+  kev_first_run_posts: 3
+
+state:
+  # Forget "already posted" IDs after this many days (keeps the state file small).
+  keep_days: 60

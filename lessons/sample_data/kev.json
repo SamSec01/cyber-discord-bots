@@ -1,0 +1,69 @@
+{
+  "title": "CISA Catalog of Known Exploited Vulnerabilities",
+  "catalogVersion": "2026.10.16",
+  "dateReleased": "2026-10-16T11:00:00.000Z",
+  "count": 4,
+  "_note": "SAMPLE DATA - made-up entries in the real KEV JSON shape",
+  "vulnerabilities": [
+    {
+      "cveID": "CVE-2099-0012",
+      "vendorProject": "Stark Industries",
+      "product": "Arc Controller",
+      "vulnerabilityName": "[SAMPLE] Stark Industries Arc Controller Hard-coded Credentials Vulnerability",
+      "dateAdded": "2026-09-20",
+      "shortDescription": "Stark Industries Arc Controller contains hard-coded credentials that allow remote administrative access.",
+      "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+      "dueDate": "2026-10-11",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://example.com/stark/advisory ; https://nvd.nist.gov/vuln/detail/CVE-2099-0012",
+      "cwes": [
+        "CWE-798"
+      ]
+    },
+    {
+      "cveID": "CVE-2099-0011",
+      "vendorProject": "Wayne Enterprises",
+      "product": "Cave Mail Server",
+      "vulnerabilityName": "[SAMPLE] Wayne Enterprises Cave Mail Server Path Traversal Vulnerability",
+      "dateAdded": "2026-10-01",
+      "shortDescription": "Wayne Enterprises Cave Mail Server contains a path traversal vulnerability that allows reading arbitrary files.",
+      "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+      "dueDate": "2026-10-22",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://example.com/wayne/kb/123",
+      "cwes": [
+        "CWE-22"
+      ]
+    },
+    {
+      "cveID": "CVE-2099-0010",
+      "vendorProject": "Cyberdyne",
+      "product": "Skynet Backup",
+      "vulnerabilityName": "[SAMPLE] Cyberdyne Skynet Backup Deserialization Vulnerability",
+      "dateAdded": "2026-10-14",
+      "shortDescription": "Cyberdyne Skynet Backup contains a deserialization of untrusted data vulnerability that allows unauthenticated remote code execution.",
+      "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+      "dueDate": "2026-11-04",
+      "knownRansomwareCampaignUse": "Known",
+      "notes": "https://example.com/cyberdyne/security ; https://example.org/research/skynet-backup",
+      "cwes": [
+        "CWE-502"
+      ]
+    },
+    {
+      "cveID": "CVE-2099-0001",
+      "vendorProject": "ExampleCorp",
+      "product": "ExampleVPN",
+      "vulnerabilityName": "[SAMPLE] ExampleCorp ExampleVPN OS Command Injection Vulnerability",
+      "dateAdded": "2026-10-16",
+      "shortDescription": "ExampleCorp ExampleVPN contains an OS command injection vulnerability that allows an unauthenticated attacker to execute commands as root.",
+      "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+      "dueDate": "2026-10-23",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://example.com/psirt/EXCORP-2099-001",
+      "cwes": [
+        "CWE-78"
+      ]
+    }
+  ]
+}
