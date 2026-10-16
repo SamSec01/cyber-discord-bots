@@ -325,7 +325,7 @@ def kev_embed(entry: dict, v: Vuln | None) -> dict:
     links = " · ".join([f"[NVD]({nvd_link(cve_id)})"] + [f"[{urlsplit(u).netloc}]({u})" for u in notes_links[:3]])
     action = entry.get("requiredAction", "")
     if entry.get("dueDate"):
-        action += f"\n_US federal agencies must fix by {entry['dueDate']} (BOD 22-01)._"
+        action += f"\n_US federal agencies must fix by {entry['dueDate']}._"
     return build_embed(
         title=f"🔥 Actively exploited: {cve_id}",
         url=nvd_link(cve_id),
@@ -346,12 +346,20 @@ def kev_embed(entry: dict, v: Vuln | None) -> dict:
 
 
 def overflow_embed(extra: list[tuple[Vuln, str, dict | None]]) -> dict:
-    lines = []
-    for v, _, _ in extra[:25]:
+    # Add whole lines until we near Discord's 4,096-character description
+    # limit. Letting build_embed() trim instead could cut a [link](url) in
+    # half and leave broken markdown at the end.
+    lines: list[str] = []
+    used = 0
+    for v, _, _ in extra:
         sev = f"{v.severity.title()} {v.score}" if v.severity else "Unscored"
-        lines.append(f"• [{v.cve_id}]({nvd_link(v.cve_id)}) — {sev} — {truncate(v.description, 90)}")
-    if len(extra) > 25:
-        lines.append(f"…and {len(extra) - 25} more")
+        line = f"• [{v.cve_id}]({nvd_link(v.cve_id)}) — {sev} — {truncate(v.description, 80)}"
+        if used + len(line) + 1 > 3900:
+            break
+        lines.append(line)
+        used += len(line) + 1
+    if len(extra) > len(lines):
+        lines.append(f"…and {len(extra) - len(lines)} more")
     return build_embed(
         title=f"+{len(extra)} more CVEs matched your filters this run",
         description="\n".join(lines),

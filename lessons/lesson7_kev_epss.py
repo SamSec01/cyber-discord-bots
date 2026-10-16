@@ -9,7 +9,7 @@ CISA KEV  (Known Exploited Vulnerabilities catalogue)
   A list of CVEs with evidence of exploitation in the wild. If it's on KEV,
   someone is attacking it right now. One JSON file, updated as CISA adds entries:
   https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json
-  "dueDate" is the US federal deadline (BOD 22-01) — a useful urgency signal
+  "dueDate" is the deadline US federal agencies must meet — a useful urgency signal
   for everyone else. "knownRansomwareCampaignUse" = "Known" means ransomware
   crews use it.
 

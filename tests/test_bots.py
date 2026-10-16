@@ -309,6 +309,16 @@ def test_errors_are_reported_once_until_they_change(tmp_path):
     assert s.new_errors(["Feed A: 403"]) == ["Feed A: 403"]          # broke again → tell me
 
 
+def test_overflow_summary_never_cuts_a_link_in_half():
+    many = [(vuln_bot.Vuln(f"CVE-2026-{100000 + i}", "Heap-based buffer overflow " * 10, severity="CRITICAL",
+                           score=9.8), "Critical severity", None) for i in range(900)]
+    embed = vuln_bot.overflow_embed(many)
+    desc = embed["description"]
+    assert len(desc) <= 4096
+    assert desc.endswith(" more")                      # ends on our own line, not a truncated link
+    assert desc.count("[") == desc.count("](")         # every link is complete
+
+
 def test_corrupt_state_is_treated_as_first_run(tmp_path):
     path = tmp_path / "state.json"
     path.write_text("{not json")
