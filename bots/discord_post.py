@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 import time
 from datetime import datetime
 
@@ -137,12 +138,15 @@ class Webhook:
         dry_run: bool = False,
         session: requests.Session | None = None,
     ):
+        # One secret can hold several webhook URLs separated by commas or
+        # spaces, so the same feed can go to more than one server.
+        self.urls = [u for u in re.split(r"[\s,]+", url or "") if u]
         if not dry_run:
-            if not url:
+            if not self.urls:
                 raise ValueError("Webhook URL is missing — set it in .env or GitHub Secrets")
-            if not url.startswith(VALID_PREFIXES):
-                raise ValueError("That doesn't look like a Discord webhook URL")
-        self.url = url
+            for u in self.urls:
+                if not u.startswith(VALID_PREFIXES):
+                    raise ValueError("That doesn't look like a Discord webhook URL")
         self.username = username or None
         self.avatar_url = avatar_url or None
         self.dry_run = dry_run
@@ -171,9 +175,15 @@ class Webhook:
             print(json.dumps(payload, indent=2, ensure_ascii=False))
             return True
 
+        # Counts as sent if at least one channel got it, so a single broken
+        # webhook doesn't cause duplicates in the channels that work.
+        results = [self._post(url, payload) for url in self.urls]
+        return any(results)
+
+    def _post(self, url: str, payload: dict) -> bool:
         for attempt in range(5):
             try:
-                resp = self.session.post(self.url, json=payload, params={"wait": "true"}, timeout=20)
+                resp = self.session.post(url, json=payload, params={"wait": "true"}, timeout=20)
             except requests.RequestException as exc:
                 log.warning("Discord request failed (%s), retrying", exc)
                 time.sleep(2 ** attempt)

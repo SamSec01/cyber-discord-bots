@@ -182,6 +182,21 @@ def test_webhook_rejects_non_discord_urls():
         discord_post.Webhook("https://evil.example/api/webhooks/1/x")
 
 
+def test_webhook_posts_to_every_url_in_the_secret(monkeypatch):
+    monkeypatch.setattr("time.sleep", lambda *_: None)
+    hit = []
+
+    class Session:
+        def post(self, url, **k):
+            hit.append(url)
+            return FakeResponse(404 if url.endswith("/dead") else 200, {})
+
+    hook = discord_post.Webhook("https://discord.com/api/webhooks/1/a, https://discord.com/api/webhooks/2/dead",
+                                session=Session())
+    assert hook.send(content="hi") is True        # one channel worked → counts as sent
+    assert hit == ["https://discord.com/api/webhooks/1/a", "https://discord.com/api/webhooks/2/dead"]
+
+
 def test_webhook_retries_after_rate_limit(monkeypatch):
     monkeypatch.setattr("time.sleep", lambda *_: None)
     responses = [FakeResponse(429, {"retry_after": 0.1}), FakeResponse(200, {"id": "1"})]
