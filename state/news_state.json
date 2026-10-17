@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-17T06:11:33Z"
+  "last_run": "2026-10-17T07:03:53Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -38,6 +38,7 @@
   "news:https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": "2026-10-17T07:03:51Z",
   "news:https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html": "2026-10-16T21:24:22Z",
