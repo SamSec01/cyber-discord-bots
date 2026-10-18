@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-18T08:10:13Z"
+  "last_run": "2026-10-18T08:51:11Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -28,6 +28,7 @@
   "news:https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html": "2026-10-18T08:51:09Z",
   "news:https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html": "2026-10-16T21:24:22Z",
