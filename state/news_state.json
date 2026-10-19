@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-19T19:05:33Z"
+  "last_run": "2026-10-19T19:56:15Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -79,6 +79,7 @@
   "news:https://therecord.media/ahold-delhaize-cyberattack-grocery": "2026-10-19T16:59:10Z",
   "news:https://therecord.media/anne-arundel-county-maryland-confirms-data-breach": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/beyond-trust-cyberattack-china": "2026-10-16T21:24:22Z",
+  "news:https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack": "2026-10-19T19:56:13Z",
   "news:https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/proofpoint-varonis-cybersecurity-acquisition": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/russia-cyberattack-firstvds-cloud": "2026-10-19T11:58:15Z",
@@ -104,6 +105,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": "2026-10-17T15:47:45Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": "2026-10-18T14:48:51Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/": "2026-10-19T19:56:11Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": "2026-10-19T14:05:38Z",
   "news:https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": "2026-10-16T21:24:22Z",
