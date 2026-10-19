@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-19T13:11:17Z"
+  "last_run": "2026-10-19T14:05:40Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -11,6 +11,7 @@
   "news:https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/": "2026-10-16T21:24:22Z",
+  "news:https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/": "2026-10-19T14:05:32Z",
   "news:https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/": "2026-10-16T21:24:22Z",
@@ -36,6 +37,8 @@
   "news:https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html": "2026-10-19T11:58:12Z",
   "news:https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html": "2026-10-19T14:05:25Z",
+  "news:https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html": "2026-10-19T14:05:27Z",
   "news:https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html": "2026-10-16T21:24:22Z",
@@ -88,11 +91,13 @@
   "news:https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": "2026-10-16T21:24:24Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-10-19T14:05:34Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": "2026-10-17T15:47:45Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": "2026-10-18T14:48:51Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": "2026-10-19T14:05:38Z",
   "news:https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/": "2026-10-16T21:24:22Z",
@@ -143,6 +148,7 @@
   "news:https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience": "2026-10-19T14:05:36Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday": "2026-10-16T21:24:22Z",
@@ -169,6 +175,7 @@
   "news:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/": "2026-10-19T08:07:50Z",
   "news:https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
