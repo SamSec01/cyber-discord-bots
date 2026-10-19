@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-19T10:59:08Z"
+  "last_run": "2026-10-19T11:23:58Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -167,6 +167,7 @@
   "news:https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": "2026-10-17T11:09:48Z",
