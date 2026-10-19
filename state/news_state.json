@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-19T20:18:44Z"
+  "last_run": "2026-10-19T20:55:28Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -145,6 +145,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/writing-next-chapter": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery": "2026-10-19T20:55:26Z",
   "news:https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs": "2026-10-16T21:24:27Z",
   "news:https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes": "2026-10-16T21:24:22Z",
