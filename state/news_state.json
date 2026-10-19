@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-19T18:14:49Z"
+  "last_run": "2026-10-19T19:05:33Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -43,6 +43,7 @@
   "news:https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": "2026-10-19T19:05:25Z",
   "news:https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": "2026-10-17T07:03:51Z",
   "news:https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html": "2026-10-16T21:24:22Z",
@@ -83,6 +84,7 @@
   "news:https://therecord.media/russia-cyberattack-firstvds-cloud": "2026-10-19T11:58:15Z",
   "news:https://therecord.media/russia-datasuckers-hackers-arrested": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center": "2026-10-19T16:19:09Z",
+  "news:https://therecord.media/serbia-spyware-pegasus-elections": "2026-10-19T19:05:29Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/": "2026-10-19T13:11:15Z",
@@ -92,6 +94,7 @@
   "news:https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/": "2026-10-19T19:05:31Z",
   "news:https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": "2026-10-16T21:24:24Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
@@ -196,6 +199,7 @@
   "news:https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/": "2026-10-19T13:11:13Z",
   "news:https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": "2026-10-19T15:55:39Z",
+  "news:https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/": "2026-10-19T19:05:27Z",
   "news:https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/": "2026-10-18T11:10:04Z",
   "news:https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/": "2026-10-16T21:24:22Z"
