@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-20T14:59:00Z"
+  "last_run": "2026-10-20T15:24:31Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -49,6 +49,7 @@
   "news:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": "2026-10-19T19:05:25Z",
   "news:https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html": "2026-10-20T10:17:10Z",
+  "news:https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html": "2026-10-20T15:24:25Z",
   "news:https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": "2026-10-17T07:03:51Z",
   "news:https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html": "2026-10-16T21:24:22Z",
@@ -92,6 +93,7 @@
   "news:https://therecord.media/aomei-yet-to-notify-customers-hijack-software": "2026-10-20T14:58:56Z",
   "news:https://therecord.media/beyond-trust-cyberattack-china": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack": "2026-10-19T19:56:13Z",
+  "news:https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack": "2026-10-20T15:24:29Z",
   "news:https://therecord.media/european-defense-contractors-fancy-bear-espionage": "2026-10-20T10:17:12Z",
   "news:https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/proofpoint-varonis-cybersecurity-acquisition": "2026-10-16T21:24:22Z",
@@ -148,6 +150,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn": "2026-10-20T15:24:27Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america": "2026-10-16T21:24:22Z",
