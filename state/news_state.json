@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-20T06:16:15Z"
+  "last_run": "2026-10-20T07:10:23Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -34,6 +34,7 @@
   "news:https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html": "2026-10-20T07:10:21Z",
   "news:https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html": "2026-10-19T11:58:12Z",
   "news:https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html": "2026-10-16T21:24:22Z",
