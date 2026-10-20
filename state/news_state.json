@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-20T14:01:57Z"
+  "last_run": "2026-10-20T14:59:00Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -88,6 +88,8 @@
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/ahold-delhaize-cyberattack-grocery": "2026-10-19T16:59:10Z",
   "news:https://therecord.media/anne-arundel-county-maryland-confirms-data-breach": "2026-10-16T21:24:22Z",
+  "news:https://therecord.media/anti-putin-messages-disrupt-russian-education-platform": "2026-10-20T14:58:54Z",
+  "news:https://therecord.media/aomei-yet-to-notify-customers-hijack-software": "2026-10-20T14:58:56Z",
   "news:https://therecord.media/beyond-trust-cyberattack-china": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack": "2026-10-19T19:56:13Z",
   "news:https://therecord.media/european-defense-contractors-fancy-bear-espionage": "2026-10-20T10:17:12Z",
@@ -113,6 +115,7 @@
   "news:https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": "2026-10-20T14:01:53Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": "2026-10-16T21:24:24Z",
+  "news:https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/": "2026-10-20T14:58:58Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-10-19T14:05:34Z",
