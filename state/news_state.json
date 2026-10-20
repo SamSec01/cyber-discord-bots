@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-20T08:25:32Z"
+  "last_run": "2026-10-20T08:59:28Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -177,6 +177,7 @@
   "news:https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/help-shape-the-future-of-resilient-private-5g": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/how-bitlocker-pins-help-protect-your-data-and-devices": "2026-10-16T21:24:22Z",
+  "news:https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book": "2026-10-20T08:59:26Z",
   "news:https://www.ncsc.gov.uk/blogs/making-forensic-observability-the-norm-for-network-devices": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/managing-the-cyber-risk-of-agentic-ai": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/one-does-not-simply-defend-agentically": "2026-10-16T21:24:22Z",
