@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-20T18:16:56Z"
+  "last_run": "2026-10-20T19:04:26Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -37,6 +37,7 @@
   "news:https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html": "2026-10-20T19:04:22Z",
   "news:https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html": "2026-10-20T07:10:21Z",
   "news:https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html": "2026-10-19T11:58:12Z",
@@ -89,6 +90,7 @@
   "news:https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html": "2026-10-20T13:10:13Z",
   "news:https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
+  "news:https://therecord.media/23andme-california-data-breach-settlement": "2026-10-20T19:04:24Z",
   "news:https://therecord.media/ahold-delhaize-cyberattack-grocery": "2026-10-19T16:59:10Z",
   "news:https://therecord.media/anne-arundel-county-maryland-confirms-data-breach": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/anti-putin-messages-disrupt-russian-education-platform": "2026-10-20T14:58:54Z",
