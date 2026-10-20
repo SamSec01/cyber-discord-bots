@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-20T15:57:27Z"
+  "last_run": "2026-10-20T16:23:19Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -32,6 +32,7 @@
   "news:https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html": "2026-10-20T07:59:21Z",
   "news:https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html": "2026-10-20T13:10:02Z",
   "news:https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html": "2026-10-18T08:51:09Z",
+  "news:https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html": "2026-10-20T16:23:17Z",
   "news:https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html": "2026-10-16T21:24:22Z",
@@ -70,6 +71,7 @@
   "news:https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html": "2026-10-20T14:01:44Z",
   "news:https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html": "2026-10-19T17:21:58Z",
   "news:https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html": "2026-10-20T16:23:12Z",
   "news:https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html": "2026-10-20T04:55:53Z",
@@ -138,6 +140,7 @@
   "news:https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/": "2026-10-19T21:52:50Z",
   "news:https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": "2026-10-20T16:23:15Z",
   "news:https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": "2026-10-16T21:24:22Z",
