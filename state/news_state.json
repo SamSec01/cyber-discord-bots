@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-20T04:19:52Z"
+  "last_run": "2026-10-20T04:55:55Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -65,6 +65,7 @@
   "news:https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html": "2026-10-20T04:55:53Z",
   "news:https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html": "2026-10-16T21:24:22Z",
