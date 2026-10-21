@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T12:21:27Z"
+  "last_run": "2026-10-21T13:12:08Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -27,6 +27,7 @@
   "news:https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html": "2026-10-21T11:20:26Z",
   "news:https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html": "2026-10-21T13:11:59Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html": "2026-10-21T08:02:50Z",
   "news:https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html": "2026-10-16T21:24:22Z",
@@ -46,6 +47,7 @@
   "news:https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html": "2026-10-19T11:58:12Z",
   "news:https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html": "2026-10-19T14:05:25Z",
+  "news:https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html": "2026-10-21T13:11:57Z",
   "news:https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html": "2026-10-19T14:05:27Z",
   "news:https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": "2026-10-16T21:24:22Z",
@@ -176,6 +178,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack": "2026-10-21T13:12:06Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn": "2026-10-20T15:24:27Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage": "2026-10-16T21:24:22Z",
@@ -263,10 +266,12 @@
   "news:https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": "2026-10-21T06:17:19Z",
   "news:https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": "2026-10-17T11:09:48Z",
+  "news:https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/": "2026-10-21T13:12:03Z",
   "news:https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/": "2026-10-20T11:54:59Z",
   "news:https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/": "2026-10-19T10:00:06Z",
   "news:https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/": "2026-10-19T11:58:17Z",
+  "news:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": "2026-10-21T13:12:01Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/": "2026-10-21T07:13:07Z",
   "news:https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/": "2026-10-19T13:11:13Z",
