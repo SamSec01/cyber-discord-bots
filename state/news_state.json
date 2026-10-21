@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T17:21:58Z"
+  "last_run": "2026-10-21T17:54:05Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -118,6 +118,7 @@
   "news:https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims": "2026-10-20T20:55:13Z",
   "news:https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks": "2026-10-20T17:24:06Z",
+  "news:https://therecord.media/php-foundation-statement-critical-vulnerabilities": "2026-10-21T17:54:03Z",
   "news:https://therecord.media/php-script-vulnerabilities-warnings": "2026-10-21T14:57:33Z",
   "news:https://therecord.media/proofpoint-varonis-cybersecurity-acquisition": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/russia-cyberattack-firstvds-cloud": "2026-10-19T11:58:15Z",
