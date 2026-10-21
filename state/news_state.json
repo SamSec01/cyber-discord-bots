@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T09:00:42Z"
+  "last_run": "2026-10-21T09:57:47Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -21,6 +21,7 @@
   "news:https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html": "2026-10-21T09:57:42Z",
   "news:https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": "2026-10-16T21:24:22Z",
@@ -87,6 +88,7 @@
   "news:https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html": "2026-10-19T08:07:47Z",
+  "news:https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html": "2026-10-21T09:57:40Z",
   "news:https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html": "2026-10-19T15:00:48Z",
@@ -228,6 +230,7 @@
   "news:https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data": "2026-10-16T21:24:22Z",
+  "news:https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php": "2026-10-21T09:57:45Z",
   "news:https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/incident-affecting-asos-customers": "2026-10-16T21:24:22Z",
