@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T16:58:18Z"
+  "last_run": "2026-10-21T17:21:58Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -75,6 +75,7 @@
   "news:https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html": "2026-10-21T17:21:52Z",
   "news:https://thehackernews.com/2026/10/opencode-console-breach-may-have.html": "2026-10-19T08:07:45Z",
   "news:https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html": "2026-10-20T14:01:44Z",
@@ -189,6 +190,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn": "2026-10-20T15:24:27Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors": "2026-10-21T17:21:54Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting": "2026-10-16T21:24:22Z",
@@ -273,6 +275,7 @@
   "news:https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/": "2026-10-20T13:10:16Z",
   "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/": "2026-10-21T17:21:56Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
   "news:https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/": "2026-10-21T15:22:00Z",
   "news:https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": "2026-10-21T06:17:19Z",
