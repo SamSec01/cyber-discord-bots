@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T21:17:02Z"
+  "last_run": "2026-10-21T21:56:27Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -165,6 +165,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": "2026-10-19T14:05:38Z",
   "news:https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/": "2026-10-21T21:56:25Z",
   "news:https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/": "2026-10-21T20:55:32Z",
   "news:https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": "2026-10-21T01:07:54Z",
   "news:https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": "2026-10-19T21:52:53Z",
@@ -187,6 +188,7 @@
   "news:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss": "2026-10-21T20:14:47Z",
   "news:https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security": "2026-10-21T20:55:28Z",
+  "news:https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security": "2026-10-21T21:56:23Z",
   "news:https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise": "2026-10-16T21:24:22Z",
