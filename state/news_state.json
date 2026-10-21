@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T17:54:05Z"
+  "last_run": "2026-10-21T18:16:12Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -67,6 +67,7 @@
   "news:https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html": "2026-10-21T18:16:10Z",
   "news:https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html": "2026-10-17T11:46:43Z",
   "news:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html": "2026-10-16T21:24:22Z",
