@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T19:54:22Z"
+  "last_run": "2026-10-21T20:14:49Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -38,6 +38,7 @@
   "news:https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html": "2026-10-20T13:10:02Z",
   "news:https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html": "2026-10-18T08:51:09Z",
   "news:https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html": "2026-10-20T16:23:17Z",
+  "news:https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html": "2026-10-21T20:14:42Z",
   "news:https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html": "2026-10-16T21:24:22Z",
@@ -180,7 +181,9 @@
   "news:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": "2026-10-20T16:23:15Z",
   "news:https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry": "2026-10-21T20:14:45Z",
   "news:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss": "2026-10-21T20:14:47Z",
   "news:https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise": "2026-10-16T21:24:22Z",
