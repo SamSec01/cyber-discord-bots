@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T13:12:08Z"
+  "last_run": "2026-10-21T14:00:36Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -53,6 +53,7 @@
   "news:https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html": "2026-10-20T13:10:09Z",
+  "news:https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html": "2026-10-21T14:00:31Z",
   "news:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": "2026-10-19T19:05:25Z",
   "news:https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html": "2026-10-21T08:02:47Z",
@@ -251,6 +252,7 @@
   "news:https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/": "2026-10-20T13:10:18Z",
   "news:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/": "2026-10-19T08:07:50Z",
   "news:https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": "2026-10-20T14:01:55Z",
+  "news:https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/": "2026-10-21T14:00:34Z",
   "news:https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/": "2026-10-21T11:56:49Z",
   "news:https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/": "2026-10-21T11:20:33Z",
