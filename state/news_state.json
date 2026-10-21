@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T09:57:47Z"
+  "last_run": "2026-10-21T10:22:33Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -117,6 +117,7 @@
   "news:https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction": "2026-10-19T20:18:42Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": "2026-10-20T18:16:54Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/": "2026-10-21T10:22:31Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/": "2026-10-19T13:11:15Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/": "2026-10-19T15:00:50Z",
@@ -244,6 +245,7 @@
   "news:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/": "2026-10-19T08:07:50Z",
   "news:https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": "2026-10-20T14:01:55Z",
   "news:https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/": "2026-10-21T10:22:29Z",
   "news:https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
