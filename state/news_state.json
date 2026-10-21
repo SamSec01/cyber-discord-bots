@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T15:22:04Z"
+  "last_run": "2026-10-21T15:59:59Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -15,6 +15,7 @@
   "news:https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/": "2026-10-16T21:24:22Z",
+  "news:https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/": "2026-10-21T15:59:54Z",
   "news:https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html": "2026-10-16T21:24:22Z",
@@ -193,6 +194,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable": "2026-10-21T15:59:57Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": "2026-10-16T21:24:22Z",
