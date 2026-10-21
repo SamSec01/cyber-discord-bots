@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T14:57:35Z"
+  "last_run": "2026-10-21T15:22:04Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -77,6 +77,7 @@
   "news:https://thehackernews.com/2026/10/opencode-console-breach-may-have.html": "2026-10-19T08:07:45Z",
   "news:https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html": "2026-10-20T14:01:44Z",
+  "news:https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html": "2026-10-21T15:21:58Z",
   "news:https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html": "2026-10-21T05:54:46Z",
   "news:https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html": "2026-10-21T11:20:31Z",
   "news:https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html": "2026-10-19T17:21:58Z",
@@ -262,12 +263,14 @@
   "news:https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/": "2026-10-21T10:22:29Z",
   "news:https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
+  "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/": "2026-10-19T15:55:41Z",
   "news:https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/": "2026-10-20T13:10:16Z",
   "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
+  "news:https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/": "2026-10-21T15:22:00Z",
   "news:https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": "2026-10-21T06:17:19Z",
   "news:https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": "2026-10-17T11:09:48Z",
