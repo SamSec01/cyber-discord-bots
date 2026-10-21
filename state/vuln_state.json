@@ -2,10 +2,10 @@
  "meta": {
   "kev_seeded": true,
   "last_errors": [
-   "NVD: Response ended prematurely"
+   "NVD: HTTPSConnectionPool(host='services.nvd.nist.gov', port=443): Read timed out."
   ],
   "last_nvd_end": "2026-10-21T13:53:08Z",
-  "last_run": "2026-10-21T14:51:13Z"
+  "last_run": "2026-10-21T15:52:06Z"
  },
  "seen": {
   "kev:CVE-2002-0367": "2026-10-16T21:24:43Z",
