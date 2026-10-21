@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T05:19:17Z"
+  "last_run": "2026-10-21T05:54:48Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -70,6 +70,7 @@
   "news:https://thehackernews.com/2026/10/opencode-console-breach-may-have.html": "2026-10-19T08:07:45Z",
   "news:https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html": "2026-10-20T14:01:44Z",
+  "news:https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html": "2026-10-21T05:54:46Z",
   "news:https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html": "2026-10-19T17:21:58Z",
   "news:https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html": "2026-10-20T16:23:12Z",
