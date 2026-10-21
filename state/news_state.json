@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-21T07:13:09Z"
+  "last_run": "2026-10-21T08:02:54Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -26,6 +26,7 @@
   "news:https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html": "2026-10-21T08:02:50Z",
   "news:https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html": "2026-10-16T21:24:22Z",
@@ -50,6 +51,7 @@
   "news:https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html": "2026-10-20T13:10:09Z",
   "news:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": "2026-10-19T19:05:25Z",
+  "news:https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html": "2026-10-21T08:02:47Z",
   "news:https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html": "2026-10-20T10:17:10Z",
   "news:https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html": "2026-10-20T15:24:25Z",
   "news:https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": "2026-10-17T07:03:51Z",
@@ -80,6 +82,7 @@
   "news:https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html": "2026-10-20T13:10:05Z",
   "news:https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html": "2026-10-21T08:02:52Z",
   "news:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html": "2026-10-16T21:24:22Z",
