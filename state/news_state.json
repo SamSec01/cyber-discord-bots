@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-22T19:55:47Z"
+  "last_run": "2026-10-22T20:17:29Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -21,6 +21,7 @@
   "news:https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html": "2026-10-22T20:17:27Z",
   "news:https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html": "2026-10-21T09:57:42Z",
   "news:https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html": "2026-10-16T21:24:22Z",
