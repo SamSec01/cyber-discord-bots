@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-22T14:01:26Z"
+  "last_run": "2026-10-22T14:58:01Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -67,6 +67,7 @@
   "news:https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html": "2026-10-22T14:57:54Z",
   "news:https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html": "2026-10-21T18:16:10Z",
@@ -182,6 +183,7 @@
   "news:https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/": "2026-10-21T21:56:25Z",
   "news:https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/": "2026-10-21T20:55:32Z",
+  "news:https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/": "2026-10-22T14:57:56Z",
   "news:https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": "2026-10-21T01:07:54Z",
   "news:https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": "2026-10-19T21:52:53Z",
   "news:https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/": "2026-10-21T16:58:13Z",
@@ -306,6 +308,7 @@
   "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/": "2026-10-21T17:21:56Z",
+  "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
   "news:https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/": "2026-10-21T15:22:00Z",
   "news:https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": "2026-10-21T06:17:19Z",
