@@ -1,9 +1,11 @@
 {
  "meta": {
   "kev_seeded": true,
-  "last_errors": [],
+  "last_errors": [
+   "NVD: Response ended prematurely"
+  ],
   "last_nvd_end": "2026-10-22T22:43:40Z",
-  "last_run": "2026-10-22T22:45:10Z"
+  "last_run": "2026-10-22T23:43:55Z"
  },
  "seen": {
   "kev:CVE-2002-0367": "2026-10-16T21:24:43Z",
