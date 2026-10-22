@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-22T13:12:09Z"
+  "last_run": "2026-10-22T14:01:26Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -101,6 +101,7 @@
   "news:https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html": "2026-10-22T09:59:00Z",
   "news:https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html": "2026-10-21T08:02:52Z",
+  "news:https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html": "2026-10-22T14:01:20Z",
   "news:https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html": "2026-10-21T11:20:28Z",
   "news:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html": "2026-10-16T21:24:22Z",
@@ -115,6 +116,7 @@
   "news:https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/23andme-california-data-breach-settlement": "2026-10-20T19:04:24Z",
+  "news:https://therecord.media/africa-cybercrime-interpol-arrests": "2026-10-22T14:01:24Z",
   "news:https://therecord.media/ahold-delhaize-cyberattack-grocery": "2026-10-19T16:59:10Z",
   "news:https://therecord.media/anne-arundel-county-maryland-confirms-data-breach": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/anti-putin-messages-disrupt-russian-education-platform": "2026-10-20T14:58:54Z",
@@ -308,6 +310,7 @@
   "news:https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/": "2026-10-21T15:22:00Z",
   "news:https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": "2026-10-21T06:17:19Z",
   "news:https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/": "2026-10-22T14:01:22Z",
   "news:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": "2026-10-17T11:09:48Z",
   "news:https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/": "2026-10-21T13:12:03Z",
   "news:https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/": "2026-10-22T08:04:37Z",
