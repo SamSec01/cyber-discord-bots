@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-22T09:02:30Z"
+  "last_run": "2026-10-22T09:59:11Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -70,12 +70,15 @@
   "news:https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html": "2026-10-21T18:16:10Z",
+  "news:https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html": "2026-10-22T09:59:07Z",
   "news:https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html": "2026-10-17T11:46:43Z",
   "news:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html": "2026-10-22T09:59:02Z",
   "news:https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html": "2026-10-22T09:59:05Z",
   "news:https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html": "2026-10-21T17:21:52Z",
@@ -94,6 +97,7 @@
   "news:https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html": "2026-10-20T13:10:05Z",
   "news:https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html": "2026-10-22T09:59:00Z",
   "news:https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html": "2026-10-21T08:02:52Z",
   "news:https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html": "2026-10-21T11:20:28Z",
   "news:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html": "2026-10-16T21:24:22Z",
@@ -130,6 +134,7 @@
   "news:https://therecord.media/russia-datasuckers-hackers-arrested": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center": "2026-10-19T16:19:09Z",
   "news:https://therecord.media/serbia-spyware-pegasus-elections": "2026-10-19T19:05:29Z",
+  "news:https://therecord.media/ukraine-hackers-russia-grain-sandworm": "2026-10-22T09:58:58Z",
   "news:https://therecord.media/utilities-cybersecurity-initiative-accenture": "2026-10-21T19:54:20Z",
   "news:https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction": "2026-10-19T20:18:42Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": "2026-10-20T18:16:54Z",
@@ -307,6 +312,7 @@
   "news:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": "2026-10-21T13:12:01Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
+  "news:https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/": "2026-10-22T09:59:09Z",
   "news:https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/": "2026-10-21T07:13:07Z",
   "news:https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/": "2026-10-21T16:58:16Z",
   "news:https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/": "2026-10-19T13:11:13Z",
