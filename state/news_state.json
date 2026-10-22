@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-22T20:17:29Z"
+  "last_run": "2026-10-22T20:56:04Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -171,6 +171,7 @@
   "news:https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/": "2026-10-19T19:05:31Z",
   "news:https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T20:56:02Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T09:00:40Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": "2026-10-21T19:05:32Z",
   "news:https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": "2026-10-20T14:01:53Z",
@@ -256,6 +257,7 @@
   "news:https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs": "2026-10-16T21:24:27Z",
   "news:https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french": "2026-10-22T20:55:59Z",
   "news:https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps": "2026-10-19T21:15:21Z",
   "news:https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable": "2026-10-16T21:24:22Z",
