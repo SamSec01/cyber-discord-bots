@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-23T17:02:23Z"
+  "last_run": "2026-10-23T17:52:54Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -142,6 +142,7 @@
   "news:https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack": "2026-10-20T15:24:29Z",
   "news:https://therecord.media/european-defense-contractors-fancy-bear-espionage": "2026-10-20T10:17:12Z",
   "news:https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims": "2026-10-20T20:55:13Z",
+  "news:https://therecord.media/fcc-bans-devices-huawei-surveillance-chips": "2026-10-23T17:52:52Z",
   "news:https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident": "2026-10-22T19:05:30Z",
   "news:https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case": "2026-10-21T20:55:30Z",
@@ -170,6 +171,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/": "2026-10-19T09:03:17Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/": "2026-10-21T12:21:25Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/": "2026-10-22T15:56:49Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": "2026-10-23T17:52:48Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/": "2026-10-20T13:10:07Z",
   "news:https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/": "2026-10-20T11:54:57Z",
@@ -261,6 +263,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable": "2026-10-21T15:59:57Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack": "2026-10-23T12:15:28Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost": "2026-10-23T17:52:50Z",
   "news:https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-": "2026-10-16T21:24:22Z",
