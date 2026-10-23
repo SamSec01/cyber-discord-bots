@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-23T07:12:20Z"
+  "last_run": "2026-10-23T08:00:55Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -91,12 +91,14 @@
   "news:https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html": "2026-10-20T14:01:44Z",
   "news:https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html": "2026-10-21T15:21:58Z",
+  "news:https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html": "2026-10-23T08:00:50Z",
   "news:https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html": "2026-10-21T05:54:46Z",
   "news:https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html": "2026-10-21T11:20:31Z",
   "news:https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html": "2026-10-19T17:21:58Z",
   "news:https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html": "2026-10-20T16:23:12Z",
   "news:https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html": "2026-10-22T11:20:28Z",
+  "news:https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html": "2026-10-23T08:00:53Z",
   "news:https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html": "2026-10-20T04:55:53Z",
