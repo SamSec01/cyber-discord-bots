@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-23T11:56:09Z"
+  "last_run": "2026-10-23T12:15:30Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -227,6 +227,7 @@
   "news:https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security": "2026-10-21T21:56:23Z",
   "news:https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage": "2026-10-23T12:15:25Z",
   "news:https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too": "2026-10-16T21:24:22Z",
@@ -249,6 +250,7 @@
   "news:https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable": "2026-10-21T15:59:57Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack": "2026-10-23T12:15:28Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": "2026-10-16T21:24:22Z",
