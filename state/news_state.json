@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-23T19:51:05Z"
+  "last_run": "2026-10-23T20:12:19Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -232,6 +232,7 @@
   "news:https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": "2026-10-20T16:23:15Z",
+  "news:https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice": "2026-10-23T20:12:17Z",
   "news:https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry": "2026-10-21T20:14:45Z",
