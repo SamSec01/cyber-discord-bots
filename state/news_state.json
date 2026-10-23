@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-23T11:17:35Z"
+  "last_run": "2026-10-23T11:56:09Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -105,6 +105,7 @@
   "news:https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html": "2026-10-20T04:55:53Z",
   "news:https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html": "2026-10-20T13:10:05Z",
+  "news:https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html": "2026-10-23T11:56:05Z",
   "news:https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html": "2026-10-22T09:59:00Z",
@@ -117,6 +118,7 @@
   "news:https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html": "2026-10-22T19:05:23Z",
   "news:https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html": "2026-10-19T08:07:47Z",
+  "news:https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html": "2026-10-23T11:56:07Z",
   "news:https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html": "2026-10-21T09:57:40Z",
   "news:https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html": "2026-10-16T21:24:22Z",
