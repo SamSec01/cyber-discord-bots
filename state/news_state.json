@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-23T08:58:47Z"
+  "last_run": "2026-10-23T09:24:24Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -42,6 +42,7 @@
   "news:https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html": "2026-10-20T16:23:17Z",
   "news:https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html": "2026-10-21T20:14:42Z",
   "news:https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html": "2026-10-23T09:24:22Z",
   "news:https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html": "2026-10-16T21:24:22Z",
