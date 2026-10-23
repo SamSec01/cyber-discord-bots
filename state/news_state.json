@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-23T09:57:12Z"
+  "last_run": "2026-10-23T10:21:24Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -39,6 +39,7 @@
   "news:https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html": "2026-10-20T07:59:21Z",
   "news:https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html": "2026-10-20T13:10:02Z",
   "news:https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html": "2026-10-18T08:51:09Z",
+  "news:https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html": "2026-10-23T10:21:19Z",
   "news:https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html": "2026-10-20T16:23:17Z",
   "news:https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html": "2026-10-21T20:14:42Z",
   "news:https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": "2026-10-16T21:24:22Z",
@@ -316,6 +317,7 @@
   "news:https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": "2026-10-20T14:01:55Z",
   "news:https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/": "2026-10-21T14:00:34Z",
   "news:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/": "2026-10-23T08:58:39Z",
+  "news:https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/": "2026-10-23T10:21:22Z",
   "news:https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/": "2026-10-21T11:56:49Z",
   "news:https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/": "2026-10-21T11:20:33Z",
