@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-23T17:52:54Z"
+  "last_run": "2026-10-23T18:14:21Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -50,6 +50,7 @@
   "news:https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html": "2026-10-20T19:04:22Z",
   "news:https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html": "2026-10-22T19:05:27Z",
   "news:https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html": "2026-10-20T07:10:21Z",
+  "news:https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html": "2026-10-23T18:14:17Z",
   "news:https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html": "2026-10-19T11:58:12Z",
   "news:https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html": "2026-10-16T21:24:22Z",
@@ -105,6 +106,7 @@
   "news:https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html": "2026-10-20T04:55:53Z",
+  "news:https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html": "2026-10-23T18:14:19Z",
   "news:https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html": "2026-10-20T13:10:05Z",
   "news:https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html": "2026-10-23T11:56:05Z",
   "news:https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html": "2026-10-16T21:24:22Z",
@@ -148,6 +150,7 @@
   "news:https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case": "2026-10-21T20:55:30Z",
   "news:https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks": "2026-10-20T17:24:06Z",
   "news:https://therecord.media/php-foundation-statement-critical-vulnerabilities": "2026-10-21T17:54:03Z",
+  "news:https://therecord.media/php-php2shell-exploitation-attempts-pocs": "2026-10-23T18:14:15Z",
   "news:https://therecord.media/php-script-vulnerabilities-warnings": "2026-10-21T14:57:33Z",
   "news:https://therecord.media/proofpoint-varonis-cybersecurity-acquisition": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/quest-diagnostics-network-intrusion": "2026-10-23T13:07:20Z",
