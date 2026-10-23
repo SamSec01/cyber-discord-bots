@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-23T18:14:21Z"
+  "last_run": "2026-10-23T19:03:42Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -28,6 +28,7 @@
   "news:https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html": "2026-10-21T11:20:26Z",
   "news:https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html": "2026-10-23T19:03:38Z",
   "news:https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html": "2026-10-21T13:11:59Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": "2026-10-16T21:24:22Z",
@@ -174,6 +175,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/": "2026-10-19T09:03:17Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/": "2026-10-21T12:21:25Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/": "2026-10-22T15:56:49Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/": "2026-10-23T19:03:40Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": "2026-10-23T17:52:48Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/": "2026-10-20T13:10:07Z",
