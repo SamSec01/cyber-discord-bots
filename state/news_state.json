@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-25T07:08:21Z"
+  "last_run": "2026-10-25T07:54:59Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -92,6 +92,7 @@
   "news:https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html": "2026-10-22T09:59:05Z",
+  "news:https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html": "2026-10-25T07:54:57Z",
   "news:https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html": "2026-10-21T17:21:52Z",
