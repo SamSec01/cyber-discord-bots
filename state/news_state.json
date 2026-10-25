@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-25T18:11:00Z"
+  "last_run": "2026-10-25T18:56:54Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -102,6 +102,7 @@
   "news:https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html": "2026-10-20T14:01:44Z",
   "news:https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html": "2026-10-21T15:21:58Z",
   "news:https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html": "2026-10-23T08:00:50Z",
+  "news:https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html": "2026-10-25T18:56:50Z",
   "news:https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html": "2026-10-21T05:54:46Z",
   "news:https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html": "2026-10-21T11:20:31Z",
   "news:https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html": "2026-10-19T17:21:58Z",
@@ -128,6 +129,7 @@
   "news:https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html": "2026-10-22T19:05:23Z",
   "news:https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html": "2026-10-19T08:07:47Z",
+  "news:https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html": "2026-10-25T18:56:52Z",
   "news:https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html": "2026-10-23T11:56:07Z",
   "news:https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html": "2026-10-21T09:57:40Z",
   "news:https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html": "2026-10-16T21:24:22Z",
