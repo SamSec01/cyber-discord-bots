@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-26T10:07:37Z"
+  "last_run": "2026-10-26T11:02:53Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -131,6 +131,7 @@
   "news:https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html": "2026-10-22T19:05:23Z",
   "news:https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html": "2026-10-26T11:02:46Z",
   "news:https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html": "2026-10-19T08:07:47Z",
   "news:https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html": "2026-10-25T18:56:52Z",
   "news:https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html": "2026-10-23T11:56:07Z",
@@ -178,6 +179,7 @@
   "news:https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction": "2026-10-19T20:18:42Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": "2026-10-20T18:16:54Z",
   "news:https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/": "2026-10-21T22:16:57Z",
+  "news:https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/": "2026-10-26T11:02:51Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/": "2026-10-21T10:22:31Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/": "2026-10-16T21:24:22Z",
@@ -389,6 +391,7 @@
   "news:https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/": "2026-10-23T13:07:16Z",
   "news:https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/": "2026-10-19T10:00:06Z",
   "news:https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/": "2026-10-26T10:07:33Z",
+  "news:https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/": "2026-10-26T11:02:49Z",
   "news:https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/": "2026-10-19T11:58:17Z",
   "news:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": "2026-10-21T13:12:01Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
