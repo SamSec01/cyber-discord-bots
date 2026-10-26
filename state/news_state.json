@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-26T11:02:53Z"
+  "last_run": "2026-10-26T13:41:38Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -28,6 +28,7 @@
   "news:https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html": "2026-10-21T11:20:26Z",
   "news:https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html": "2026-10-26T13:41:23Z",
   "news:https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html": "2026-10-23T19:03:38Z",
   "news:https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html": "2026-10-24T10:51:46Z",
   "news:https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html": "2026-10-16T21:24:22Z",
@@ -129,6 +130,7 @@
   "news:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html": "2026-10-22T19:05:25Z",
   "news:https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html": "2026-10-26T13:41:30Z",
   "news:https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html": "2026-10-22T19:05:23Z",
   "news:https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html": "2026-10-26T11:02:46Z",
@@ -160,6 +162,7 @@
   "news:https://therecord.media/fcc-bans-devices-huawei-surveillance-chips": "2026-10-23T17:52:52Z",
   "news:https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident": "2026-10-22T19:05:30Z",
+  "news:https://therecord.media/litellm-hackers-ai-malware": "2026-10-26T13:41:32Z",
   "news:https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case": "2026-10-21T20:55:30Z",
   "news:https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks": "2026-10-20T17:24:06Z",
   "news:https://therecord.media/php-foundation-statement-critical-vulnerabilities": "2026-10-21T17:54:03Z",
@@ -349,6 +352,7 @@
   "news:https://www.ncsc.gov.uk/news/ncsc-statement-in-response-to-recent-incidents-resulting-from-frontier-ai-evaluations": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/": "2026-10-23T08:58:45Z",
+  "news:https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/": "2026-10-26T13:41:34Z",
   "news:https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/": "2026-10-20T09:56:39Z",
   "news:https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/": "2026-10-21T04:56:38Z",
   "news:https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/": "2026-10-20T14:01:46Z",
@@ -369,6 +373,7 @@
   "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/": "2026-10-19T15:55:41Z",
+  "news:https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/": "2026-10-26T13:41:27Z",
   "news:https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/": "2026-10-20T13:10:16Z",
   "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
@@ -396,6 +401,7 @@
   "news:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": "2026-10-21T13:12:01Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
+  "news:https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/": "2026-10-26T13:41:36Z",
   "news:https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/": "2026-10-22T09:59:09Z",
   "news:https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/": "2026-10-21T07:13:07Z",
   "news:https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/": "2026-10-21T16:58:16Z",
