@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-26T20:22:09Z"
+  "last_run": "2026-10-26T20:58:39Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -188,6 +188,7 @@
   "news:https://therecord.media/ukraine-hackers-russia-grain-sandworm": "2026-10-22T09:58:58Z",
   "news:https://therecord.media/utilities-cybersecurity-initiative-accenture": "2026-10-21T19:54:20Z",
   "news:https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction": "2026-10-19T20:18:42Z",
+  "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/": "2026-10-26T20:58:37Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": "2026-10-20T18:16:54Z",
   "news:https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/": "2026-10-21T22:16:57Z",
   "news:https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/": "2026-10-26T11:02:51Z",
