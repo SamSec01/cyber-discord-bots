@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-26T19:16:55Z"
+  "last_run": "2026-10-26T19:58:45Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -74,6 +74,7 @@
   "news:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": "2026-10-19T19:05:25Z",
   "news:https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html": "2026-10-21T08:02:47Z",
   "news:https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html": "2026-10-20T10:17:10Z",
+  "news:https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html": "2026-10-26T19:58:40Z",
   "news:https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html": "2026-10-20T15:24:25Z",
   "news:https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": "2026-10-17T07:03:51Z",
   "news:https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html": "2026-10-16T21:24:22Z",
@@ -224,6 +225,7 @@
   "news:https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": "2026-10-16T21:24:24Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/": "2026-10-26T17:06:25Z",
   "news:https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/": "2026-10-20T14:58:58Z",
+  "news:https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/": "2026-10-26T19:58:43Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-10-19T14:05:34Z",
