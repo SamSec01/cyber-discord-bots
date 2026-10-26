@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-26T09:07:37Z"
+  "last_run": "2026-10-26T10:07:37Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -59,6 +59,7 @@
   "news:https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html": "2026-10-19T14:05:25Z",
   "news:https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html": "2026-10-21T13:11:57Z",
+  "news:https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html": "2026-10-26T10:07:27Z",
   "news:https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html": "2026-10-19T14:05:27Z",
   "news:https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": "2026-10-16T21:24:22Z",
@@ -87,6 +88,7 @@
   "news:https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html": "2026-10-17T11:46:43Z",
   "news:https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html": "2026-10-26T08:11:38Z",
   "news:https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html": "2026-10-22T16:57:55Z",
+  "news:https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html": "2026-10-26T10:07:31Z",
   "news:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html": "2026-10-22T09:59:02Z",
@@ -233,6 +235,7 @@
   "news:https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/": "2026-10-23T15:59:45Z",
   "news:https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/": "2026-10-21T14:57:31Z",
   "news:https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/": "2026-10-20T21:17:05Z",
+  "news:https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/": "2026-10-26T10:07:35Z",
   "news:https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/": "2026-10-23T17:02:21Z",
   "news:https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/": "2026-10-22T21:54:44Z",
@@ -385,6 +388,7 @@
   "news:https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/": "2026-10-20T11:54:59Z",
   "news:https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/": "2026-10-23T13:07:16Z",
   "news:https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/": "2026-10-19T10:00:06Z",
+  "news:https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/": "2026-10-26T10:07:33Z",
   "news:https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/": "2026-10-19T11:58:17Z",
   "news:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": "2026-10-21T13:12:01Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
