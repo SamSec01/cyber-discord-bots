@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-26T20:58:39Z"
+  "last_run": "2026-10-26T21:23:29Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -181,6 +181,7 @@
   "news:https://therecord.media/serbia-election-spyware-vucic": "2026-10-26T17:58:46Z",
   "news:https://therecord.media/serbia-spyware-pegasus-elections": "2026-10-19T19:05:29Z",
   "news:https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident": "2026-10-22T13:12:00Z",
+  "news:https://therecord.media/texas-sues-openai-deceiving-customers": "2026-10-26T21:23:25Z",
   "news:https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach": "2026-10-22T21:19:17Z",
   "news:https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines": "2026-10-23T14:01:54Z",
   "news:https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked": "2026-10-26T15:25:11Z",
@@ -231,6 +232,7 @@
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-10-19T14:05:34Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/": "2026-10-26T21:23:27Z",
   "news:https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/": "2026-10-22T11:55:50Z",
   "news:https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/": "2026-10-20T14:01:49Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": "2026-10-17T15:47:45Z",
@@ -269,6 +271,7 @@
   "news:https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice": "2026-10-23T20:12:17Z",
   "news:https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown": "2026-10-26T21:23:22Z",
   "news:https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry": "2026-10-21T20:14:45Z",
   "news:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss": "2026-10-21T20:14:47Z",
