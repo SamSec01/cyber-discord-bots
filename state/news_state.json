@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-26T19:58:45Z"
+  "last_run": "2026-10-26T20:22:09Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -373,6 +373,7 @@
   "news:https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/": "2026-10-20T14:01:46Z",
   "news:https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/": "2026-10-20T13:10:18Z",
   "news:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/": "2026-10-19T08:07:50Z",
+  "news:https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/": "2026-10-26T20:22:07Z",
   "news:https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": "2026-10-20T14:01:55Z",
   "news:https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/": "2026-10-21T14:00:34Z",
   "news:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/": "2026-10-23T08:58:39Z",
