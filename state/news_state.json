@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-26T13:41:38Z"
+  "last_run": "2026-10-26T15:25:20Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -141,6 +141,7 @@
   "news:https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html": "2026-10-19T15:00:48Z",
+  "news:https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html": "2026-10-26T15:25:09Z",
   "news:https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html": "2026-10-20T13:10:11Z",
   "news:https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html": "2026-10-20T13:10:13Z",
   "news:https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html": "2026-10-16T21:24:22Z",
@@ -177,6 +178,7 @@
   "news:https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident": "2026-10-22T13:12:00Z",
   "news:https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach": "2026-10-22T21:19:17Z",
   "news:https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines": "2026-10-23T14:01:54Z",
+  "news:https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked": "2026-10-26T15:25:11Z",
   "news:https://therecord.media/ukraine-hackers-russia-grain-sandworm": "2026-10-22T09:58:58Z",
   "news:https://therecord.media/utilities-cybersecurity-initiative-accenture": "2026-10-21T19:54:20Z",
   "news:https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction": "2026-10-19T20:18:42Z",
@@ -208,6 +210,7 @@
   "news:https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/": "2026-10-19T19:05:31Z",
   "news:https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T20:56:02Z",
+  "news:https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/": "2026-10-26T15:25:01Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T09:00:40Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": "2026-10-21T19:05:32Z",
   "news:https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": "2026-10-20T14:01:53Z",
@@ -246,6 +249,7 @@
   "news:https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/": "2026-10-22T21:54:44Z",
   "news:https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/": "2026-10-20T09:56:41Z",
   "news:https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/": "2026-10-21T01:07:56Z",
+  "news:https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/": "2026-10-26T15:25:06Z",
   "news:https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/": "2026-10-19T21:52:50Z",
   "news:https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/": "2026-10-23T15:00:37Z",
   "news:https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/": "2026-10-20T19:54:18Z",
@@ -271,6 +275,7 @@
   "news:https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it": "2026-10-23T21:17:03Z",
   "news:https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk": "2026-10-23T14:01:58Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years": "2026-10-26T15:25:04Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads": "2026-10-16T21:24:22Z",
@@ -378,6 +383,7 @@
   "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/": "2026-10-25T11:12:28Z",
+  "news:https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/": "2026-10-26T15:25:15Z",
   "news:https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/": "2026-10-21T17:21:56Z",
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
@@ -386,6 +392,7 @@
   "news:https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/": "2026-10-23T15:00:39Z",
   "news:https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/": "2026-10-22T14:01:22Z",
+  "news:https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/": "2026-10-26T15:25:18Z",
   "news:https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/": "2026-10-23T07:12:18Z",
   "news:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": "2026-10-17T11:09:48Z",
   "news:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/": "2026-10-23T08:58:41Z",
@@ -412,6 +419,7 @@
   "news:https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/": "2026-10-19T19:05:27Z",
   "news:https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/": "2026-10-22T13:12:04Z",
   "news:https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/": "2026-10-22T10:56:46Z",
+  "news:https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/": "2026-10-26T15:25:13Z",
   "news:https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/": "2026-10-22T13:12:02Z",
   "news:https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/": "2026-10-20T14:01:51Z",
   "news:https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": "2026-10-16T21:24:22Z",
