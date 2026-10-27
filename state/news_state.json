@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T05:22:45Z"
+  "last_run": "2026-10-27T05:56:51Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -36,6 +36,7 @@
   "news:https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html": "2026-10-21T13:11:59Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html": "2026-10-22T05:22:31Z",
+  "news:https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html": "2026-10-27T05:56:49Z",
   "news:https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html": "2026-10-24T07:53:46Z",
   "news:https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html": "2026-10-21T08:02:50Z",
   "news:https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html": "2026-10-16T21:24:22Z",
