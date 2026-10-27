@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T10:03:16Z"
+  "last_run": "2026-10-27T11:00:17Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -193,6 +193,7 @@
   "news:https://therecord.media/ukraine-hackers-russia-grain-sandworm": "2026-10-22T09:58:58Z",
   "news:https://therecord.media/utilities-cybersecurity-initiative-accenture": "2026-10-21T19:54:20Z",
   "news:https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction": "2026-10-19T20:18:42Z",
+  "news:https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/": "2026-10-27T11:00:13Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/": "2026-10-26T20:58:37Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": "2026-10-20T18:16:54Z",
   "news:https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/": "2026-10-21T22:16:57Z",
@@ -444,12 +445,14 @@
   "news:https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/": "2026-10-23T08:58:43Z",
   "news:https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": "2026-10-19T15:55:39Z",
+  "news:https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/": "2026-10-27T11:00:15Z",
   "news:https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/": "2026-10-19T19:05:27Z",
   "news:https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/": "2026-10-22T13:12:04Z",
   "news:https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/": "2026-10-22T10:56:46Z",
   "news:https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/": "2026-10-26T15:25:13Z",
   "news:https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/": "2026-10-22T13:12:02Z",
   "news:https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/": "2026-10-20T14:01:51Z",
+  "news:https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/": "2026-10-27T11:00:10Z",
   "news:https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/": "2026-10-20T15:57:25Z",
   "news:https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/": "2026-10-18T11:10:04Z",
