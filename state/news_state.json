@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T01:12:42Z"
+  "last_run": "2026-10-27T02:00:40Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -395,6 +395,7 @@
   "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
   "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/": "2026-10-27T02:00:38Z",
   "news:https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/": "2026-10-19T15:55:41Z",
   "news:https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/": "2026-10-26T13:41:27Z",
   "news:https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/": "2026-10-20T13:10:16Z",
