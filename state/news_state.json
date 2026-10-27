@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T20:58:55Z"
+  "last_run": "2026-10-27T21:25:01Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -303,6 +303,7 @@
   "news:https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry": "2026-10-21T20:14:45Z",
   "news:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss": "2026-10-21T20:14:47Z",
+  "news:https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path": "2026-10-27T21:24:59Z",
   "news:https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security": "2026-10-21T20:55:28Z",
   "news:https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security": "2026-10-21T21:56:23Z",
   "news:https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies": "2026-10-16T21:24:22Z",
