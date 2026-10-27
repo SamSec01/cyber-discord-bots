@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T06:24:07Z"
+  "last_run": "2026-10-27T07:15:18Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -26,6 +26,7 @@
   "news:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html": "2026-10-21T09:57:42Z",
   "news:https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html": "2026-10-27T07:15:16Z",
   "news:https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html": "2026-10-21T11:20:26Z",
   "news:https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html": "2026-10-26T17:58:44Z",
