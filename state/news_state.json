@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T09:04:39Z"
+  "last_run": "2026-10-27T10:03:16Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -30,6 +30,7 @@
   "news:https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html": "2026-10-21T11:20:26Z",
   "news:https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html": "2026-10-26T17:58:44Z",
+  "news:https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html": "2026-10-27T10:03:10Z",
   "news:https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html": "2026-10-26T13:41:23Z",
   "news:https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html": "2026-10-23T19:03:38Z",
   "news:https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html": "2026-10-24T10:51:46Z",
@@ -101,6 +102,7 @@
   "news:https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html": "2026-10-22T09:59:05Z",
   "news:https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html": "2026-10-25T07:54:57Z",
+  "news:https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html": "2026-10-27T10:03:05Z",
   "news:https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html": "2026-10-21T17:21:52Z",
@@ -233,6 +235,7 @@
   "news:https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/": "2026-10-26T19:58:43Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/": "2026-10-27T10:03:07Z",
   "news:https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-10-19T14:05:34Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/": "2026-10-26T21:23:27Z",
@@ -358,6 +361,7 @@
   "news:https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/help-shape-the-future-of-resilient-private-5g": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/how-bitlocker-pins-help-protect-your-data-and-devices": "2026-10-16T21:24:22Z",
+  "news:https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators": "2026-10-27T10:03:14Z",
   "news:https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book": "2026-10-20T08:59:26Z",
   "news:https://www.ncsc.gov.uk/blogs/making-forensic-observability-the-norm-for-network-devices": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/managing-the-cyber-risk-of-agentic-ai": "2026-10-16T21:24:22Z",
@@ -399,6 +403,7 @@
   "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/": "2026-10-27T02:00:38Z",
+  "news:https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/": "2026-10-27T10:03:12Z",
   "news:https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/": "2026-10-19T15:55:41Z",
   "news:https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/": "2026-10-26T13:41:27Z",
   "news:https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/": "2026-10-20T13:10:16Z",
