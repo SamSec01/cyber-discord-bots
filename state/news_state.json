@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T16:06:04Z"
+  "last_run": "2026-10-27T17:08:54Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -22,6 +22,7 @@
   "news:https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html": "2026-10-27T13:14:57Z",
   "news:https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html": "2026-10-27T17:08:46Z",
   "news:https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html": "2026-10-22T20:17:27Z",
   "news:https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html": "2026-10-21T09:57:42Z",
@@ -71,6 +72,7 @@
   "news:https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html": "2026-10-20T13:10:09Z",
+  "news:https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html": "2026-10-27T17:08:48Z",
   "news:https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html": "2026-10-21T14:00:31Z",
   "news:https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html": "2026-10-24T11:52:10Z",
   "news:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": "2026-10-16T21:24:22Z",
@@ -281,6 +283,7 @@
   "news:https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/": "2026-10-27T14:11:53Z",
   "news:https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/": "2026-10-27T14:11:50Z",
   "news:https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/": "2026-10-26T22:57:53Z",
+  "news:https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/": "2026-10-27T17:08:50Z",
   "news:https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/": "2026-10-26T15:25:06Z",
   "news:https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/": "2026-10-19T21:52:50Z",
   "news:https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/": "2026-10-23T15:00:37Z",
@@ -346,6 +349,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/writing-next-chapter": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery": "2026-10-19T20:55:26Z",
   "news:https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants": "2026-10-27T17:08:52Z",
   "news:https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs": "2026-10-16T21:24:27Z",
   "news:https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware": "2026-10-16T21:24:22Z",
