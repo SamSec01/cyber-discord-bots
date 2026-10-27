@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T18:02:21Z"
+  "last_run": "2026-10-27T19:09:36Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -55,6 +55,7 @@
   "news:https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html": "2026-10-23T09:24:22Z",
   "news:https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html": "2026-10-27T19:09:34Z",
   "news:https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html": "2026-10-20T19:04:22Z",
@@ -218,6 +219,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/": "2026-10-19T09:03:17Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/": "2026-10-21T12:21:25Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/": "2026-10-26T16:17:40Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/": "2026-10-27T19:09:32Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/": "2026-10-22T15:56:49Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/": "2026-10-23T19:03:40Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": "2026-10-23T17:52:48Z",
@@ -333,6 +335,7 @@
   "news:https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role": "2026-10-26T22:18:43Z",
   "news:https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable": "2026-10-21T15:59:57Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack": "2026-10-23T12:15:28Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills": "2026-10-27T19:09:29Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost": "2026-10-23T17:52:50Z",
   "news:https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": "2026-10-16T21:24:22Z",
