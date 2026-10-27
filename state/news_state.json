@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T07:15:18Z"
+  "last_run": "2026-10-27T08:06:14Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -417,6 +417,7 @@
   "news:https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/": "2026-10-23T07:12:18Z",
   "news:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": "2026-10-17T11:09:48Z",
   "news:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/": "2026-10-23T08:58:41Z",
+  "news:https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/": "2026-10-27T08:06:12Z",
   "news:https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/": "2026-10-21T13:12:03Z",
   "news:https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/": "2026-10-22T08:04:37Z",
   "news:https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/": "2026-10-16T21:24:22Z",
