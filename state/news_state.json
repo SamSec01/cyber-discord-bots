@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-27T12:02:06Z"
+  "last_run": "2026-10-27T13:15:06Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -19,6 +19,7 @@
   "news:https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html": "2026-10-27T13:14:57Z",
   "news:https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html": "2026-10-22T20:17:27Z",
@@ -85,7 +86,9 @@
   "news:https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html": "2026-10-22T14:57:54Z",
+  "news:https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html": "2026-10-27T13:15:00Z",
   "news:https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html": "2026-10-27T13:14:55Z",
   "news:https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html": "2026-10-24T11:52:12Z",
   "news:https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html": "2026-10-21T18:16:10Z",
@@ -95,6 +98,7 @@
   "news:https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html": "2026-10-26T08:11:38Z",
   "news:https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html": "2026-10-22T16:57:55Z",
   "news:https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html": "2026-10-26T10:07:31Z",
+  "news:https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html": "2026-10-27T13:15:04Z",
   "news:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html": "2026-10-22T09:59:02Z",
@@ -455,6 +459,7 @@
   "news:https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/": "2026-10-20T14:01:51Z",
   "news:https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/": "2026-10-27T11:00:10Z",
   "news:https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/": "2026-10-27T13:15:02Z",
   "news:https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/": "2026-10-20T15:57:25Z",
   "news:https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/": "2026-10-18T11:10:04Z",
   "news:https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/": "2026-10-16T21:24:22Z"
