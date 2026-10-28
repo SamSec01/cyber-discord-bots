@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-28T09:12:10Z"
+  "last_run": "2026-10-28T10:10:02Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -280,6 +280,7 @@
   "news:https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/": "2026-10-22T19:55:45Z",
   "news:https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/": "2026-10-22T14:57:56Z",
   "news:https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": "2026-10-21T01:07:54Z",
+  "news:https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/": "2026-10-28T10:09:58Z",
   "news:https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": "2026-10-19T21:52:53Z",
   "news:https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/": "2026-10-21T16:58:13Z",
   "news:https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/": "2026-10-19T17:52:20Z",
@@ -450,6 +451,7 @@
   "news:https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/": "2026-10-26T15:25:15Z",
   "news:https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/": "2026-10-21T17:21:56Z",
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
+  "news:https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/": "2026-10-28T10:09:56Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
   "news:https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/": "2026-10-21T15:22:00Z",
   "news:https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": "2026-10-21T06:17:19Z",
@@ -484,6 +486,7 @@
   "news:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/": "2026-10-23T08:58:43Z",
   "news:https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": "2026-10-19T15:55:39Z",
   "news:https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/": "2026-10-27T11:00:15Z",
+  "news:https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/": "2026-10-28T10:10:00Z",
   "news:https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/": "2026-10-19T19:05:27Z",
   "news:https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/": "2026-10-22T13:12:04Z",
   "news:https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/": "2026-10-22T10:56:46Z",
