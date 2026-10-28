@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-28T12:03:54Z"
+  "last_run": "2026-10-28T13:25:27Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -184,6 +184,7 @@
   "news:https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack": "2026-10-20T15:24:29Z",
   "news:https://therecord.media/european-defense-contractors-fancy-bear-espionage": "2026-10-20T10:17:12Z",
   "news:https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims": "2026-10-20T20:55:13Z",
+  "news:https://therecord.media/fbi-seizure-csam-virtualine": "2026-10-28T13:25:20Z",
   "news:https://therecord.media/fcc-bans-devices-huawei-surveillance-chips": "2026-10-23T17:52:52Z",
   "news:https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident": "2026-10-22T19:05:30Z",
@@ -274,6 +275,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/": "2026-10-19T19:56:11Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/": "2026-10-27T20:58:53Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": "2026-10-28T13:25:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/": "2026-10-23T13:07:18Z",
   "news:https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": "2026-10-19T14:05:38Z",
   "news:https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": "2026-10-16T21:24:22Z",
@@ -501,6 +503,7 @@
   "news:https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/": "2026-10-22T13:12:02Z",
   "news:https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/": "2026-10-20T14:01:51Z",
   "news:https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/": "2026-10-27T11:00:10Z",
+  "news:https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/": "2026-10-28T13:25:25Z",
   "news:https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/": "2026-10-27T13:15:02Z",
   "news:https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/": "2026-10-20T15:57:25Z",
