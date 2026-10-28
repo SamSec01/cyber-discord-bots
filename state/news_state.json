@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-28T11:06:01Z"
+  "last_run": "2026-10-28T12:03:54Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -17,10 +17,12 @@
   "news:https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/": "2026-10-21T15:59:54Z",
   "news:https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html": "2026-10-28T07:27:51Z",
+  "news:https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html": "2026-10-28T12:03:50Z",
   "news:https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html": "2026-10-27T13:14:57Z",
+  "news:https://thehackernews.com/2026/10/american-organizations-under-attack.html": "2026-10-28T12:03:47Z",
   "news:https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html": "2026-10-28T09:12:05Z",
@@ -434,6 +436,7 @@
   "news:https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/": "2026-10-21T11:56:49Z",
   "news:https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/": "2026-10-23T10:55:04Z",
   "news:https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/": "2026-10-21T11:20:33Z",
+  "news:https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/": "2026-10-28T12:03:52Z",
   "news:https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/": "2026-10-21T10:22:29Z",
   "news:https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/": "2026-10-28T09:12:08Z",
