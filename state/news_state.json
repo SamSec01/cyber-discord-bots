@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-28T13:25:27Z"
+  "last_run": "2026-10-28T14:16:58Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -53,6 +53,7 @@
   "news:https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html": "2026-10-20T07:59:21Z",
   "news:https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html": "2026-10-20T13:10:02Z",
   "news:https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html": "2026-10-18T08:51:09Z",
+  "news:https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html": "2026-10-28T14:16:45Z",
   "news:https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html": "2026-10-23T10:21:19Z",
   "news:https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html": "2026-10-20T16:23:17Z",
   "news:https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html": "2026-10-21T20:14:42Z",
@@ -87,6 +88,7 @@
   "news:https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html": "2026-10-21T08:02:47Z",
   "news:https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html": "2026-10-20T10:17:10Z",
   "news:https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html": "2026-10-26T19:58:40Z",
+  "news:https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html": "2026-10-28T14:16:47Z",
   "news:https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html": "2026-10-20T15:24:25Z",
   "news:https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": "2026-10-17T07:03:51Z",
   "news:https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html": "2026-10-16T21:24:22Z",
@@ -161,6 +163,7 @@
   "news:https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html": "2026-10-23T11:56:07Z",
   "news:https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html": "2026-10-21T09:57:40Z",
   "news:https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html": "2026-10-28T14:16:43Z",
   "news:https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html": "2026-10-19T15:00:48Z",
   "news:https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html": "2026-10-26T15:25:09Z",
@@ -264,6 +267,7 @@
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/": "2026-10-27T10:03:07Z",
+  "news:https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/": "2026-10-28T14:16:52Z",
   "news:https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-10-19T14:05:34Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/": "2026-10-26T21:23:27Z",
@@ -277,6 +281,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": "2026-10-28T13:25:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/": "2026-10-23T13:07:18Z",
+  "news:https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/": "2026-10-28T14:16:56Z",
   "news:https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": "2026-10-19T14:05:38Z",
   "news:https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/": "2026-10-27T23:52:11Z",
@@ -441,6 +446,7 @@
   "news:https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/": "2026-10-28T12:03:52Z",
   "news:https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/": "2026-10-21T10:22:29Z",
   "news:https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/": "2026-10-28T14:16:49Z",
   "news:https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/": "2026-10-28T09:12:08Z",
   "news:https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/": "2026-10-22T10:25:32Z",
   "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
@@ -506,6 +512,7 @@
   "news:https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/": "2026-10-28T13:25:25Z",
   "news:https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/": "2026-10-27T13:15:02Z",
+  "news:https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/": "2026-10-28T14:16:54Z",
   "news:https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/": "2026-10-20T15:57:25Z",
   "news:https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/": "2026-10-18T11:10:04Z",
   "news:https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/": "2026-10-27T14:11:45Z",
