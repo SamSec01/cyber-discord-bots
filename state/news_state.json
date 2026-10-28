@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-28T15:14:44Z"
+  "last_run": "2026-10-28T16:13:11Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -178,6 +178,7 @@
   "news:https://therecord.media/anti-putin-messages-disrupt-russian-education-platform": "2026-10-20T14:58:54Z",
   "news:https://therecord.media/aomei-yet-to-notify-customers-hijack-software": "2026-10-20T14:58:56Z",
   "news:https://therecord.media/australia-spies-share-intel-and-want-victims-to-share-back": "2026-10-27T14:11:36Z",
+  "news:https://therecord.media/belarus-russia-hackers-ukraine-war": "2026-10-28T16:13:04Z",
   "news:https://therecord.media/beyond-trust-cyberattack-china": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/california-warns-all-public-school-students-of-data-breach": "2026-10-20T19:54:16Z",
   "news:https://therecord.media/china-cyber-connectwise-ai": "2026-10-22T16:57:57Z",
@@ -212,6 +213,7 @@
   "news:https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident": "2026-10-22T13:12:00Z",
   "news:https://therecord.media/texas-sues-openai-deceiving-customers": "2026-10-26T21:23:25Z",
   "news:https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach": "2026-10-22T21:19:17Z",
+  "news:https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches": "2026-10-28T16:13:06Z",
   "news:https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report": "2026-10-27T16:05:59Z",
   "news:https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines": "2026-10-23T14:01:54Z",
   "news:https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked": "2026-10-26T15:25:11Z",
@@ -309,6 +311,7 @@
   "news:https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/": "2026-10-27T14:11:50Z",
   "news:https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/": "2026-10-26T22:57:53Z",
   "news:https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/": "2026-10-27T22:24:25Z",
+  "news:https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/": "2026-10-28T16:13:09Z",
   "news:https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/": "2026-10-27T17:08:50Z",
   "news:https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/": "2026-10-26T15:25:06Z",
   "news:https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/": "2026-10-19T21:52:50Z",
