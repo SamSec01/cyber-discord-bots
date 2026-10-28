@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-28T17:11:48Z"
+  "last_run": "2026-10-28T18:04:33Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -82,6 +82,7 @@
   "news:https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html": "2026-10-27T17:08:48Z",
   "news:https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html": "2026-10-21T14:00:31Z",
   "news:https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html": "2026-10-24T11:52:10Z",
+  "news:https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html": "2026-10-28T18:04:29Z",
   "news:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html": "2026-10-23T15:00:32Z",
   "news:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": "2026-10-19T19:05:25Z",
@@ -136,6 +137,7 @@
   "news:https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html": "2026-10-20T16:23:12Z",
   "news:https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html": "2026-10-22T11:20:28Z",
+  "news:https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html": "2026-10-28T18:04:27Z",
   "news:https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html": "2026-10-23T08:00:53Z",
   "news:https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html": "2026-10-24T10:51:49Z",
@@ -201,6 +203,7 @@
   "news:https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather": "2026-10-27T14:11:43Z",
   "news:https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison": "2026-10-27T20:58:50Z",
   "news:https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks": "2026-10-20T17:24:06Z",
+  "news:https://therecord.media/north-korea-russia-sanctions": "2026-10-28T18:04:31Z",
   "news:https://therecord.media/php-foundation-statement-critical-vulnerabilities": "2026-10-21T17:54:03Z",
   "news:https://therecord.media/php-php2shell-exploitation-attempts-pocs": "2026-10-23T18:14:15Z",
   "news:https://therecord.media/php-script-vulnerabilities-warnings": "2026-10-21T14:57:33Z",
