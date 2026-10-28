@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-28T10:10:02Z"
+  "last_run": "2026-10-28T11:06:01Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -251,6 +251,7 @@
   "news:https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T09:00:40Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/": "2026-10-27T09:04:37Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": "2026-10-21T19:05:32Z",
+  "news:https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/": "2026-10-28T11:05:57Z",
   "news:https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": "2026-10-20T14:01:53Z",
   "news:https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/": "2026-10-21T14:57:28Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": "2026-10-16T21:24:24Z",
@@ -464,6 +465,7 @@
   "news:https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/": "2026-10-23T07:12:18Z",
   "news:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": "2026-10-17T11:09:48Z",
   "news:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/": "2026-10-23T08:58:41Z",
+  "news:https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/": "2026-10-28T11:05:59Z",
   "news:https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/": "2026-10-27T08:06:12Z",
   "news:https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/": "2026-10-21T13:12:03Z",
   "news:https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/": "2026-10-22T08:04:37Z",
@@ -472,6 +474,7 @@
   "news:https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/": "2026-10-23T13:07:16Z",
   "news:https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/": "2026-10-19T10:00:06Z",
   "news:https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/": "2026-10-26T10:07:33Z",
+  "news:https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/": "2026-10-28T11:05:55Z",
   "news:https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/": "2026-10-26T11:02:49Z",
   "news:https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/": "2026-10-19T11:58:17Z",
   "news:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": "2026-10-21T13:12:01Z",
