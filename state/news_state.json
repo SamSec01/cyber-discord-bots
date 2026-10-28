@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-28T18:04:33Z"
+  "last_run": "2026-10-28T19:17:12Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -166,6 +166,7 @@
   "news:https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html": "2026-10-23T11:56:07Z",
   "news:https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html": "2026-10-21T09:57:40Z",
   "news:https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html": "2026-10-28T19:17:07Z",
   "news:https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html": "2026-10-28T14:16:43Z",
   "news:https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html": "2026-10-19T15:00:48Z",
@@ -204,6 +205,7 @@
   "news:https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison": "2026-10-27T20:58:50Z",
   "news:https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks": "2026-10-20T17:24:06Z",
   "news:https://therecord.media/north-korea-russia-sanctions": "2026-10-28T18:04:31Z",
+  "news:https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance": "2026-10-28T19:17:05Z",
   "news:https://therecord.media/php-foundation-statement-critical-vulnerabilities": "2026-10-21T17:54:03Z",
   "news:https://therecord.media/php-php2shell-exploitation-attempts-pocs": "2026-10-23T18:14:15Z",
   "news:https://therecord.media/php-script-vulnerabilities-warnings": "2026-10-21T14:57:33Z",
@@ -271,6 +273,7 @@
   "news:https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": "2026-10-16T21:24:24Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/": "2026-10-26T17:06:25Z",
   "news:https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/": "2026-10-20T14:58:58Z",
+  "news:https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/": "2026-10-28T19:17:10Z",
   "news:https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/": "2026-10-26T19:58:43Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
