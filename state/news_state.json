@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-29T22:03:26Z"
+  "last_run": "2026-10-29T23:00:45Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -284,6 +284,7 @@
   "news:https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": "2026-10-22T09:02:28Z",
   "news:https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/": "2026-10-29T23:00:43Z",
   "news:https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/": "2026-10-24T14:50:31Z",
   "news:https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/": "2026-10-19T19:05:31Z",
   "news:https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": "2026-10-16T21:24:22Z",
@@ -322,9 +323,11 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": "2026-10-28T13:25:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/": "2026-10-23T13:07:18Z",
+  "news:https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/": "2026-10-29T23:00:41Z",
   "news:https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/": "2026-10-28T14:16:56Z",
   "news:https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": "2026-10-19T14:05:38Z",
   "news:https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/": "2026-10-29T23:00:39Z",
   "news:https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/": "2026-10-27T23:52:11Z",
   "news:https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/": "2026-10-21T21:56:25Z",
   "news:https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/": "2026-10-21T20:55:32Z",
@@ -381,6 +384,7 @@
   "news:https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough": "2026-10-23T14:01:56Z",
   "news:https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era": "2026-10-29T23:00:36Z",
   "news:https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack": "2026-10-27T22:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys": "2026-10-20T22:16:07Z",
