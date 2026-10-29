@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-29T08:19:24Z"
+  "last_run": "2026-10-29T09:14:10Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -88,6 +88,7 @@
   "news:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html": "2026-10-23T15:00:32Z",
   "news:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": "2026-10-19T19:05:25Z",
+  "news:https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html": "2026-10-29T09:14:05Z",
   "news:https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html": "2026-10-21T08:02:47Z",
   "news:https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html": "2026-10-20T10:17:10Z",
   "news:https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html": "2026-10-26T19:58:40Z",
@@ -487,6 +488,7 @@
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
   "news:https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/": "2026-10-28T10:09:56Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
+  "news:https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/": "2026-10-29T09:14:08Z",
   "news:https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/": "2026-10-21T15:22:00Z",
   "news:https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": "2026-10-21T06:17:19Z",
   "news:https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/": "2026-10-27T14:11:39Z",
