@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-29T06:03:54Z"
+  "last_run": "2026-10-29T07:28:56Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -31,6 +31,7 @@
   "news:https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html": "2026-10-21T09:57:42Z",
   "news:https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html": "2026-10-29T07:28:52Z",
   "news:https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html": "2026-10-27T07:15:16Z",
   "news:https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html": "2026-10-21T11:20:26Z",
@@ -42,6 +43,7 @@
   "news:https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html": "2026-10-24T10:51:46Z",
   "news:https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html": "2026-10-21T13:11:59Z",
+  "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html": "2026-10-29T07:28:54Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html": "2026-10-22T05:22:31Z",
   "news:https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html": "2026-10-27T05:56:49Z",
