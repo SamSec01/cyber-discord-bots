@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-29T10:12:46Z"
+  "last_run": "2026-10-29T11:07:17Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -29,6 +29,7 @@
   "news:https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html": "2026-10-27T17:08:46Z",
   "news:https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html": "2026-10-22T20:17:27Z",
   "news:https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html": "2026-10-29T11:07:07Z",
   "news:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html": "2026-10-21T09:57:42Z",
   "news:https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html": "2026-10-29T07:28:52Z",
@@ -50,6 +51,7 @@
   "news:https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html": "2026-10-24T07:53:46Z",
   "news:https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html": "2026-10-21T08:02:50Z",
   "news:https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html": "2026-10-29T11:07:13Z",
   "news:https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html": "2026-10-20T07:59:21Z",
@@ -78,6 +80,7 @@
   "news:https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html": "2026-10-26T10:07:27Z",
   "news:https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html": "2026-10-19T14:05:27Z",
   "news:https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html": "2026-10-29T11:07:09Z",
   "news:https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html": "2026-10-20T13:10:09Z",
@@ -474,6 +477,7 @@
   "news:https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/": "2026-10-28T14:16:49Z",
   "news:https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/": "2026-10-28T09:12:08Z",
   "news:https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/": "2026-10-22T10:25:32Z",
+  "news:https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/": "2026-10-29T11:07:11Z",
   "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
   "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
@@ -490,6 +494,7 @@
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
   "news:https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/": "2026-10-28T10:09:56Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
+  "news:https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/": "2026-10-29T11:07:15Z",
   "news:https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/": "2026-10-29T09:14:08Z",
   "news:https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/": "2026-10-21T15:22:00Z",
   "news:https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": "2026-10-21T06:17:19Z",
