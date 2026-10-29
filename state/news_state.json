@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-29T15:16:35Z"
+  "last_run": "2026-10-29T16:15:31Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -74,6 +74,7 @@
   "news:https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html": "2026-10-20T07:10:21Z",
   "news:https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html": "2026-10-23T18:14:17Z",
   "news:https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html": "2026-10-29T16:15:24Z",
   "news:https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html": "2026-10-19T11:58:12Z",
   "news:https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html": "2026-10-28T09:12:03Z",
   "news:https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html": "2026-10-16T21:24:22Z",
@@ -283,6 +284,7 @@
   "news:https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T20:56:02Z",
   "news:https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/": "2026-10-26T15:25:01Z",
+  "news:https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/": "2026-10-29T16:15:29Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T09:00:40Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/": "2026-10-27T09:04:37Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": "2026-10-21T19:05:32Z",
@@ -373,6 +375,7 @@
   "news:https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack": "2026-10-27T22:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys": "2026-10-20T22:16:07Z",
+  "news:https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions": "2026-10-29T16:15:26Z",
   "news:https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it": "2026-10-23T21:17:03Z",
   "news:https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk": "2026-10-23T14:01:58Z",
