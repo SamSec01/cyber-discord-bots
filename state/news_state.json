@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-29T12:04:26Z"
+  "last_run": "2026-10-29T13:27:48Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -16,6 +16,8 @@
   "news:https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/": "2026-10-21T15:59:54Z",
+  "news:https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html": "2026-10-29T13:27:44Z",
+  "news:https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html": "2026-10-29T13:27:38Z",
   "news:https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html": "2026-10-28T07:27:51Z",
   "news:https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html": "2026-10-28T12:03:50Z",
   "news:https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html": "2026-10-16T21:24:22Z",
@@ -158,8 +160,10 @@
   "news:https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html": "2026-10-22T09:59:00Z",
   "news:https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html": "2026-10-21T08:02:52Z",
   "news:https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html": "2026-10-28T07:27:56Z",
+  "news:https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html": "2026-10-29T13:27:42Z",
   "news:https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html": "2026-10-22T14:01:20Z",
   "news:https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html": "2026-10-21T11:20:28Z",
+  "news:https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html": "2026-10-29T13:27:40Z",
   "news:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html": "2026-10-22T19:05:25Z",
   "news:https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html": "2026-10-16T21:24:22Z",
@@ -524,6 +528,7 @@
   "news:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": "2026-10-21T13:12:01Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
+  "news:https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/": "2026-10-29T13:27:46Z",
   "news:https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/": "2026-10-26T13:41:36Z",
   "news:https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/": "2026-10-22T09:59:09Z",
   "news:https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/": "2026-10-21T07:13:07Z",
