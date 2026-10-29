@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-29T20:07:12Z"
+  "last_run": "2026-10-29T21:06:49Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -229,6 +229,7 @@
   "news:https://therecord.media/php-php2shell-exploitation-attempts-pocs": "2026-10-23T18:14:15Z",
   "news:https://therecord.media/php-script-vulnerabilities-warnings": "2026-10-21T14:57:33Z",
   "news:https://therecord.media/php-vulnerabilities-cisa-kev": "2026-10-27T14:11:41Z",
+  "news:https://therecord.media/php2shell-successful-exploitation-reports-emerge": "2026-10-29T21:06:47Z",
   "news:https://therecord.media/proofpoint-varonis-cybersecurity-acquisition": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/quest-diagnostics-network-intrusion": "2026-10-23T13:07:20Z",
   "news:https://therecord.media/russia-cyberattack-firstvds-cloud": "2026-10-19T11:58:15Z",
