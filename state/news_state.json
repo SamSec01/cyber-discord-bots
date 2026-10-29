@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-29T13:27:48Z"
+  "last_run": "2026-10-29T14:21:46Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -90,6 +90,7 @@
   "news:https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html": "2026-10-21T14:00:31Z",
   "news:https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html": "2026-10-24T11:52:10Z",
   "news:https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html": "2026-10-28T18:04:29Z",
+  "news:https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html": "2026-10-29T14:21:37Z",
   "news:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html": "2026-10-23T15:00:32Z",
   "news:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": "2026-10-19T19:05:25Z",
@@ -197,6 +198,7 @@
   "news:https://therecord.media/california-warns-all-public-school-students-of-data-breach": "2026-10-20T19:54:16Z",
   "news:https://therecord.media/china-cyber-connectwise-ai": "2026-10-22T16:57:57Z",
   "news:https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack": "2026-10-19T19:56:13Z",
+  "news:https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline": "2026-10-29T14:21:35Z",
   "news:https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party": "2026-10-21T19:05:30Z",
   "news:https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams": "2026-10-26T17:06:28Z",
   "news:https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack": "2026-10-20T15:24:29Z",
@@ -205,6 +207,7 @@
   "news:https://therecord.media/fbi-seizure-csam-virtualine": "2026-10-28T13:25:20Z",
   "news:https://therecord.media/fcc-bans-devices-huawei-surveillance-chips": "2026-10-23T17:52:52Z",
   "news:https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage": "2026-10-16T21:24:22Z",
+  "news:https://therecord.media/ftc-rideshare-airlines-data": "2026-10-29T14:21:41Z",
   "news:https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident": "2026-10-22T19:05:30Z",
   "news:https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents": "2026-10-28T21:03:46Z",
   "news:https://therecord.media/litellm-hackers-ai-malware": "2026-10-26T13:41:32Z",
@@ -214,6 +217,7 @@
   "news:https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks": "2026-10-28T17:11:44Z",
   "news:https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather": "2026-10-27T14:11:43Z",
   "news:https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison": "2026-10-27T20:58:50Z",
+  "news:https://therecord.media/new-mexico-cyberattack-hospital": "2026-10-29T14:21:33Z",
   "news:https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks": "2026-10-20T17:24:06Z",
   "news:https://therecord.media/north-korea-russia-sanctions": "2026-10-28T18:04:31Z",
   "news:https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance": "2026-10-28T19:17:05Z",
@@ -280,6 +284,7 @@
   "news:https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T09:00:40Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/": "2026-10-27T09:04:37Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": "2026-10-21T19:05:32Z",
+  "news:https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/": "2026-10-29T14:21:44Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/": "2026-10-28T11:05:57Z",
   "news:https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/": "2026-10-29T12:04:21Z",
   "news:https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": "2026-10-20T14:01:53Z",
@@ -394,6 +399,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack": "2026-10-23T12:15:28Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills": "2026-10-27T19:09:29Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes": "2026-10-29T14:21:28Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost": "2026-10-23T17:52:50Z",
   "news:https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": "2026-10-16T21:24:22Z",
@@ -463,6 +469,7 @@
   "news:https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/": "2026-10-26T13:41:34Z",
   "news:https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/": "2026-10-20T09:56:39Z",
   "news:https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/": "2026-10-21T04:56:38Z",
+  "news:https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/": "2026-10-29T14:21:39Z",
   "news:https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/": "2026-10-20T14:01:46Z",
   "news:https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/": "2026-10-20T13:10:18Z",
   "news:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/": "2026-10-19T08:07:50Z",
@@ -472,6 +479,7 @@
   "news:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/": "2026-10-23T08:58:39Z",
   "news:https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/": "2026-10-29T10:12:42Z",
   "news:https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/": "2026-10-23T10:21:22Z",
+  "news:https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/": "2026-10-29T14:21:31Z",
   "news:https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/": "2026-10-21T11:56:49Z",
   "news:https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/": "2026-10-23T10:55:04Z",
