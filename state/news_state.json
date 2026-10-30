@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-30T16:09:21Z"
+  "last_run": "2026-10-30T17:05:26Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -168,6 +168,7 @@
   "news:https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html": "2026-10-21T08:02:52Z",
   "news:https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html": "2026-10-30T13:23:36Z",
   "news:https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html": "2026-10-28T07:27:56Z",
+  "news:https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html": "2026-10-30T17:05:24Z",
   "news:https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html": "2026-10-29T13:27:42Z",
   "news:https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html": "2026-10-22T14:01:20Z",
   "news:https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html": "2026-10-21T11:20:28Z",
@@ -195,6 +196,7 @@
   "news:https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html": "2026-10-20T13:10:13Z",
   "news:https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html": "2026-10-30T13:23:38Z",
+  "news:https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html": "2026-10-30T17:05:22Z",
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/23andme-california-data-breach-settlement": "2026-10-20T19:04:24Z",
   "news:https://therecord.media/africa-cybercrime-interpol-arrests": "2026-10-22T14:01:24Z",
