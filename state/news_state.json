@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-30T17:58:40Z"
+  "last_run": "2026-10-30T18:31:35Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -50,6 +50,7 @@
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html": "2026-10-29T07:28:54Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html": "2026-10-22T05:22:31Z",
+  "news:https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html": "2026-10-30T18:31:33Z",
   "news:https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html": "2026-10-30T08:19:24Z",
   "news:https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html": "2026-10-27T05:56:49Z",
   "news:https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html": "2026-10-24T07:53:46Z",
