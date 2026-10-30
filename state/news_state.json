@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-30T07:27:42Z"
+  "last_run": "2026-10-30T08:19:29Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -50,6 +50,7 @@
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html": "2026-10-29T07:28:54Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html": "2026-10-22T05:22:31Z",
+  "news:https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html": "2026-10-30T08:19:24Z",
   "news:https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html": "2026-10-27T05:56:49Z",
   "news:https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html": "2026-10-24T07:53:46Z",
   "news:https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html": "2026-10-21T08:02:50Z",
@@ -452,6 +453,7 @@
   "news:https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward": "2026-10-30T08:19:27Z",
   "news:https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes": "2026-10-29T10:12:44Z",
   "news:https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud": "2026-10-16T21:24:22Z",
