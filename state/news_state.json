@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-30T10:12:58Z"
+  "last_run": "2026-10-30T11:03:37Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -131,6 +131,7 @@
   "news:https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html": "2026-10-22T09:59:05Z",
+  "news:https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html": "2026-10-30T11:03:33Z",
   "news:https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html": "2026-10-25T07:54:57Z",
   "news:https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html": "2026-10-27T10:03:05Z",
   "news:https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html": "2026-10-16T21:24:22Z",
@@ -311,6 +312,7 @@
   "news:https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/": "2026-10-28T19:17:10Z",
   "news:https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/": "2026-10-26T19:58:43Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
+  "news:https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/": "2026-10-30T11:03:35Z",
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/": "2026-10-27T10:03:07Z",
   "news:https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/": "2026-10-28T14:16:52Z",
