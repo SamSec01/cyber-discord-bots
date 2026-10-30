@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-30T20:24:09Z"
+  "last_run": "2026-10-30T21:01:48Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -214,6 +214,7 @@
   "news:https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack": "2026-10-19T19:56:13Z",
   "news:https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline": "2026-10-29T14:21:35Z",
   "news:https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party": "2026-10-21T19:05:30Z",
+  "news:https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale": "2026-10-30T21:01:46Z",
   "news:https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams": "2026-10-26T17:06:28Z",
   "news:https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack": "2026-10-20T15:24:29Z",
   "news:https://therecord.media/european-defense-contractors-fancy-bear-espionage": "2026-10-20T10:17:12Z",
@@ -425,6 +426,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack": "2026-10-21T13:12:06Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor": "2026-10-30T21:01:44Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets": "2026-10-26T18:30:02Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn": "2026-10-20T15:24:27Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack": "2026-10-22T22:15:59Z",
