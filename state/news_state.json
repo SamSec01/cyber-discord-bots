@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-30T15:15:01Z"
+  "last_run": "2026-10-30T16:09:21Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -218,6 +218,7 @@
   "news:https://therecord.media/fbi-seizure-csam-virtualine": "2026-10-28T13:25:20Z",
   "news:https://therecord.media/fcc-bans-devices-huawei-surveillance-chips": "2026-10-23T17:52:52Z",
   "news:https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage": "2026-10-16T21:24:22Z",
+  "news:https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach": "2026-10-30T16:09:17Z",
   "news:https://therecord.media/ftc-rideshare-airlines-data": "2026-10-29T14:21:41Z",
   "news:https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices": "2026-10-30T13:23:47Z",
   "news:https://therecord.media/general-motors-lawsuit-privacy": "2026-10-29T20:07:10Z",
@@ -373,6 +374,7 @@
   "news:https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/": "2026-10-21T01:07:56Z",
   "news:https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/": "2026-10-27T14:11:53Z",
   "news:https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/": "2026-10-27T14:11:50Z",
+  "news:https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": "2026-10-30T16:09:19Z",
   "news:https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/": "2026-10-26T22:57:53Z",
   "news:https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/": "2026-10-27T22:24:25Z",
   "news:https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/": "2026-10-28T16:13:09Z",
@@ -433,6 +435,7 @@
   "news:https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges": "2026-10-27T01:12:40Z",
   "news:https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy": "2026-10-29T08:19:20Z",
+  "news:https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian": "2026-10-30T16:09:15Z",
   "news:https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role": "2026-10-26T22:18:43Z",
   "news:https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable": "2026-10-21T15:59:57Z",
@@ -590,6 +593,7 @@
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
   "news:https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/": "2026-10-29T13:27:46Z",
   "news:https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/": "2026-10-30T14:18:25Z",
+  "news:https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/": "2026-10-30T16:09:13Z",
   "news:https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/": "2026-10-26T13:41:36Z",
   "news:https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/": "2026-10-22T09:59:09Z",
   "news:https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/": "2026-10-21T07:13:07Z",
