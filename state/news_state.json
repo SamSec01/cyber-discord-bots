@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-30T11:03:37Z"
+  "last_run": "2026-10-30T12:03:47Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -235,10 +235,12 @@
   "news:https://therecord.media/php-script-vulnerabilities-warnings": "2026-10-21T14:57:33Z",
   "news:https://therecord.media/php-vulnerabilities-cisa-kev": "2026-10-27T14:11:41Z",
   "news:https://therecord.media/php2shell-successful-exploitation-reports-emerge": "2026-10-29T21:06:47Z",
+  "news:https://therecord.media/polymarket-confirms-cyberattack-third-party": "2026-10-30T12:03:45Z",
   "news:https://therecord.media/proofpoint-varonis-cybersecurity-acquisition": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/quest-diagnostics-network-intrusion": "2026-10-23T13:07:20Z",
   "news:https://therecord.media/russia-cyberattack-firstvds-cloud": "2026-10-19T11:58:15Z",
   "news:https://therecord.media/russia-datasuckers-hackers-arrested": "2026-10-16T21:24:22Z",
+  "news:https://therecord.media/russian-home-goods-chain-faces-disruptions": "2026-10-30T12:03:42Z",
   "news:https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center": "2026-10-19T16:19:09Z",
   "news:https://therecord.media/serbia-election-spyware-vucic": "2026-10-26T17:58:46Z",
   "news:https://therecord.media/serbia-spyware-pegasus-elections": "2026-10-19T19:05:29Z",
@@ -265,6 +267,7 @@
   "news:https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/": "2026-10-26T11:02:51Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/": "2026-10-21T10:22:31Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/": "2026-10-30T12:03:40Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/": "2026-10-19T13:11:15Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/": "2026-10-19T15:00:50Z",
@@ -528,6 +531,7 @@
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/": "2026-10-27T02:00:38Z",
   "news:https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/": "2026-10-27T10:03:12Z",
+  "news:https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/": "2026-10-30T12:03:38Z",
   "news:https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/": "2026-10-19T15:55:41Z",
   "news:https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/": "2026-10-26T13:41:27Z",
   "news:https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/": "2026-10-20T13:10:16Z",
