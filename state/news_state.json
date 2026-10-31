@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-31T12:26:14Z"
+  "last_run": "2026-10-31T13:16:37Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -315,6 +315,7 @@
   "news:https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/": "2026-10-19T19:05:31Z",
   "news:https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T20:56:02Z",
+  "news:https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/": "2026-10-31T13:16:33Z",
   "news:https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/": "2026-10-26T15:25:01Z",
   "news:https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/": "2026-10-29T16:15:29Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T09:00:40Z",
@@ -340,6 +341,7 @@
   "news:https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/": "2026-10-29T20:07:08Z",
   "news:https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/": "2026-10-26T21:23:27Z",
+  "news:https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/": "2026-10-31T13:16:35Z",
   "news:https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/": "2026-10-22T11:55:50Z",
   "news:https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/": "2026-10-20T14:01:49Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": "2026-10-17T15:47:45Z",
