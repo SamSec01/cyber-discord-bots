@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-31T09:08:35Z"
+  "last_run": "2026-10-31T09:59:35Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -34,6 +34,7 @@
   "news:https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html": "2026-10-29T11:07:07Z",
   "news:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html": "2026-10-21T09:57:42Z",
+  "news:https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html": "2026-10-31T09:59:33Z",
   "news:https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html": "2026-10-29T07:28:52Z",
   "news:https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html": "2026-10-16T21:24:22Z",
