@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-10-31T11:56:31Z"
+  "last_run": "2026-10-31T12:26:14Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -48,6 +48,7 @@
   "news:https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html": "2026-10-23T19:03:38Z",
   "news:https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html": "2026-10-24T10:51:46Z",
   "news:https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html": "2026-10-31T12:26:12Z",
   "news:https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html": "2026-10-21T13:11:59Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html": "2026-10-29T07:28:54Z",
   "news:https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": "2026-10-16T21:24:22Z",
