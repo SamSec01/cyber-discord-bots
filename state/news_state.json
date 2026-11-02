@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-02T10:27:23Z"
+  "last_run": "2026-11-02T11:18:32Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -557,6 +557,7 @@
   "news:https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/": "2026-10-21T11:56:49Z",
   "news:https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/": "2026-10-30T14:18:22Z",
+  "news:https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/": "2026-11-02T11:18:30Z",
   "news:https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/": "2026-10-23T10:55:04Z",
   "news:https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/": "2026-10-21T11:20:33Z",
   "news:https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/": "2026-10-28T12:03:52Z",
