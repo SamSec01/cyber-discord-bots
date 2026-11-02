@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-02T09:28:59Z"
+  "last_run": "2026-11-02T10:27:23Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -367,6 +367,7 @@
   "news:https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/": "2026-10-28T14:16:56Z",
   "news:https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": "2026-10-19T14:05:38Z",
   "news:https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/": "2026-11-02T10:27:21Z",
   "news:https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/": "2026-10-29T23:00:39Z",
   "news:https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/": "2026-10-27T23:52:11Z",
   "news:https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/": "2026-10-21T21:56:25Z",
@@ -628,6 +629,7 @@
   "news:https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/": "2026-10-21T07:13:07Z",
   "news:https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/": "2026-10-21T16:58:16Z",
   "news:https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/": "2026-10-19T13:11:13Z",
+  "news:https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/": "2026-11-02T10:27:18Z",
   "news:https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/": "2026-10-23T08:58:43Z",
   "news:https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": "2026-10-19T15:55:39Z",
