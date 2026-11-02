@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-02T22:05:29Z"
+  "last_run": "2026-11-02T23:00:02Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -466,6 +466,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years": "2026-10-26T15:25:04Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools": "2026-10-29T22:03:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths": "2026-11-02T23:00:00Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack": "2026-10-21T13:12:06Z",
