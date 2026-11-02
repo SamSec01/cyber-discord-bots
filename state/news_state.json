@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-02T11:18:32Z"
+  "last_run": "2026-11-02T12:14:05Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -203,8 +203,10 @@
   "news:https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html": "2026-10-30T13:23:38Z",
   "news:https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html": "2026-10-30T17:05:22Z",
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html": "2026-11-02T12:13:59Z",
   "news:https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html": "2026-11-01T10:04:04Z",
   "news:https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": "2026-11-01T08:14:38Z",
+  "news:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html": "2026-11-02T12:13:56Z",
   "news:https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": "2026-11-01T08:14:44Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
@@ -397,6 +399,7 @@
   "news:https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/": "2026-10-28T17:11:46Z",
   "news:https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/": "2026-10-30T14:18:27Z",
   "news:https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/": "2026-10-21T01:07:56Z",
+  "news:https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/": "2026-11-02T12:14:01Z",
   "news:https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/": "2026-10-27T14:11:53Z",
   "news:https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/": "2026-10-27T14:11:50Z",
   "news:https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": "2026-10-30T16:09:19Z",
@@ -606,6 +609,7 @@
   "news:https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/": "2026-11-02T08:11:24Z",
   "news:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/": "2026-10-23T08:58:41Z",
   "news:https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/": "2026-10-28T11:05:59Z",
+  "news:https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/": "2026-11-02T12:14:03Z",
   "news:https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/": "2026-10-27T08:06:12Z",
   "news:https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/": "2026-10-30T10:12:54Z",
   "news:https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/": "2026-10-21T13:12:03Z",
