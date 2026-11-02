@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-02T14:44:40Z"
+  "last_run": "2026-11-02T15:42:21Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -206,6 +206,7 @@
   "news:https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html": "2026-11-02T12:13:59Z",
   "news:https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": "2026-11-02T13:35:46Z",
   "news:https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html": "2026-11-01T10:04:04Z",
+  "news:https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html": "2026-11-02T15:42:10Z",
   "news:https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": "2026-11-01T08:14:38Z",
   "news:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html": "2026-11-02T12:13:56Z",
   "news:https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": "2026-11-01T08:14:44Z",
@@ -218,6 +219,7 @@
   "news:https://therecord.media/anne-arundel-county-maryland-confirms-data-breach": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/anti-putin-messages-disrupt-russian-education-platform": "2026-10-20T14:58:54Z",
   "news:https://therecord.media/aomei-yet-to-notify-customers-hijack-software": "2026-10-20T14:58:56Z",
+  "news:https://therecord.media/apple-warns-users-99-countries-mercenary-spyware": "2026-11-02T15:42:05Z",
   "news:https://therecord.media/australia-spies-share-intel-and-want-victims-to-share-back": "2026-10-27T14:11:36Z",
   "news:https://therecord.media/belarus-russia-hackers-ukraine-war": "2026-10-28T16:13:04Z",
   "news:https://therecord.media/beyond-trust-cyberattack-china": "2026-10-16T21:24:22Z",
@@ -327,6 +329,7 @@
   "news:https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/": "2026-10-30T10:12:52Z",
   "news:https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/": "2026-10-29T23:00:43Z",
   "news:https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/": "2026-10-24T14:50:31Z",
+  "news:https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/": "2026-11-02T15:42:19Z",
   "news:https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/": "2026-10-19T19:05:31Z",
   "news:https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T20:56:02Z",
@@ -417,6 +420,7 @@
   "news:https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/": "2026-10-26T15:25:06Z",
   "news:https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/": "2026-10-19T21:52:50Z",
   "news:https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/": "2026-10-23T15:00:37Z",
+  "news:https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/": "2026-11-02T15:42:14Z",
   "news:https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/": "2026-10-20T19:54:18Z",
   "news:https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates": "2026-10-16T21:24:22Z",
@@ -459,6 +463,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor": "2026-10-30T21:01:44Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets": "2026-10-26T18:30:02Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn": "2026-10-20T15:24:27Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss": "2026-11-02T15:42:12Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack": "2026-10-22T22:15:59Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage": "2026-10-16T21:24:22Z",
@@ -585,6 +590,7 @@
   "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/": "2026-10-27T02:00:38Z",
+  "news:https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/": "2026-11-02T15:42:17Z",
   "news:https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/": "2026-10-27T10:03:12Z",
   "news:https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/": "2026-10-30T12:03:38Z",
   "news:https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/": "2026-10-19T15:55:41Z",
@@ -593,6 +599,7 @@
   "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/": "2026-11-02T09:28:57Z",
+  "news:https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/": "2026-11-02T15:42:08Z",
   "news:https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/": "2026-10-25T11:12:28Z",
   "news:https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/": "2026-10-30T13:23:40Z",
   "news:https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/": "2026-10-26T15:25:15Z",
