@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-02T21:28:14Z"
+  "last_run": "2026-11-02T22:05:29Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -252,6 +252,7 @@
   "news:https://therecord.media/litellm-hackers-ai-malware": "2026-10-26T13:41:32Z",
   "news:https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar": "2026-10-27T19:57:50Z",
   "news:https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes": "2026-10-27T14:11:48Z",
+  "news:https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist": "2026-11-02T22:05:27Z",
   "news:https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case": "2026-10-21T20:55:30Z",
   "news:https://therecord.media/michigan-state-university-byod-gang-cyber-incident": "2026-11-02T20:30:29Z",
   "news:https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks": "2026-10-28T17:11:44Z",
@@ -339,6 +340,7 @@
   "news:https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T20:56:02Z",
   "news:https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/": "2026-10-31T13:16:33Z",
+  "news:https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/": "2026-11-02T22:05:25Z",
   "news:https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/": "2026-10-26T15:25:01Z",
   "news:https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/": "2026-10-29T16:15:29Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": "2026-10-21T09:00:40Z",
