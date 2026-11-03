@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-02T23:59:15Z"
+  "last_run": "2026-11-03T00:40:48Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -283,6 +283,7 @@
   "news:https://therecord.media/texas-sues-openai-deceiving-customers": "2026-10-26T21:23:25Z",
   "news:https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach": "2026-10-22T21:19:17Z",
   "news:https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches": "2026-10-28T16:13:06Z",
+  "news:https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months": "2026-11-03T00:40:41Z",
   "news:https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report": "2026-10-27T16:05:59Z",
   "news:https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines": "2026-10-23T14:01:54Z",
   "news:https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked": "2026-10-26T15:25:11Z",
@@ -558,12 +559,14 @@
   "news:https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php": "2026-10-21T09:57:45Z",
+  "news:https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years": "2026-11-03T00:40:43Z",
   "news:https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/incident-affecting-asos-customers": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/ncsc-statement-in-response-to-recent-incidents-resulting-from-frontier-ai-evaluations": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists": "2026-10-16T21:24:22Z",
+  "news:https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion": "2026-11-03T00:40:46Z",
   "news:https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/": "2026-10-23T08:58:45Z",
   "news:https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/": "2026-10-30T10:12:56Z",
   "news:https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/": "2026-10-30T09:14:12Z",
