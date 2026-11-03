@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-03T11:37:53Z"
+  "last_run": "2026-11-03T12:41:36Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -307,6 +307,7 @@
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": "2026-10-20T18:16:54Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/": "2026-11-01T14:02:26Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/": "2026-10-27T22:55:13Z",
+  "news:https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/": "2026-11-03T12:41:29Z",
   "news:https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/": "2026-10-21T22:16:57Z",
   "news:https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/": "2026-10-26T11:02:51Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": "2026-10-16T21:24:22Z",
@@ -583,6 +584,7 @@
   "news:https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/": "2026-10-29T14:21:39Z",
   "news:https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/": "2026-10-20T14:01:46Z",
   "news:https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/": "2026-10-20T13:10:18Z",
+  "news:https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/": "2026-11-03T12:41:34Z",
   "news:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/": "2026-10-19T08:07:50Z",
   "news:https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/": "2026-10-26T20:22:07Z",
   "news:https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": "2026-10-20T14:01:55Z",
@@ -609,6 +611,7 @@
   "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
   "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/": "2026-11-03T12:41:32Z",
   "news:https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/": "2026-10-27T02:00:38Z",
   "news:https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/": "2026-11-02T15:42:17Z",
   "news:https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/": "2026-10-27T10:03:12Z",
