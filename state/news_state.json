@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-03T12:41:36Z"
+  "last_run": "2026-11-03T13:56:50Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -218,8 +218,11 @@
   "news:https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": "2026-11-02T13:35:44Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
+  "news:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html": "2026-11-03T13:56:42Z",
+  "news:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": "2026-11-03T13:56:37Z",
   "news:https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": "2026-11-03T07:57:14Z",
   "news:https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": "2026-11-03T07:57:16Z",
+  "news:https://thehackernews.com/2026/11/the-4-elements-of-exposure.html": "2026-11-03T13:56:39Z",
   "news:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html": "2026-11-02T18:38:50Z",
   "news:https://therecord.media/23andme-california-data-breach-settlement": "2026-10-20T19:04:24Z",
   "news:https://therecord.media/africa-cybercrime-interpol-arrests": "2026-10-22T14:01:24Z",
@@ -280,6 +283,8 @@
   "news:https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards": "2026-10-30T19:33:32Z",
   "news:https://therecord.media/russia-cyberattack-firstvds-cloud": "2026-10-19T11:58:15Z",
   "news:https://therecord.media/russia-datasuckers-hackers-arrested": "2026-10-16T21:24:22Z",
+  "news:https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three": "2026-11-03T13:56:48Z",
+  "news:https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support": "2026-11-03T13:56:46Z",
   "news:https://therecord.media/russian-home-goods-chain-faces-disruptions": "2026-10-30T12:03:42Z",
   "news:https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center": "2026-10-19T16:19:09Z",
   "news:https://therecord.media/serbia-election-spyware-vucic": "2026-10-26T17:58:46Z",
@@ -419,6 +424,7 @@
   "news:https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/": "2026-10-26T10:07:35Z",
   "news:https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/": "2026-10-28T21:03:48Z",
+  "news:https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/": "2026-11-03T13:56:44Z",
   "news:https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/": "2026-10-29T22:03:24Z",
   "news:https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/": "2026-10-23T17:02:21Z",
   "news:https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/": "2026-10-22T21:54:44Z",
