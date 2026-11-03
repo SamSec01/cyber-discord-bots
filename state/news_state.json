@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-03T22:08:27Z"
+  "last_run": "2026-11-03T23:06:09Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -406,6 +406,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": "2026-10-18T14:48:51Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/": "2026-10-19T19:56:11Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/": "2026-10-27T20:58:53Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/": "2026-11-03T23:06:07Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/": "2026-10-30T13:23:49Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": "2026-10-28T13:25:22Z",
@@ -532,6 +533,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down": "2026-10-30T22:57:43Z",
   "news:https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud": "2026-11-03T23:06:02Z",
   "news:https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next": "2026-11-02T14:44:29Z",
   "news:https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response": "2026-10-16T21:24:22Z",
@@ -553,6 +555,7 @@
   "news:https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french": "2026-10-22T20:55:59Z",
+  "news:https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security": "2026-11-03T23:06:04Z",
   "news:https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps": "2026-10-19T21:15:21Z",
   "news:https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable": "2026-10-16T21:24:22Z",
