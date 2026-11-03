@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-03T09:41:24Z"
+  "last_run": "2026-11-03T10:41:49Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -691,6 +691,7 @@
   "news:https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/": "2026-10-20T14:01:51Z",
   "news:https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/": "2026-10-27T11:00:10Z",
   "news:https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/": "2026-10-28T13:25:25Z",
+  "news:https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/": "2026-11-03T10:41:47Z",
   "news:https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/": "2026-10-28T15:14:42Z",
   "news:https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/": "2026-10-27T13:15:02Z",
