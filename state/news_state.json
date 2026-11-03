@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-03T19:24:19Z"
+  "last_run": "2026-11-03T20:13:27Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -263,6 +263,7 @@
   "news:https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices": "2026-10-30T13:23:47Z",
   "news:https://therecord.media/general-motors-lawsuit-privacy": "2026-10-29T20:07:10Z",
   "news:https://therecord.media/german-officials-among-apple-spyware-warning-recipients": "2026-11-03T19:24:13Z",
+  "news:https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes": "2026-11-03T20:13:23Z",
   "news:https://therecord.media/hackers-target-government-windows-systems-asia-new-malware": "2026-10-30T13:23:45Z",
   "news:https://therecord.media/hackers-ukraine-belarus-russia": "2026-11-02T17:42:31Z",
   "news:https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident": "2026-10-22T19:05:30Z",
@@ -357,6 +358,7 @@
   "news:https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/": "2026-10-30T10:12:52Z",
   "news:https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/": "2026-10-29T23:00:43Z",
+  "news:https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/": "2026-11-03T20:13:25Z",
   "news:https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/": "2026-10-24T14:50:31Z",
   "news:https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/": "2026-11-02T15:42:19Z",
   "news:https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/": "2026-10-19T19:05:31Z",
