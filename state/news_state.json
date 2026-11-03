@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-03T15:30:52Z"
+  "last_run": "2026-11-03T16:38:05Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -207,11 +207,13 @@
   "news:https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html": "2026-11-03T05:38:27Z",
   "news:https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html": "2026-11-02T12:13:59Z",
   "news:https://thehackernews.com/2026/11/attackers-target-unpatched.html": "2026-11-03T05:38:25Z",
+  "news:https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html": "2026-11-03T16:37:56Z",
   "news:https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": "2026-11-02T13:35:46Z",
   "news:https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html": "2026-11-01T10:04:04Z",
   "news:https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html": "2026-11-02T15:42:10Z",
   "news:https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": "2026-11-01T08:14:38Z",
   "news:https://thehackernews.com/2026/11/google-disrupts-13-million-device.html": "2026-11-02T16:46:16Z",
+  "news:https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html": "2026-11-03T16:38:03Z",
   "news:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html": "2026-11-02T12:13:56Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": "2026-11-03T09:41:18Z",
   "news:https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": "2026-11-01T08:14:44Z",
@@ -463,9 +465,11 @@
   "news:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss": "2026-10-21T20:14:47Z",
   "news:https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path": "2026-10-27T21:24:59Z",
+  "news:https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise": "2026-11-03T16:37:58Z",
   "news:https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security": "2026-10-21T20:55:28Z",
   "news:https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security": "2026-10-21T21:56:23Z",
   "news:https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability": "2026-10-27T21:56:10Z",
+  "news:https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats": "2026-11-03T16:38:00Z",
   "news:https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials": "2026-10-28T15:14:38Z",
   "news:https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives": "2026-10-16T21:24:22Z",
