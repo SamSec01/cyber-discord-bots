@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-03T14:41:20Z"
+  "last_run": "2026-11-03T15:30:52Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -344,6 +344,7 @@
   "news:https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/": "2026-10-22T17:20:42Z",
   "news:https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": "2026-10-22T09:02:28Z",
   "news:https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/": "2026-11-03T15:30:50Z",
   "news:https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/": "2026-10-30T10:12:52Z",
   "news:https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/": "2026-10-29T23:00:43Z",
@@ -382,6 +383,7 @@
   "news:https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/": "2026-11-02T19:40:51Z",
   "news:https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/": "2026-10-26T21:23:27Z",
   "news:https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/": "2026-10-31T13:16:35Z",
+  "news:https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/": "2026-11-03T15:30:48Z",
   "news:https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/": "2026-10-22T11:55:50Z",
   "news:https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/": "2026-11-02T18:38:52Z",
   "news:https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/": "2026-10-20T14:01:49Z",
