@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-04T14:44:55Z"
+  "last_run": "2026-11-04T15:40:55Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -407,6 +407,7 @@
   "news:https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/": "2026-10-31T13:16:35Z",
   "news:https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/": "2026-11-03T15:30:48Z",
   "news:https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/": "2026-10-22T11:55:50Z",
+  "news:https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/": "2026-11-04T15:40:53Z",
   "news:https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/": "2026-11-02T18:38:52Z",
   "news:https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/": "2026-11-03T19:24:17Z",
   "news:https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/": "2026-10-20T14:01:49Z",
@@ -549,6 +550,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down": "2026-10-30T22:57:43Z",
   "news:https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud": "2026-11-03T23:06:02Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper": "2026-11-04T15:40:51Z",
   "news:https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next": "2026-11-02T14:44:29Z",
   "news:https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response": "2026-10-16T21:24:22Z",
