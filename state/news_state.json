@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-04T21:35:33Z"
+  "last_run": "2026-11-04T22:32:29Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -495,6 +495,7 @@
   "news:https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses": "2026-10-29T19:19:05Z",
   "news:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": "2026-10-20T16:23:15Z",
+  "news:https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers": "2026-11-04T22:32:27Z",
   "news:https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice": "2026-10-23T20:12:17Z",
   "news:https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github": "2026-10-28T22:59:01Z",
