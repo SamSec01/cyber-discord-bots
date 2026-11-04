@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-04T16:39:47Z"
+  "last_run": "2026-11-04T17:39:09Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -218,6 +218,7 @@
   "news:https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html": "2026-11-01T10:04:04Z",
   "news:https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html": "2026-11-04T13:35:19Z",
   "news:https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html": "2026-11-02T15:42:10Z",
+  "news:https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html": "2026-11-04T17:39:07Z",
   "news:https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": "2026-11-01T08:14:38Z",
   "news:https://thehackernews.com/2026/11/google-disrupts-13-million-device.html": "2026-11-02T16:46:16Z",
   "news:https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html": "2026-11-04T09:19:00Z",
@@ -231,9 +232,11 @@
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
   "news:https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html": "2026-11-04T13:35:14Z",
   "news:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html": "2026-11-03T13:56:42Z",
+  "news:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html": "2026-11-04T17:38:58Z",
   "news:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": "2026-11-03T13:56:37Z",
   "news:https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html": "2026-11-04T09:19:02Z",
   "news:https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": "2026-11-03T07:57:14Z",
+  "news:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": "2026-11-04T17:39:05Z",
   "news:https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": "2026-11-03T07:57:16Z",
   "news:https://thehackernews.com/2026/11/the-4-elements-of-exposure.html": "2026-11-03T13:56:39Z",
   "news:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html": "2026-11-02T18:38:50Z",
@@ -442,6 +445,7 @@
   "news:https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/": "2026-11-04T16:39:43Z",
   "news:https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/": "2026-10-28T10:09:58Z",
   "news:https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/": "2026-10-31T15:56:29Z",
+  "news:https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/": "2026-11-04T17:39:03Z",
   "news:https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": "2026-10-19T21:52:53Z",
   "news:https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/": "2026-10-31T18:20:55Z",
   "news:https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/": "2026-10-21T16:58:13Z",
@@ -571,6 +575,7 @@
   "news:https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants": "2026-10-27T17:08:52Z",
   "news:https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs": "2026-10-16T21:24:27Z",
+  "news:https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet": "2026-11-04T17:39:01Z",
   "news:https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french": "2026-10-22T20:55:59Z",
