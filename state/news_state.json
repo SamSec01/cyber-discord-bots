@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-04T08:04:05Z"
+  "last_run": "2026-11-04T09:19:06Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -217,6 +217,7 @@
   "news:https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html": "2026-11-02T15:42:10Z",
   "news:https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": "2026-11-01T08:14:38Z",
   "news:https://thehackernews.com/2026/11/google-disrupts-13-million-device.html": "2026-11-02T16:46:16Z",
+  "news:https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html": "2026-11-04T09:19:00Z",
   "news:https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html": "2026-11-03T16:38:03Z",
   "news:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html": "2026-11-02T12:13:56Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": "2026-11-03T09:41:18Z",
@@ -227,6 +228,7 @@
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
   "news:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html": "2026-11-03T13:56:42Z",
   "news:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": "2026-11-03T13:56:37Z",
+  "news:https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html": "2026-11-04T09:19:02Z",
   "news:https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": "2026-11-03T07:57:14Z",
   "news:https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": "2026-11-03T07:57:16Z",
   "news:https://thehackernews.com/2026/11/the-4-elements-of-exposure.html": "2026-11-03T13:56:39Z",
@@ -687,6 +689,7 @@
   "news:https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/": "2026-10-30T10:12:54Z",
   "news:https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/": "2026-10-21T13:12:03Z",
   "news:https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/": "2026-10-22T08:04:37Z",
+  "news:https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/": "2026-11-04T09:19:04Z",
   "news:https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/": "2026-10-20T11:54:59Z",
   "news:https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/": "2026-10-23T13:07:16Z",
