@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-04T20:37:24Z"
+  "last_run": "2026-11-04T21:35:33Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -248,6 +248,7 @@
   "news:https://therecord.media/anti-putin-messages-disrupt-russian-education-platform": "2026-10-20T14:58:54Z",
   "news:https://therecord.media/aomei-yet-to-notify-customers-hijack-software": "2026-10-20T14:58:56Z",
   "news:https://therecord.media/apple-warns-users-99-countries-mercenary-spyware": "2026-11-02T15:42:05Z",
+  "news:https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident": "2026-11-04T21:35:29Z",
   "news:https://therecord.media/australia-spies-share-intel-and-want-victims-to-share-back": "2026-10-27T14:11:36Z",
   "news:https://therecord.media/belarus-russia-hackers-ukraine-war": "2026-10-28T16:13:04Z",
   "news:https://therecord.media/beyond-trust-cyberattack-china": "2026-10-16T21:24:22Z",
@@ -480,6 +481,7 @@
   "news:https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/": "2026-10-26T22:57:53Z",
   "news:https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/": "2026-10-27T22:24:25Z",
   "news:https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/": "2026-11-04T13:35:25Z",
+  "news:https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/": "2026-11-04T21:35:31Z",
   "news:https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/": "2026-10-28T16:13:09Z",
   "news:https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/": "2026-10-27T17:08:50Z",
   "news:https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/": "2026-10-26T15:25:06Z",
@@ -489,6 +491,7 @@
   "news:https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/": "2026-11-02T15:42:14Z",
   "news:https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/": "2026-10-20T19:54:18Z",
   "news:https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/": "2026-11-04T21:35:27Z",
   "news:https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses": "2026-10-29T19:19:05Z",
   "news:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": "2026-10-20T16:23:15Z",
