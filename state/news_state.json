@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-04T15:40:55Z"
+  "last_run": "2026-11-04T16:39:47Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -321,6 +321,7 @@
   "news:https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse": "2026-10-26T17:06:30Z",
   "news:https://therecord.media/ukraine-hackers-russia-alert-system": "2026-11-02T14:44:38Z",
   "news:https://therecord.media/ukraine-hackers-russia-grain-sandworm": "2026-10-22T09:58:58Z",
+  "news:https://therecord.media/ukraine-kyiv-independent-cyberattack": "2026-11-04T16:39:45Z",
   "news:https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident": "2026-10-27T15:10:10Z",
   "news:https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack": "2026-10-29T17:15:05Z",
   "news:https://therecord.media/utilities-cybersecurity-initiative-accenture": "2026-10-21T19:54:20Z",
@@ -438,6 +439,7 @@
   "news:https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/": "2026-10-22T14:57:56Z",
   "news:https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/": "2026-10-30T15:14:55Z",
   "news:https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": "2026-10-21T01:07:54Z",
+  "news:https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/": "2026-11-04T16:39:43Z",
   "news:https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/": "2026-10-28T10:09:58Z",
   "news:https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/": "2026-10-31T15:56:29Z",
   "news:https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": "2026-10-19T21:52:53Z",
