@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-05T16:51:22Z"
+  "last_run": "2026-11-05T17:44:38Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -320,6 +320,7 @@
   "news:https://therecord.media/russia-cyberattack-firstvds-cloud": "2026-10-19T11:58:15Z",
   "news:https://therecord.media/russia-datasuckers-hackers-arrested": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three": "2026-11-03T13:56:48Z",
+  "news:https://therecord.media/russia-hackers-smartphone-cyberattacks": "2026-11-05T17:44:34Z",
   "news:https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support": "2026-11-03T13:56:46Z",
   "news:https://therecord.media/russian-home-goods-chain-faces-disruptions": "2026-10-30T12:03:42Z",
   "news:https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center": "2026-10-19T16:19:09Z",
@@ -586,6 +587,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program": "2026-10-21T16:25:35Z",
   "news:https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era": "2026-11-05T17:44:32Z",
   "news:https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature": "2026-10-28T06:02:22Z",
@@ -660,6 +662,7 @@
   "news:https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/": "2026-10-29T14:21:39Z",
   "news:https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/": "2026-11-04T14:44:44Z",
   "news:https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/": "2026-10-20T14:01:46Z",
+  "news:https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/": "2026-11-05T17:44:36Z",
   "news:https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/": "2026-11-04T13:35:23Z",
   "news:https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/": "2026-10-20T13:10:18Z",
   "news:https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/": "2026-11-03T12:41:34Z",
