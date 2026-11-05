@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-05T12:15:43Z"
+  "last_run": "2026-11-05T13:39:43Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -231,6 +231,7 @@
   "news:https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": "2026-11-03T09:41:18Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": "2026-11-05T06:49:37Z",
   "news:https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": "2026-11-01T08:14:44Z",
+  "news:https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": "2026-11-05T13:39:34Z",
   "news:https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": "2026-11-02T13:35:44Z",
   "news:https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html": "2026-11-03T19:24:15Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
@@ -667,6 +668,7 @@
   "news:https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/": "2026-10-23T10:21:22Z",
   "news:https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/": "2026-10-29T14:21:31Z",
   "news:https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/": "2026-11-05T13:39:41Z",
   "news:https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/": "2026-11-04T14:44:46Z",
   "news:https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/": "2026-10-21T11:56:49Z",
   "news:https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/": "2026-10-30T14:18:22Z",
@@ -684,12 +686,14 @@
   "news:https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/": "2026-10-29T15:16:26Z",
   "news:https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/": "2026-10-22T10:25:32Z",
   "news:https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/": "2026-10-29T11:07:11Z",
+  "news:https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/": "2026-11-05T13:39:36Z",
   "news:https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/": "2026-11-05T11:22:17Z",
   "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
   "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/": "2026-11-03T12:41:32Z",
   "news:https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/": "2026-11-03T14:41:16Z",
+  "news:https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/": "2026-11-05T13:39:38Z",
   "news:https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/": "2026-10-27T02:00:38Z",
   "news:https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/": "2026-11-02T15:42:17Z",
   "news:https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/": "2026-10-27T10:03:12Z",
@@ -778,6 +782,7 @@
   "news:https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/": "2026-10-27T16:06:02Z",
   "news:https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/": "2026-10-30T09:14:15Z",
   "news:https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/": "2026-10-22T13:12:02Z",
+  "news:https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/": "2026-11-05T13:39:31Z",
   "news:https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/": "2026-10-20T14:01:51Z",
   "news:https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/": "2026-10-27T11:00:10Z",
   "news:https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/": "2026-10-28T13:25:25Z",
