@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-05T21:29:24Z"
+  "last_run": "2026-11-05T22:15:23Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -237,8 +237,10 @@
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
   "news:https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": "2026-11-05T05:45:15Z",
+  "news:https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html": "2026-11-05T22:15:16Z",
   "news:https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html": "2026-11-04T13:35:14Z",
   "news:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html": "2026-11-03T13:56:42Z",
+  "news:https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html": "2026-11-05T22:15:14Z",
   "news:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html": "2026-11-04T17:38:58Z",
   "news:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": "2026-11-03T13:56:37Z",
   "news:https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html": "2026-11-04T09:19:02Z",
@@ -427,6 +429,7 @@
   "news:https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-10-19T14:05:34Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/": "2026-10-29T20:07:08Z",
+  "news:https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/": "2026-11-05T22:15:18Z",
   "news:https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/": "2026-11-01T20:19:05Z",
   "news:https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/": "2026-11-02T19:40:51Z",
   "news:https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/": "2026-10-26T21:23:27Z",
@@ -599,6 +602,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature": "2026-10-28T06:02:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai": "2026-10-22T05:22:33Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos": "2026-11-05T22:15:21Z",
   "news:https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever": "2026-10-30T13:23:33Z",
   "news:https://www.darkreading.com/cybersecurity-operations/writing-next-chapter": "2026-10-16T21:24:22Z",
