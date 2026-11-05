@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-05T09:24:07Z"
+  "last_run": "2026-11-05T10:26:32Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -205,10 +205,12 @@
   "news:https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html": "2026-10-30T13:23:38Z",
   "news:https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html": "2026-10-30T17:05:22Z",
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html": "2026-11-05T10:26:28Z",
   "news:https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html": "2026-11-04T14:44:48Z",
   "news:https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html": "2026-11-03T05:38:27Z",
   "news:https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html": "2026-11-02T12:13:59Z",
   "news:https://thehackernews.com/2026/11/attackers-target-unpatched.html": "2026-11-03T05:38:25Z",
+  "news:https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html": "2026-11-05T10:26:25Z",
   "news:https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html": "2026-11-03T17:37:35Z",
   "news:https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html": "2026-11-03T17:37:40Z",
   "news:https://thehackernews.com/2026/11/chainstack-reports-production-systems.html": "2026-11-03T19:24:10Z",
@@ -261,6 +263,7 @@
   "news:https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks": "2026-11-03T18:30:08Z",
   "news:https://therecord.media/california-warns-all-public-school-students-of-data-breach": "2026-10-20T19:54:16Z",
   "news:https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining": "2026-11-04T19:44:44Z",
+  "news:https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack": "2026-11-05T10:26:23Z",
   "news:https://therecord.media/china-cyber-connectwise-ai": "2026-10-22T16:57:57Z",
   "news:https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack": "2026-10-19T19:56:13Z",
   "news:https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline": "2026-10-29T14:21:35Z",
@@ -742,6 +745,7 @@
   "news:https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/": "2026-11-01T11:24:41Z",
   "news:https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/": "2026-10-19T11:58:17Z",
   "news:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": "2026-10-21T13:12:01Z",
+  "news:https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/": "2026-11-05T10:26:30Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
   "news:https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/": "2026-11-03T07:57:18Z",
