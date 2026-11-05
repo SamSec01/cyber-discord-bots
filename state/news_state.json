@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-05T15:43:04Z"
+  "last_run": "2026-11-05T16:51:22Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -411,6 +411,7 @@
   "news:https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/": "2026-10-30T21:56:53Z",
   "news:https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/": "2026-11-04T18:38:36Z",
   "news:https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/": "2026-10-20T14:58:58Z",
+  "news:https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/": "2026-11-05T16:51:18Z",
   "news:https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/": "2026-10-28T19:17:10Z",
   "news:https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/": "2026-11-04T19:44:42Z",
   "news:https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/": "2026-10-26T19:58:43Z",
@@ -433,6 +434,7 @@
   "news:https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/": "2026-11-02T18:38:52Z",
   "news:https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/": "2026-11-03T19:24:17Z",
   "news:https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/": "2026-10-20T14:01:49Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/": "2026-11-05T16:51:20Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": "2026-10-17T15:47:45Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/": "2026-11-02T14:44:36Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/": "2026-10-29T19:19:08Z",
