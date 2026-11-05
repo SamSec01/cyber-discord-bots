@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-05T08:04:47Z"
+  "last_run": "2026-11-05T09:24:07Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -244,6 +244,7 @@
   "news:https://thehackernews.com/2026/11/the-4-elements-of-exposure.html": "2026-11-03T13:56:39Z",
   "news:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html": "2026-11-02T18:38:50Z",
   "news:https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html": "2026-11-04T13:35:16Z",
+  "news:https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html": "2026-11-05T09:24:02Z",
   "news:https://therecord.media/23andme-california-data-breach-settlement": "2026-10-20T19:04:24Z",
   "news:https://therecord.media/africa-cybercrime-interpol-arrests": "2026-10-22T14:01:24Z",
   "news:https://therecord.media/ahold-delhaize-cyberattack-grocery": "2026-10-19T16:59:10Z",
@@ -418,6 +419,7 @@
   "news:https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/": "2026-10-26T21:23:27Z",
   "news:https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/": "2026-10-31T13:16:35Z",
   "news:https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/": "2026-11-03T15:30:48Z",
+  "news:https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/": "2026-11-05T09:24:05Z",
   "news:https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/": "2026-10-22T11:55:50Z",
   "news:https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/": "2026-11-04T15:40:53Z",
   "news:https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/": "2026-11-02T18:38:52Z",
