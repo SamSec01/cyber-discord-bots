@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-05T20:32:21Z"
+  "last_run": "2026-11-05T21:29:24Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -327,6 +327,7 @@
   "news:https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center": "2026-10-19T16:19:09Z",
   "news:https://therecord.media/serbia-election-spyware-vucic": "2026-10-26T17:58:46Z",
   "news:https://therecord.media/serbia-spyware-pegasus-elections": "2026-10-19T19:05:29Z",
+  "news:https://therecord.media/social-media-giants-sue-california-over-social-media-law": "2026-11-05T21:29:20Z",
   "news:https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident": "2026-10-22T13:12:00Z",
   "news:https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years": "2026-10-30T15:14:53Z",
   "news:https://therecord.media/texas-sues-openai-deceiving-customers": "2026-10-26T21:23:25Z",
@@ -545,6 +546,7 @@
   "news:https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys": "2026-10-20T22:16:07Z",
   "news:https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions": "2026-10-29T16:15:26Z",
   "news:https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it": "2026-10-23T21:17:03Z",
+  "news:https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds": "2026-11-05T21:29:22Z",
   "news:https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk": "2026-10-23T14:01:58Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years": "2026-10-26T15:25:04Z",
