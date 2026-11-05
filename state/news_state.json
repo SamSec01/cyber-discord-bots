@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-05T04:43:57Z"
+  "last_run": "2026-11-05T05:45:17Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -231,6 +231,7 @@
   "news:https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html": "2026-11-03T19:24:15Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
+  "news:https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": "2026-11-05T05:45:15Z",
   "news:https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html": "2026-11-04T13:35:14Z",
   "news:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html": "2026-11-03T13:56:42Z",
   "news:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html": "2026-11-04T17:38:58Z",
