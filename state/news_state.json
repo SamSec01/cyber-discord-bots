@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-06T18:34:44Z"
+  "last_run": "2026-11-06T19:39:46Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -285,6 +285,7 @@
   "news:https://therecord.media/cyberattack-grocery-freezers-europe": "2026-11-02T13:35:50Z",
   "news:https://therecord.media/cyberattacks-refrigeration-cisa-fbi": "2026-11-05T19:39:34Z",
   "news:https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party": "2026-10-21T19:05:30Z",
+  "news:https://therecord.media/digicert-certificate-authority-reports-data-breach": "2026-11-06T19:39:42Z",
   "news:https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale": "2026-10-30T21:01:46Z",
   "news:https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams": "2026-10-26T17:06:28Z",
   "news:https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation": "2026-11-06T11:39:47Z",
@@ -311,6 +312,7 @@
   "news:https://therecord.media/litellm-hackers-ai-malware": "2026-10-26T13:41:32Z",
   "news:https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar": "2026-10-27T19:57:50Z",
   "news:https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes": "2026-10-27T14:11:48Z",
+  "news:https://therecord.media/medical-services-company-settles-with-4-state-ags": "2026-11-06T19:39:44Z",
   "news:https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist": "2026-11-02T22:05:27Z",
   "news:https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case": "2026-10-21T20:55:30Z",
   "news:https://therecord.media/michigan-state-university-byod-gang-cyber-incident": "2026-11-02T20:30:29Z",
@@ -445,6 +447,7 @@
   "news:https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/": "2026-10-29T20:07:08Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/": "2026-11-05T22:15:18Z",
+  "news:https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/": "2026-11-06T19:39:40Z",
   "news:https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/": "2026-11-06T01:54:36Z",
   "news:https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/": "2026-11-01T20:19:05Z",
   "news:https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/": "2026-11-02T19:40:51Z",
@@ -557,6 +560,7 @@
   "news:https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability": "2026-10-27T21:56:10Z",
   "news:https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats": "2026-11-03T16:38:00Z",
   "news:https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job": "2026-11-06T19:39:38Z",
   "news:https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials": "2026-10-28T15:14:38Z",
   "news:https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage": "2026-10-23T12:15:25Z",
