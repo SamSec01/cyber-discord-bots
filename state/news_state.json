@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-06T21:25:47Z"
+  "last_run": "2026-11-06T22:01:41Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -591,6 +591,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack": "2026-10-22T22:15:59Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina": "2026-11-06T22:01:37Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors": "2026-10-21T17:21:54Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia": "2026-11-02T14:44:34Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach": "2026-11-04T02:33:31Z",
@@ -627,6 +628,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature": "2026-10-28T06:02:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai": "2026-10-22T05:22:33Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy": "2026-11-06T22:01:39Z",
   "news:https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk": "2026-11-06T09:48:19Z",
   "news:https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos": "2026-11-05T22:15:21Z",
   "news:https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you": "2026-10-16T21:24:22Z",
