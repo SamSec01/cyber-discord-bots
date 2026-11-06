@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-06T06:48:41Z"
+  "last_run": "2026-11-06T07:59:55Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -223,6 +223,7 @@
   "news:https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html": "2026-11-04T13:35:19Z",
   "news:https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html": "2026-11-02T15:42:10Z",
   "news:https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html": "2026-11-04T17:39:07Z",
+  "news:https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html": "2026-11-06T07:59:51Z",
   "news:https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": "2026-11-01T08:14:38Z",
   "news:https://thehackernews.com/2026/11/google-disrupts-13-million-device.html": "2026-11-02T16:46:16Z",
   "news:https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html": "2026-11-04T09:19:00Z",
@@ -230,6 +231,7 @@
   "news:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html": "2026-11-02T12:13:56Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": "2026-11-03T09:41:18Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": "2026-11-05T06:49:37Z",
+  "news:https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html": "2026-11-06T07:59:53Z",
   "news:https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": "2026-11-01T08:14:44Z",
   "news:https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": "2026-11-05T13:39:34Z",
   "news:https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": "2026-11-02T13:35:44Z",
