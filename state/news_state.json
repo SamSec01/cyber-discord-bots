@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-06T07:59:55Z"
+  "last_run": "2026-11-06T08:48:31Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -214,6 +214,7 @@
   "news:https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html": "2026-11-05T10:26:25Z",
   "news:https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html": "2026-11-03T17:37:35Z",
   "news:https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html": "2026-11-03T17:37:40Z",
+  "news:https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html": "2026-11-06T08:48:29Z",
   "news:https://thehackernews.com/2026/11/chainstack-reports-production-systems.html": "2026-11-03T19:24:10Z",
   "news:https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html": "2026-11-04T13:35:12Z",
   "news:https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html": "2026-11-04T08:04:03Z",
