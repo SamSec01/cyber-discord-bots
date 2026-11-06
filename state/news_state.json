@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-06T12:42:08Z"
+  "last_run": "2026-11-06T13:57:38Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -236,6 +236,8 @@
   "news:https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": "2026-11-01T08:14:44Z",
   "news:https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": "2026-11-05T13:39:34Z",
   "news:https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": "2026-11-02T13:35:44Z",
+  "news:https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html": "2026-11-06T13:57:27Z",
+  "news:https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html": "2026-11-06T13:57:29Z",
   "news:https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html": "2026-11-03T19:24:15Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
@@ -743,6 +745,7 @@
   "news:https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/": "2026-10-21T17:21:56Z",
   "news:https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/": "2026-11-02T13:35:53Z",
   "news:https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/": "2026-10-29T15:16:33Z",
+  "news:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/": "2026-11-06T13:57:32Z",
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
   "news:https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/": "2026-10-28T10:09:56Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
@@ -785,6 +788,7 @@
   "news:https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/": "2026-11-05T10:26:30Z",
   "news:https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/": "2026-11-06T09:48:24Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/": "2026-11-06T13:57:36Z",
   "news:https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/": "2026-11-06T12:42:01Z",
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
   "news:https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/": "2026-11-03T07:57:18Z",
@@ -825,6 +829,7 @@
   "news:https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/": "2026-10-27T13:15:02Z",
   "news:https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/": "2026-10-28T14:16:54Z",
   "news:https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/": "2026-10-20T15:57:25Z",
+  "news:https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/": "2026-11-06T13:57:34Z",
   "news:https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/": "2026-10-18T11:10:04Z",
   "news:https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/": "2026-10-27T14:11:45Z",
   "news:https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/": "2026-10-16T21:24:22Z",
