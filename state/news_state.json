@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-06T10:48:06Z"
+  "last_run": "2026-11-06T11:39:51Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -251,6 +251,7 @@
   "news:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": "2026-11-04T17:39:05Z",
   "news:https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": "2026-11-03T07:57:16Z",
   "news:https://thehackernews.com/2026/11/the-4-elements-of-exposure.html": "2026-11-03T13:56:39Z",
+  "news:https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html": "2026-11-06T11:39:49Z",
   "news:https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html": "2026-11-05T15:42:58Z",
   "news:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html": "2026-11-02T18:38:50Z",
   "news:https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html": "2026-11-04T13:35:16Z",
@@ -280,6 +281,7 @@
   "news:https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party": "2026-10-21T19:05:30Z",
   "news:https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale": "2026-10-30T21:01:46Z",
   "news:https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams": "2026-10-26T17:06:28Z",
+  "news:https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation": "2026-11-06T11:39:47Z",
   "news:https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack": "2026-10-20T15:24:29Z",
   "news:https://therecord.media/european-defense-contractors-fancy-bear-espionage": "2026-10-20T10:17:12Z",
   "news:https://therecord.media/fbi-blames-tradertraitor-for-binance-hack": "2026-11-02T09:28:55Z",
