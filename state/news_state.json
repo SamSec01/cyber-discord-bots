@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-06T11:39:51Z"
+  "last_run": "2026-11-06T12:42:08Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -422,6 +422,7 @@
   "news:https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/": "2026-10-26T17:06:25Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/": "2026-10-30T21:56:53Z",
   "news:https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/": "2026-11-04T18:38:36Z",
+  "news:https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/": "2026-11-06T12:42:06Z",
   "news:https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/": "2026-10-20T14:58:58Z",
   "news:https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/": "2026-11-05T16:51:18Z",
   "news:https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/": "2026-10-28T19:17:10Z",
@@ -784,6 +785,7 @@
   "news:https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/": "2026-11-05T10:26:30Z",
   "news:https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/": "2026-11-06T09:48:24Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/": "2026-11-06T12:42:01Z",
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
   "news:https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/": "2026-11-03T07:57:18Z",
   "news:https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/": "2026-10-29T13:27:46Z",
@@ -798,6 +800,7 @@
   "news:https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/": "2026-10-23T08:58:43Z",
   "news:https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": "2026-10-19T15:55:39Z",
+  "news:https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/": "2026-11-06T12:42:04Z",
   "news:https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/": "2026-11-02T14:44:29Z",
   "news:https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/": "2026-11-04T11:29:00Z",
   "news:https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/": "2026-10-27T11:00:15Z",
