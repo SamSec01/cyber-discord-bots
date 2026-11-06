@@ -2,8 +2,8 @@
  "meta": {
   "kev_seeded": true,
   "last_errors": [],
-  "last_nvd_end": "2026-11-06T09:09:18Z",
-  "last_run": "2026-11-06T09:09:30Z"
+  "last_nvd_end": "2026-11-06T10:14:44Z",
+  "last_run": "2026-11-06T10:14:45Z"
  },
  "seen": {
   "kev:CVE-2002-0367": "2026-10-16T21:24:43Z",
