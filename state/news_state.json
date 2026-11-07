@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-07T07:28:13Z"
+  "last_run": "2026-11-07T08:18:36Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -218,6 +218,7 @@
   "news:https://thehackernews.com/2026/11/chainstack-reports-production-systems.html": "2026-11-03T19:24:10Z",
   "news:https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html": "2026-11-04T13:35:12Z",
   "news:https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html": "2026-11-04T08:04:03Z",
+  "news:https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html": "2026-11-07T08:18:34Z",
   "news:https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html": "2026-11-03T16:37:56Z",
   "news:https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": "2026-11-02T13:35:46Z",
   "news:https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html": "2026-11-01T10:04:04Z",
