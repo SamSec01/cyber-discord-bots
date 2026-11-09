@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-09T11:41:00Z"
+  "last_run": "2026-11-09T12:45:03Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -539,6 +539,7 @@
   "news:https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": "2026-10-30T16:09:19Z",
   "news:https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/": "2026-11-05T20:32:19Z",
   "news:https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/": "2026-11-03T14:41:11Z",
+  "news:https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/": "2026-11-09T12:44:56Z",
   "news:https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/": "2026-10-26T22:57:53Z",
   "news:https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/": "2026-10-27T22:24:25Z",
   "news:https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/": "2026-11-04T13:35:25Z",
@@ -782,6 +783,7 @@
   "news:https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/": "2026-10-29T15:16:33Z",
   "news:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/": "2026-11-06T13:57:32Z",
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
+  "news:https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/": "2026-11-09T12:44:54Z",
   "news:https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/": "2026-10-28T10:09:56Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
   "news:https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/": "2026-10-29T11:07:15Z",
@@ -798,7 +800,9 @@
   "news:https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/": "2026-10-26T15:25:18Z",
   "news:https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/": "2026-10-27T12:02:04Z",
   "news:https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/": "2026-10-23T07:12:18Z",
+  "news:https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/": "2026-11-09T12:45:01Z",
   "news:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": "2026-10-17T11:09:48Z",
+  "news:https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/": "2026-11-09T12:44:58Z",
   "news:https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/": "2026-11-02T08:11:24Z",
   "news:https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/": "2026-11-06T18:34:42Z",
   "news:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/": "2026-10-23T08:58:41Z",
