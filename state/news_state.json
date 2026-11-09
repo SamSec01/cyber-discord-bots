@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-09T08:10:48Z"
+  "last_run": "2026-11-09T09:33:27Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -769,6 +769,7 @@
   "news:https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/": "2026-10-30T13:23:40Z",
   "news:https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/": "2026-11-03T14:41:18Z",
   "news:https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/": "2026-10-26T15:25:15Z",
+  "news:https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/": "2026-11-09T09:33:25Z",
   "news:https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/": "2026-11-03T09:41:22Z",
   "news:https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/": "2026-10-21T17:21:56Z",
   "news:https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/": "2026-11-02T13:35:53Z",
