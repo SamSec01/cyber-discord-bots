@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-09T23:05:45Z"
+  "last_run": "2026-11-09T23:57:29Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -562,6 +562,7 @@
   "news:https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/": "2026-10-27T22:24:25Z",
   "news:https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/": "2026-11-09T14:01:51Z",
   "news:https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/": "2026-11-04T13:35:25Z",
+  "news:https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/": "2026-11-09T23:57:27Z",
   "news:https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/": "2026-11-06T15:31:49Z",
   "news:https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/": "2026-11-04T21:35:31Z",
   "news:https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/": "2026-10-28T16:13:09Z",
