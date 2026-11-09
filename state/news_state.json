@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-09T21:13:48Z"
+  "last_run": "2026-11-09T22:06:47Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -516,6 +516,7 @@
   "news:https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/": "2026-11-06T09:48:22Z",
   "news:https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": "2026-10-21T01:07:54Z",
   "news:https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/": "2026-11-04T16:39:43Z",
+  "news:https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/": "2026-11-09T22:06:42Z",
   "news:https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/": "2026-10-28T10:09:58Z",
   "news:https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/": "2026-10-31T15:56:29Z",
   "news:https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/": "2026-11-04T17:39:03Z",
@@ -567,6 +568,7 @@
   "news:https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/": "2026-10-26T15:25:06Z",
   "news:https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/": "2026-10-19T21:52:50Z",
   "news:https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/": "2026-11-03T22:08:25Z",
+  "news:https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/": "2026-11-09T22:06:40Z",
   "news:https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/": "2026-10-23T15:00:37Z",
   "news:https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/": "2026-11-02T15:42:14Z",
   "news:https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/": "2026-10-20T19:54:18Z",
@@ -581,6 +583,7 @@
   "news:https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github": "2026-10-28T22:59:01Z",
   "news:https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown": "2026-10-26T21:23:22Z",
+  "news:https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion": "2026-11-09T22:06:38Z",
   "news:https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry": "2026-10-21T20:14:45Z",
   "news:https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks": "2026-10-30T15:14:51Z",
   "news:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": "2026-10-16T21:24:22Z",
@@ -613,6 +616,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths": "2026-11-02T23:00:00Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents": "2026-11-09T22:06:45Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack": "2026-10-21T13:12:06Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor": "2026-10-30T21:01:44Z",
