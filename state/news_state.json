@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-09T14:01:53Z"
+  "last_run": "2026-11-09T15:17:36Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -267,6 +267,7 @@
   "news:https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html": "2026-11-09T08:10:43Z",
   "news:https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html": "2026-11-09T11:40:54Z",
   "news:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html": "2026-11-02T18:38:50Z",
+  "news:https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html": "2026-11-09T15:17:26Z",
   "news:https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html": "2026-11-04T13:35:16Z",
   "news:https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html": "2026-11-05T09:24:02Z",
   "news:https://therecord.media/23andme-california-data-breach-settlement": "2026-10-20T19:04:24Z",
@@ -290,6 +291,7 @@
   "news:https://therecord.media/china-cyber-connectwise-ai": "2026-10-22T16:57:57Z",
   "news:https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack": "2026-10-19T19:56:13Z",
   "news:https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline": "2026-10-29T14:21:35Z",
+  "news:https://therecord.media/cyberattack-germany-ai-mittwald": "2026-11-09T15:17:30Z",
   "news:https://therecord.media/cyberattack-grocery-freezers-europe": "2026-11-02T13:35:50Z",
   "news:https://therecord.media/cyberattacks-refrigeration-cisa-fbi": "2026-11-05T19:39:34Z",
   "news:https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party": "2026-10-21T19:05:30Z",
@@ -458,6 +460,7 @@
   "news:https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/": "2026-10-29T20:07:08Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/": "2026-11-05T22:15:18Z",
   "news:https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/": "2026-11-06T19:39:40Z",
+  "news:https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/": "2026-11-09T15:17:32Z",
   "news:https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/": "2026-11-06T01:54:36Z",
   "news:https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/": "2026-11-01T20:19:05Z",
   "news:https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/": "2026-11-02T19:40:51Z",
@@ -536,6 +539,7 @@
   "news:https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/": "2026-10-21T01:07:56Z",
   "news:https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/": "2026-11-02T12:14:01Z",
   "news:https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/": "2026-10-27T14:11:53Z",
+  "news:https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/": "2026-11-09T15:17:34Z",
   "news:https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/": "2026-10-27T14:11:50Z",
   "news:https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": "2026-10-30T16:09:19Z",
   "news:https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/": "2026-11-05T20:32:19Z",
@@ -850,6 +854,7 @@
   "news:https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": "2026-10-19T15:55:39Z",
   "news:https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/": "2026-11-06T12:42:04Z",
   "news:https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/": "2026-11-02T14:44:29Z",
+  "news:https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/": "2026-11-09T15:17:28Z",
   "news:https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/": "2026-11-04T11:29:00Z",
   "news:https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/": "2026-10-27T11:00:15Z",
   "news:https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/": "2026-11-05T11:22:13Z",
