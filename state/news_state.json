@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-09T12:45:03Z"
+  "last_run": "2026-11-09T14:01:53Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -313,6 +313,7 @@
   "news:https://therecord.media/general-motors-lawsuit-privacy": "2026-10-29T20:07:10Z",
   "news:https://therecord.media/german-officials-among-apple-spyware-warning-recipients": "2026-11-03T19:24:13Z",
   "news:https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes": "2026-11-03T20:13:23Z",
+  "news:https://therecord.media/hackers-russia-italy-noname": "2026-11-09T14:01:49Z",
   "news:https://therecord.media/hackers-target-government-windows-systems-asia-new-malware": "2026-10-30T13:23:45Z",
   "news:https://therecord.media/hackers-ukraine-belarus-russia": "2026-11-02T17:42:31Z",
   "news:https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident": "2026-10-22T19:05:30Z",
@@ -542,6 +543,7 @@
   "news:https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/": "2026-11-09T12:44:56Z",
   "news:https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/": "2026-10-26T22:57:53Z",
   "news:https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/": "2026-10-27T22:24:25Z",
+  "news:https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/": "2026-11-09T14:01:51Z",
   "news:https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/": "2026-11-04T13:35:25Z",
   "news:https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/": "2026-11-06T15:31:49Z",
   "news:https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/": "2026-11-04T21:35:31Z",
@@ -841,6 +843,7 @@
   "news:https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/": "2026-10-21T07:13:07Z",
   "news:https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/": "2026-10-21T16:58:16Z",
   "news:https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/": "2026-10-19T13:11:13Z",
+  "news:https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/": "2026-11-09T14:01:46Z",
   "news:https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/": "2026-11-02T10:27:18Z",
   "news:https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/": "2026-10-23T08:58:43Z",
