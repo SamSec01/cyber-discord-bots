@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T21:08:40Z"
+  "last_run": "2026-11-10T22:02:10Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -16,6 +16,7 @@
   "news:https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/": "2026-10-21T15:59:54Z",
+  "news:https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/": "2026-11-10T22:02:08Z",
   "news:https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/": "2026-11-03T03:35:19Z",
   "news:https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/": "2026-11-05T04:43:55Z",
   "news:https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html": "2026-10-29T13:27:44Z",
@@ -399,6 +400,7 @@
   "news:https://therecord.media/ukraine-hackers-russia-grain-sandworm": "2026-10-22T09:58:58Z",
   "news:https://therecord.media/ukraine-kyiv-independent-cyberattack": "2026-11-04T16:39:45Z",
   "news:https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident": "2026-10-27T15:10:10Z",
+  "news:https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia": "2026-11-10T22:02:05Z",
   "news:https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack": "2026-10-29T17:15:05Z",
   "news:https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers": "2026-11-05T20:32:17Z",
   "news:https://therecord.media/utilities-cybersecurity-initiative-accenture": "2026-10-21T19:54:20Z",
@@ -617,6 +619,7 @@
   "news:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": "2026-10-20T16:23:15Z",
   "news:https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers": "2026-11-04T22:32:27Z",
   "news:https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice": "2026-10-23T20:12:17Z",
+  "news:https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them": "2026-11-10T22:02:01Z",
   "news:https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github": "2026-10-28T22:59:01Z",
   "news:https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps": "2026-10-16T21:24:22Z",
@@ -653,6 +656,7 @@
   "news:https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk": "2026-10-23T14:01:58Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years": "2026-10-26T15:25:04Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools": "2026-10-29T22:03:22Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon": "2026-11-10T22:02:03Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths": "2026-11-02T23:00:00Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": "2026-10-16T21:24:22Z",
