@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T05:39:03Z"
+  "last_run": "2026-11-10T06:43:01Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -220,6 +220,7 @@
   "news:https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html": "2026-11-04T13:35:12Z",
   "news:https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html": "2026-11-04T08:04:03Z",
   "news:https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html": "2026-11-09T06:55:40Z",
+  "news:https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html": "2026-11-10T06:42:59Z",
   "news:https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html": "2026-11-07T08:18:34Z",
   "news:https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html": "2026-11-03T16:37:56Z",
   "news:https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": "2026-11-02T13:35:46Z",
@@ -775,6 +776,7 @@
   "news:https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/": "2026-10-29T08:19:22Z",
   "news:https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/": "2026-11-04T11:29:02Z",
   "news:https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/": "2026-10-28T14:16:49Z",
+  "news:https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/": "2026-11-10T06:42:57Z",
   "news:https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/": "2026-10-28T09:12:08Z",
   "news:https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/": "2026-10-29T15:16:26Z",
   "news:https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/": "2026-10-22T10:25:32Z",
