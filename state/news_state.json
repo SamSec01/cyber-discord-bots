@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T07:57:39Z"
+  "last_run": "2026-11-10T08:47:18Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -206,6 +206,7 @@
   "news:https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html": "2026-10-30T17:05:22Z",
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html": "2026-11-05T11:22:11Z",
+  "news:https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html": "2026-11-10T08:47:16Z",
   "news:https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html": "2026-11-05T10:26:28Z",
   "news:https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html": "2026-11-04T14:44:48Z",
   "news:https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html": "2026-11-03T05:38:27Z",
