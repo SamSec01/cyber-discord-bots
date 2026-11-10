@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T10:41:37Z"
+  "last_run": "2026-11-10T11:38:25Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -207,6 +207,7 @@
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html": "2026-11-05T11:22:11Z",
   "news:https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html": "2026-11-10T08:47:16Z",
+  "news:https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html": "2026-11-10T11:38:23Z",
   "news:https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html": "2026-11-05T10:26:28Z",
   "news:https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html": "2026-11-04T14:44:48Z",
   "news:https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html": "2026-11-03T05:38:27Z",
@@ -265,6 +266,7 @@
   "news:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html": "2026-11-04T17:38:58Z",
   "news:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": "2026-11-03T13:56:37Z",
   "news:https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html": "2026-11-04T09:19:02Z",
+  "news:https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html": "2026-11-10T11:38:21Z",
   "news:https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html": "2026-11-10T10:41:31Z",
   "news:https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": "2026-11-03T07:57:14Z",
   "news:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": "2026-11-04T17:39:05Z",
