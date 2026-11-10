@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T12:41:41Z"
+  "last_run": "2026-11-10T13:56:27Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -217,6 +217,7 @@
   "news:https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html": "2026-11-03T17:37:35Z",
   "news:https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html": "2026-11-10T12:41:34Z",
   "news:https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html": "2026-11-03T17:37:40Z",
+  "news:https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html": "2026-11-10T13:56:18Z",
   "news:https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html": "2026-11-09T16:26:35Z",
   "news:https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html": "2026-11-06T08:48:29Z",
   "news:https://thehackernews.com/2026/11/chainstack-reports-production-systems.html": "2026-11-03T19:24:10Z",
@@ -363,6 +364,7 @@
   "news:https://therecord.media/russia-cyberattack-firstvds-cloud": "2026-10-19T11:58:15Z",
   "news:https://therecord.media/russia-datasuckers-hackers-arrested": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three": "2026-11-03T13:56:48Z",
+  "news:https://therecord.media/russia-hackers-espionage-romania-kazakhstan": "2026-11-10T13:56:21Z",
   "news:https://therecord.media/russia-hackers-smartphone-cyberattacks": "2026-11-05T17:44:34Z",
   "news:https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support": "2026-11-03T13:56:46Z",
   "news:https://therecord.media/russian-home-goods-chain-faces-disruptions": "2026-10-30T12:03:42Z",
@@ -590,6 +592,7 @@
   "news:https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/": "2026-10-20T19:54:18Z",
   "news:https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/": "2026-11-04T21:35:27Z",
+  "news:https://www.darkreading.com/application-security/ai-reverse-engineering-apps": "2026-11-10T13:56:23Z",
   "news:https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses": "2026-10-29T19:19:05Z",
   "news:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": "2026-10-20T16:23:15Z",
@@ -880,6 +883,7 @@
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
   "news:https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/": "2026-11-03T07:57:18Z",
   "news:https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/": "2026-10-29T13:27:46Z",
+  "news:https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/": "2026-11-10T13:56:25Z",
   "news:https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/": "2026-10-30T14:18:25Z",
   "news:https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/": "2026-10-30T16:09:13Z",
   "news:https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/": "2026-10-26T13:41:36Z",
