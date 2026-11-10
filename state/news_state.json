@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T22:02:10Z"
+  "last_run": "2026-11-10T23:01:56Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -408,6 +408,7 @@
   "news:https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court": "2026-10-28T21:03:50Z",
   "news:https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction": "2026-10-19T20:18:42Z",
   "news:https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/": "2026-10-27T11:00:13Z",
+  "news:https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/": "2026-11-10T23:01:52Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/": "2026-10-29T23:56:45Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/": "2026-10-26T20:58:37Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": "2026-10-20T18:16:54Z",
@@ -752,6 +753,7 @@
   "news:https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience": "2026-10-19T14:05:36Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves": "2026-11-10T23:01:54Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites": "2026-10-19T15:55:37Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available": "2026-10-16T21:24:22Z",
