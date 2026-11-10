@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T08:47:18Z"
+  "last_run": "2026-11-10T09:40:56Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -233,6 +233,7 @@
   "news:https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html": "2026-11-06T07:59:51Z",
   "news:https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": "2026-11-01T08:14:38Z",
   "news:https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html": "2026-11-09T08:10:46Z",
+  "news:https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html": "2026-11-10T09:40:54Z",
   "news:https://thehackernews.com/2026/11/google-disrupts-13-million-device.html": "2026-11-02T16:46:16Z",
   "news:https://thehackernews.com/2026/11/google-issues-chrome-security-update.html": "2026-11-10T07:57:32Z",
   "news:https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html": "2026-11-04T09:19:00Z",
@@ -486,6 +487,7 @@
   "news:https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/": "2026-11-04T15:40:53Z",
   "news:https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/": "2026-11-02T18:38:52Z",
   "news:https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/": "2026-11-03T19:24:17Z",
+  "news:https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/": "2026-11-10T09:40:52Z",
   "news:https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/": "2026-10-20T14:01:49Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/": "2026-11-05T16:51:20Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": "2026-10-17T15:47:45Z",
