@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T09:40:56Z"
+  "last_run": "2026-11-10T10:41:37Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -265,6 +265,7 @@
   "news:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html": "2026-11-04T17:38:58Z",
   "news:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": "2026-11-03T13:56:37Z",
   "news:https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html": "2026-11-04T09:19:02Z",
+  "news:https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html": "2026-11-10T10:41:31Z",
   "news:https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": "2026-11-03T07:57:14Z",
   "news:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": "2026-11-04T17:39:05Z",
   "news:https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": "2026-11-03T07:57:16Z",
@@ -492,6 +493,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/": "2026-11-05T16:51:20Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": "2026-10-17T15:47:45Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/": "2026-11-02T14:44:36Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/": "2026-11-10T10:41:35Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/": "2026-10-29T19:19:08Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": "2026-10-18T14:48:51Z",
@@ -563,6 +565,7 @@
   "news:https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/": "2026-10-27T14:11:50Z",
   "news:https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": "2026-10-30T16:09:19Z",
   "news:https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/": "2026-11-05T20:32:19Z",
+  "news:https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/": "2026-11-10T10:41:33Z",
   "news:https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/": "2026-11-03T14:41:11Z",
   "news:https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/": "2026-11-09T12:44:56Z",
   "news:https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/": "2026-10-26T22:57:53Z",
@@ -828,6 +831,7 @@
   "news:https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/": "2026-10-21T06:17:19Z",
   "news:https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/": "2026-10-29T15:16:31Z",
   "news:https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/": "2026-10-27T14:11:39Z",
+  "news:https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/": "2026-11-10T10:41:26Z",
   "news:https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/": "2026-10-30T15:14:59Z",
   "news:https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/": "2026-10-23T15:00:39Z",
@@ -855,6 +859,7 @@
   "news:https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/": "2026-10-23T13:07:16Z",
   "news:https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/": "2026-10-19T10:00:06Z",
   "news:https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/": "2026-10-26T10:07:33Z",
+  "news:https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/": "2026-11-10T10:41:28Z",
   "news:https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/": "2026-11-03T09:41:20Z",
   "news:https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/": "2026-10-28T11:05:55Z",
   "news:https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/": "2026-10-26T11:02:49Z",
