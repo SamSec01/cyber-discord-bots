@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T19:26:04Z"
+  "last_run": "2026-11-10T20:12:38Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -240,6 +240,7 @@
   "news:https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html": "2026-11-10T16:35:00Z",
   "news:https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html": "2026-11-09T08:10:46Z",
   "news:https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html": "2026-11-10T09:40:54Z",
+  "news:https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html": "2026-11-10T20:12:32Z",
   "news:https://thehackernews.com/2026/11/google-disrupts-13-million-device.html": "2026-11-02T16:46:16Z",
   "news:https://thehackernews.com/2026/11/google-issues-chrome-security-update.html": "2026-11-10T07:57:32Z",
   "news:https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html": "2026-11-04T09:19:00Z",
@@ -247,6 +248,7 @@
   "news:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html": "2026-11-02T12:13:56Z",
   "news:https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html": "2026-11-09T19:21:26Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": "2026-11-03T09:41:18Z",
+  "news:https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html": "2026-11-10T20:12:27Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": "2026-11-05T06:49:37Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html": "2026-11-09T19:21:31Z",
   "news:https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html": "2026-11-06T17:35:53Z",
@@ -274,12 +276,14 @@
   "news:https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html": "2026-11-10T11:38:21Z",
   "news:https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html": "2026-11-10T10:41:31Z",
   "news:https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": "2026-11-03T07:57:14Z",
+  "news:https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html": "2026-11-10T20:12:30Z",
   "news:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": "2026-11-04T17:39:05Z",
   "news:https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": "2026-11-03T07:57:16Z",
   "news:https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html": "2026-11-09T10:42:19Z",
   "news:https://thehackernews.com/2026/11/the-4-elements-of-exposure.html": "2026-11-03T13:56:39Z",
   "news:https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html": "2026-11-06T11:39:49Z",
   "news:https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html": "2026-11-05T15:42:58Z",
+  "news:https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html": "2026-11-10T20:12:25Z",
   "news:https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html": "2026-11-09T08:10:43Z",
   "news:https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html": "2026-11-09T11:40:54Z",
   "news:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html": "2026-11-02T18:38:50Z",
@@ -421,6 +425,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/": "2026-10-19T09:03:17Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/": "2026-10-21T12:21:25Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/": "2026-10-26T16:17:40Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/": "2026-11-10T20:12:36Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/": "2026-10-27T19:09:32Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/": "2026-10-28T15:14:40Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/": "2026-10-22T15:56:49Z",
@@ -513,6 +518,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": "2026-10-18T14:48:51Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/": "2026-11-09T16:26:42Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/": "2026-11-10T20:12:34Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/": "2026-10-19T19:56:11Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/": "2026-10-27T20:58:53Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/": "2026-11-03T23:06:07Z",
@@ -633,6 +639,7 @@
   "news:https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough": "2026-10-23T14:01:56Z",
   "news:https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai": "2026-11-10T20:12:23Z",
   "news:https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era": "2026-10-29T23:00:36Z",
   "news:https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack": "2026-10-27T22:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too": "2026-10-16T21:24:22Z",
