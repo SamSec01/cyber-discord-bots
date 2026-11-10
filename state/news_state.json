@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-10T16:35:16Z"
+  "last_run": "2026-11-10T17:34:26Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -837,6 +837,7 @@
   "news:https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/": "2026-10-21T17:21:56Z",
   "news:https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/": "2026-11-02T13:35:53Z",
   "news:https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/": "2026-10-29T15:16:33Z",
+  "news:https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/": "2026-11-10T17:34:22Z",
   "news:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/": "2026-11-06T13:57:32Z",
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
   "news:https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/": "2026-11-09T12:44:54Z",
@@ -915,6 +916,7 @@
   "news:https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/": "2026-10-28T10:10:00Z",
   "news:https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/": "2026-10-19T19:05:27Z",
   "news:https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/": "2026-10-22T13:12:04Z",
+  "news:https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/": "2026-11-10T17:34:24Z",
   "news:https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/": "2026-11-07T11:03:35Z",
   "news:https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/": "2026-10-22T10:56:46Z",
   "news:https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/": "2026-10-26T15:25:13Z",
