@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T07:41:17Z"
+  "last_run": "2026-11-11T08:42:52Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -262,6 +262,8 @@
   "news:https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html": "2026-11-09T11:40:52Z",
   "news:https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html": "2026-11-06T13:57:27Z",
   "news:https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html": "2026-11-06T13:57:29Z",
+  "news:https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html": "2026-11-11T08:42:50Z",
+  "news:https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html": "2026-11-11T08:42:43Z",
   "news:https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html": "2026-11-03T19:24:15Z",
   "news:https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html": "2026-11-10T07:57:30Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
@@ -270,6 +272,7 @@
   "news:https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": "2026-11-06T17:35:50Z",
   "news:https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html": "2026-11-05T22:15:16Z",
   "news:https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html": "2026-11-04T13:35:14Z",
+  "news:https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html": "2026-11-11T08:42:45Z",
   "news:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html": "2026-11-03T13:56:42Z",
   "news:https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html": "2026-11-05T22:15:14Z",
   "news:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html": "2026-11-04T17:38:58Z",
@@ -930,6 +933,7 @@
   "news:https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/": "2026-10-23T08:58:43Z",
   "news:https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": "2026-10-19T15:55:39Z",
+  "news:https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/": "2026-11-11T08:42:47Z",
   "news:https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/": "2026-11-06T12:42:04Z",
   "news:https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/": "2026-11-02T14:44:29Z",
   "news:https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/": "2026-11-09T15:17:28Z",
