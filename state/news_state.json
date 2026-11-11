@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T12:44:50Z"
+  "last_run": "2026-11-11T14:00:10Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -272,6 +272,7 @@
   "news:https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": "2026-11-05T05:45:15Z",
   "news:https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": "2026-11-06T17:35:50Z",
   "news:https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html": "2026-11-05T22:15:16Z",
+  "news:https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html": "2026-11-11T14:00:01Z",
   "news:https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html": "2026-11-04T13:35:14Z",
   "news:https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html": "2026-11-11T08:42:45Z",
   "news:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html": "2026-11-03T13:56:42Z",
@@ -312,6 +313,7 @@
   "news:https://therecord.media/beyond-trust-cyberattack-china": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea": "2026-11-03T17:37:38Z",
   "news:https://therecord.media/binance-hit-by-record-6-billion-crypto-hack": "2026-10-30T10:12:50Z",
+  "news:https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms": "2026-11-11T14:00:03Z",
   "news:https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks": "2026-11-03T18:30:08Z",
   "news:https://therecord.media/california-warns-all-public-school-students-of-data-breach": "2026-10-20T19:54:16Z",
   "news:https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining": "2026-11-04T19:44:44Z",
@@ -371,6 +373,7 @@
   "news:https://therecord.media/php-script-vulnerabilities-warnings": "2026-10-21T14:57:33Z",
   "news:https://therecord.media/php-vulnerabilities-cisa-kev": "2026-10-27T14:11:41Z",
   "news:https://therecord.media/php2shell-successful-exploitation-reports-emerge": "2026-10-29T21:06:47Z",
+  "news:https://therecord.media/poland-shuts-down-government-services-platform-cyberattack": "2026-11-11T14:00:06Z",
   "news:https://therecord.media/polymarket-confirms-cyberattack-third-party": "2026-10-30T12:03:45Z",
   "news:https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise": "2026-11-02T17:42:33Z",
   "news:https://therecord.media/proofpoint-varonis-cybersecurity-acquisition": "2026-10-16T21:24:22Z",
@@ -844,6 +847,7 @@
   "news:https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/": "2026-10-29T11:07:11Z",
   "news:https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/": "2026-11-05T13:39:36Z",
   "news:https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/": "2026-11-05T11:22:17Z",
+  "news:https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/": "2026-11-11T14:00:08Z",
   "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
   "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
