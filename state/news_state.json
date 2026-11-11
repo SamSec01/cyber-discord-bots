@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T14:00:10Z"
+  "last_run": "2026-11-11T14:46:33Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -257,6 +257,7 @@
   "news:https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html": "2026-11-06T17:35:53Z",
   "news:https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html": "2026-11-06T07:59:53Z",
   "news:https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": "2026-11-01T08:14:44Z",
+  "news:https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html": "2026-11-11T14:46:31Z",
   "news:https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html": "2026-11-06T17:35:55Z",
   "news:https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": "2026-11-05T13:39:34Z",
   "news:https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": "2026-11-02T13:35:44Z",
@@ -816,6 +817,7 @@
   "news:https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/": "2026-10-26T20:22:07Z",
   "news:https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/": "2026-11-10T12:41:39Z",
   "news:https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": "2026-10-20T14:01:55Z",
+  "news:https://www.securityweek.com/asus-zoom-release-security-patches/": "2026-11-11T14:46:29Z",
   "news:https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/": "2026-10-21T14:00:34Z",
   "news:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/": "2026-10-23T08:58:39Z",
   "news:https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/": "2026-10-29T10:12:42Z",
