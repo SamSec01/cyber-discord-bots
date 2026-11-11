@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T19:44:45Z"
+  "last_run": "2026-11-11T21:15:53Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -578,6 +578,7 @@
   "news:https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/": "2026-11-04T17:39:03Z",
   "news:https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": "2026-10-19T21:52:53Z",
   "news:https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/": "2026-10-31T18:20:55Z",
+  "news:https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/": "2026-11-11T21:15:51Z",
   "news:https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/": "2026-10-21T16:58:13Z",
   "news:https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/": "2026-11-05T19:39:36Z",
   "news:https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/": "2026-11-06T20:31:17Z",
@@ -650,6 +651,7 @@
   "news:https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry": "2026-10-21T20:14:45Z",
   "news:https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks": "2026-10-30T15:14:51Z",
   "news:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack": "2026-11-11T21:15:48Z",
   "news:https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss": "2026-10-21T20:14:47Z",
   "news:https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path": "2026-10-27T21:24:59Z",
   "news:https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise": "2026-11-03T16:37:58Z",
@@ -746,6 +748,7 @@
   "news:https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux": "2026-11-09T19:21:33Z",
   "news:https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs": "2026-10-16T21:24:27Z",
   "news:https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet": "2026-11-04T17:39:01Z",
+  "news:https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws": "2026-11-11T21:15:48Z",
   "news:https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness": "2026-11-10T21:08:31Z",
   "news:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware": "2026-10-16T21:24:22Z",
