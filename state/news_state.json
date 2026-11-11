@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T05:23:12Z"
+  "last_run": "2026-11-11T06:20:06Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -228,6 +228,7 @@
   "news:https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html": "2026-11-04T08:04:03Z",
   "news:https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html": "2026-11-09T06:55:40Z",
   "news:https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html": "2026-11-10T06:42:59Z",
+  "news:https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html": "2026-11-11T06:20:04Z",
   "news:https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html": "2026-11-07T08:18:34Z",
   "news:https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html": "2026-11-03T16:37:56Z",
   "news:https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": "2026-11-02T13:35:46Z",
