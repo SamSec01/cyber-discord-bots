@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T16:53:21Z"
+  "last_run": "2026-11-11T17:43:34Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -235,6 +235,7 @@
   "news:https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": "2026-11-02T13:35:46Z",
   "news:https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html": "2026-11-01T10:04:04Z",
   "news:https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html": "2026-11-04T13:35:19Z",
+  "news:https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html": "2026-11-11T17:43:29Z",
   "news:https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html": "2026-11-02T15:42:10Z",
   "news:https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html": "2026-11-04T17:39:07Z",
   "news:https://thehackernews.com/2026/11/default-adminadmin-server-password.html": "2026-11-09T11:40:58Z",
@@ -353,6 +354,7 @@
   "news:https://therecord.media/hackers-target-government-windows-systems-asia-new-malware": "2026-10-30T13:23:45Z",
   "news:https://therecord.media/hackers-ukraine-belarus-russia": "2026-11-02T17:42:31Z",
   "news:https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident": "2026-10-22T19:05:30Z",
+  "news:https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime": "2026-11-11T17:43:32Z",
   "news:https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents": "2026-10-28T21:03:46Z",
   "news:https://therecord.media/litellm-hackers-ai-malware": "2026-10-26T13:41:32Z",
   "news:https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar": "2026-10-27T19:57:50Z",
