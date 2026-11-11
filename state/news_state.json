@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T14:46:33Z"
+  "last_run": "2026-11-11T15:33:48Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -503,6 +503,7 @@
   "news:https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/": "2026-10-26T19:58:43Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/": "2026-10-30T11:03:35Z",
+  "news:https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/": "2026-11-11T15:33:43Z",
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/": "2026-10-27T10:03:07Z",
   "news:https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/": "2026-10-28T14:16:52Z",
@@ -543,6 +544,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/": "2026-10-30T13:23:49Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": "2026-10-28T13:25:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/": "2026-11-07T15:58:12Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/": "2026-11-11T15:33:46Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/": "2026-11-04T10:28:36Z",
   "news:https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/": "2026-11-03T11:37:51Z",
   "news:https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/": "2026-10-23T13:07:18Z",
