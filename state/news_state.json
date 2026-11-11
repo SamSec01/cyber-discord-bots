@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T21:15:53Z"
+  "last_run": "2026-11-11T22:37:10Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -509,6 +509,7 @@
   "news:https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/": "2026-10-30T11:03:35Z",
   "news:https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/": "2026-11-11T15:33:43Z",
   "news:https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/": "2026-11-11T22:37:08Z",
   "news:https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/": "2026-10-27T10:03:07Z",
   "news:https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/": "2026-10-28T14:16:52Z",
   "news:https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": "2026-10-19T14:05:34Z",
@@ -662,6 +663,7 @@
   "news:https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github": "2026-11-10T19:25:57Z",
   "news:https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job": "2026-11-06T19:39:38Z",
+  "news:https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience": "2026-11-11T22:37:05Z",
   "news:https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials": "2026-10-28T15:14:38Z",
   "news:https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage": "2026-10-23T12:15:25Z",
