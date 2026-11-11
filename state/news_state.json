@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T22:37:10Z"
+  "last_run": "2026-11-11T23:13:34Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -457,6 +457,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/": "2026-10-20T13:10:07Z",
   "news:https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/": "2026-10-29T15:16:24Z",
   "news:https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/": "2026-10-23T21:17:00Z",
+  "news:https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/": "2026-11-11T23:13:30Z",
   "news:https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/": "2026-10-20T11:54:57Z",
   "news:https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/": "2026-10-25T15:51:47Z",
   "news:https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/": "2026-11-01T15:23:38Z",
@@ -465,6 +466,7 @@
   "news:https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/": "2026-10-22T17:20:42Z",
   "news:https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": "2026-10-22T09:02:28Z",
   "news:https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/": "2026-11-11T23:13:32Z",
   "news:https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/": "2026-11-03T15:30:50Z",
   "news:https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/": "2026-11-09T16:26:44Z",
