@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-11T06:20:06Z"
+  "last_run": "2026-11-11T07:41:17Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -811,6 +811,7 @@
   "news:https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/": "2026-11-05T13:39:41Z",
   "news:https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/": "2026-11-04T14:44:46Z",
+  "news:https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/": "2026-11-11T07:41:15Z",
   "news:https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/": "2026-11-08T12:33:27Z",
   "news:https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/": "2026-10-21T11:56:49Z",
   "news:https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/": "2026-10-30T14:18:22Z",
