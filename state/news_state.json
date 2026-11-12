@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-12T17:40:19Z"
+  "last_run": "2026-11-12T18:37:26Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -281,6 +281,7 @@
   "news:https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html": "2026-11-10T07:57:30Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
   "news:https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html": "2026-11-12T13:40:32Z",
+  "news:https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html": "2026-11-12T18:37:19Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
   "news:https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html": "2026-11-12T09:23:08Z",
   "news:https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": "2026-11-05T05:45:15Z",
@@ -306,6 +307,7 @@
   "news:https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html": "2026-11-09T10:42:19Z",
   "news:https://thehackernews.com/2026/11/the-4-elements-of-exposure.html": "2026-11-03T13:56:39Z",
   "news:https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html": "2026-11-06T11:39:49Z",
+  "news:https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html": "2026-11-12T18:37:21Z",
   "news:https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html": "2026-11-05T15:42:58Z",
   "news:https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html": "2026-11-10T20:12:25Z",
   "news:https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html": "2026-11-09T08:10:43Z",
@@ -415,6 +417,7 @@
   "news:https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center": "2026-10-19T16:19:09Z",
   "news:https://therecord.media/serbia-election-spyware-vucic": "2026-10-26T17:58:46Z",
   "news:https://therecord.media/serbia-spyware-pegasus-elections": "2026-10-19T19:05:29Z",
+  "news:https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system": "2026-11-12T18:37:24Z",
   "news:https://therecord.media/social-media-giants-sue-california-over-social-media-law": "2026-11-05T21:29:20Z",
   "news:https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident": "2026-10-22T13:12:00Z",
   "news:https://therecord.media/spyware-cyber-crime-iverify": "2026-11-10T16:35:03Z",
