@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-12T08:04:53Z"
+  "last_run": "2026-11-12T09:23:12Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -275,6 +275,7 @@
   "news:https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html": "2026-11-10T07:57:30Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
+  "news:https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html": "2026-11-12T09:23:08Z",
   "news:https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": "2026-11-05T05:45:15Z",
   "news:https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": "2026-11-06T17:35:50Z",
   "news:https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html": "2026-11-05T22:15:16Z",
@@ -931,6 +932,7 @@
   "news:https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/": "2026-11-06T18:34:42Z",
   "news:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/": "2026-10-23T08:58:41Z",
   "news:https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/": "2026-10-28T11:05:59Z",
+  "news:https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/": "2026-11-12T09:23:10Z",
   "news:https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/": "2026-11-02T12:14:03Z",
   "news:https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/": "2026-11-04T11:29:04Z",
   "news:https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/": "2026-10-27T08:06:12Z",
