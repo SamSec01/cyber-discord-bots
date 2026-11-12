@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-12T10:24:56Z"
+  "last_run": "2026-11-12T11:22:48Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -701,6 +701,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor": "2026-10-30T21:01:44Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets": "2026-10-26T18:30:02Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn": "2026-10-20T15:24:27Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer": "2026-11-12T11:22:44Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss": "2026-11-02T15:42:12Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack": "2026-10-22T22:15:59Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel": "2026-10-16T21:24:22Z",
@@ -910,6 +911,7 @@
   "news:https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/": "2026-11-10T17:34:22Z",
   "news:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/": "2026-11-06T13:57:32Z",
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
+  "news:https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/": "2026-11-12T11:22:42Z",
   "news:https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/": "2026-11-09T12:44:54Z",
   "news:https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/": "2026-10-28T10:09:56Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
@@ -956,6 +958,7 @@
   "news:https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/": "2026-10-26T11:02:49Z",
   "news:https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/": "2026-11-04T10:28:33Z",
   "news:https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/": "2026-11-01T11:24:41Z",
+  "news:https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/": "2026-11-12T11:22:46Z",
   "news:https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/": "2026-10-19T11:58:17Z",
   "news:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/": "2026-10-21T13:12:01Z",
   "news:https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/": "2026-11-05T10:26:30Z",
