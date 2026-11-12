@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-12T06:49:59Z"
+  "last_run": "2026-11-12T08:04:53Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -207,6 +207,7 @@
   "news:https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html": "2026-10-30T13:23:38Z",
   "news:https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html": "2026-10-30T17:05:22Z",
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
+  "news:https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html": "2026-11-12T08:04:51Z",
   "news:https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html": "2026-11-05T11:22:11Z",
   "news:https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html": "2026-11-10T08:47:16Z",
   "news:https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html": "2026-11-11T16:53:14Z",
