@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-12T04:42:55Z"
+  "last_run": "2026-11-12T05:45:38Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -233,6 +233,7 @@
   "news:https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html": "2026-11-11T06:20:04Z",
   "news:https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html": "2026-11-07T08:18:34Z",
   "news:https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html": "2026-11-03T16:37:56Z",
+  "news:https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html": "2026-11-12T05:45:36Z",
   "news:https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": "2026-11-02T13:35:46Z",
   "news:https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html": "2026-11-01T10:04:04Z",
   "news:https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html": "2026-11-04T13:35:19Z",
@@ -286,6 +287,7 @@
   "news:https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html": "2026-11-04T09:19:02Z",
   "news:https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html": "2026-11-10T11:38:21Z",
   "news:https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html": "2026-11-10T10:41:31Z",
+  "news:https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html": "2026-11-12T05:45:34Z",
   "news:https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": "2026-11-03T07:57:14Z",
   "news:https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html": "2026-11-10T20:12:30Z",
   "news:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": "2026-11-04T17:39:05Z",
