@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-12T14:41:21Z"
+  "last_run": "2026-11-12T15:43:50Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -345,6 +345,7 @@
   "news:https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams": "2026-10-26T17:06:28Z",
   "news:https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation": "2026-11-06T11:39:47Z",
   "news:https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack": "2026-10-20T15:24:29Z",
+  "news:https://therecord.media/europe-hoax-email-threats": "2026-11-12T15:43:41Z",
   "news:https://therecord.media/european-defense-contractors-fancy-bear-espionage": "2026-10-20T10:17:12Z",
   "news:https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers": "2026-11-06T17:35:57Z",
   "news:https://therecord.media/fbi-blames-tradertraitor-for-binance-hack": "2026-11-02T09:28:55Z",
@@ -610,6 +611,7 @@
   "news:https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/": "2026-10-20T21:17:05Z",
   "news:https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/": "2026-10-26T10:07:35Z",
   "news:https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/": "2026-11-12T15:43:46Z",
   "news:https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/": "2026-10-28T21:03:48Z",
   "news:https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/": "2026-11-03T13:56:44Z",
   "news:https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/": "2026-10-29T22:03:24Z",
@@ -651,6 +653,7 @@
   "news:https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/": "2026-11-03T22:08:25Z",
   "news:https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/": "2026-11-09T22:06:40Z",
   "news:https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/": "2026-10-23T15:00:37Z",
+  "news:https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/": "2026-11-12T15:43:43Z",
   "news:https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/": "2026-11-02T15:42:14Z",
   "news:https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/": "2026-10-20T19:54:18Z",
   "news:https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/": "2026-10-16T21:24:22Z",
@@ -850,6 +853,7 @@
   "news:https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/": "2026-10-26T20:22:07Z",
   "news:https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/": "2026-11-10T12:41:39Z",
   "news:https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": "2026-10-20T14:01:55Z",
+  "news:https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/": "2026-11-12T15:43:48Z",
   "news:https://www.securityweek.com/asus-zoom-release-security-patches/": "2026-11-11T14:46:29Z",
   "news:https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/": "2026-10-21T14:00:34Z",
   "news:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/": "2026-10-23T08:58:39Z",
