@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T10:22:48Z"
+  "last_run": "2026-11-13T11:17:47Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -389,6 +389,7 @@
   "news:https://therecord.media/michigan-state-university-byod-gang-cyber-incident": "2026-11-02T20:30:29Z",
   "news:https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks": "2026-10-28T17:11:44Z",
   "news:https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather": "2026-10-27T14:11:43Z",
+  "news:https://therecord.media/nato-issues-and-withdraws-guidance-over-russian-taxi-app": "2026-11-13T11:17:40Z",
   "news:https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison": "2026-10-27T20:58:50Z",
   "news:https://therecord.media/new-mexico-cyberattack-hospital": "2026-10-29T14:21:33Z",
   "news:https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks": "2026-10-20T17:24:06Z",
@@ -513,6 +514,7 @@
   "news:https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T20:56:02Z",
   "news:https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/": "2026-10-31T13:16:33Z",
   "news:https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/": "2026-11-06T14:43:25Z",
+  "news:https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/": "2026-11-13T11:17:43Z",
   "news:https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/": "2026-11-02T22:05:25Z",
   "news:https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/": "2026-10-26T15:25:01Z",
   "news:https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/": "2026-10-29T16:15:29Z",
@@ -981,6 +983,7 @@
   "news:https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/": "2026-11-09T12:44:58Z",
   "news:https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/": "2026-11-02T08:11:24Z",
   "news:https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/": "2026-11-06T18:34:42Z",
+  "news:https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/": "2026-11-13T11:17:45Z",
   "news:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/": "2026-10-23T08:58:41Z",
   "news:https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/": "2026-10-28T11:05:59Z",
   "news:https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/": "2026-11-12T09:23:10Z",
