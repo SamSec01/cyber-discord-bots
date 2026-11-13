@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T12:15:16Z"
+  "last_run": "2026-11-13T13:36:07Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -410,6 +410,7 @@
   "news:https://therecord.media/proofpoint-varonis-cybersecurity-acquisition": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/queens-library-ransomware-causes-disruptions": "2026-11-05T23:06:40Z",
   "news:https://therecord.media/quest-diagnostics-network-intrusion": "2026-10-23T13:07:20Z",
+  "news:https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator": "2026-11-13T13:35:56Z",
   "news:https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards": "2026-10-30T19:33:32Z",
   "news:https://therecord.media/romania-russia-cyberattack-emails": "2026-11-12T13:40:44Z",
   "news:https://therecord.media/russia-cyberattack-beget-cloud": "2026-11-04T14:44:42Z",
@@ -482,6 +483,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/": "2026-11-10T20:12:36Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/": "2026-10-27T19:09:32Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/": "2026-10-28T15:14:40Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/": "2026-11-13T13:36:00Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/": "2026-10-22T15:56:49Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/": "2026-10-23T19:03:40Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": "2026-10-23T17:52:48Z",
@@ -766,6 +768,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes": "2026-10-29T14:21:28Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost": "2026-10-23T17:52:50Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls": "2026-11-13T13:36:05Z",
   "news:https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down": "2026-10-30T22:57:43Z",
   "news:https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut": "2026-11-09T21:13:43Z",
@@ -884,6 +887,7 @@
   "news:https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/": "2026-11-10T12:41:39Z",
   "news:https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": "2026-10-20T14:01:55Z",
   "news:https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/": "2026-11-12T15:43:48Z",
+  "news:https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/": "2026-11-13T13:36:03Z",
   "news:https://www.securityweek.com/asus-zoom-release-security-patches/": "2026-11-11T14:46:29Z",
   "news:https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/": "2026-10-21T14:00:34Z",
   "news:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/": "2026-10-23T08:58:39Z",
@@ -1047,6 +1051,7 @@
   "news:https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/": "2026-10-28T10:10:00Z",
   "news:https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/": "2026-10-19T19:05:27Z",
   "news:https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/": "2026-10-22T13:12:04Z",
+  "news:https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/": "2026-11-13T13:35:58Z",
   "news:https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/": "2026-11-10T17:34:24Z",
   "news:https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/": "2026-11-07T11:03:35Z",
   "news:https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/": "2026-10-22T10:56:46Z",
