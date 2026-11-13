@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T09:21:16Z"
+  "last_run": "2026-11-13T10:22:48Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -460,6 +460,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/": "2026-11-12T20:35:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/": "2026-11-12T10:24:54Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/": "2026-11-13T10:22:44Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/": "2026-10-21T10:22:31Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/": "2026-10-30T12:03:40Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/": "2026-10-16T21:24:22Z",
@@ -913,6 +914,7 @@
   "news:https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/": "2026-11-05T13:39:36Z",
   "news:https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/": "2026-11-05T11:22:17Z",
   "news:https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/": "2026-11-11T14:00:08Z",
+  "news:https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/": "2026-11-13T10:22:46Z",
   "news:https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/": "2026-10-19T14:05:29Z",
   "news:https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/": "2026-10-21T15:22:02Z",
   "news:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/": "2026-10-16T21:24:22Z",
@@ -1009,6 +1011,7 @@
   "news:https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/": "2026-11-06T09:48:24Z",
   "news:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/": "2026-11-06T13:57:36Z",
+  "news:https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/": "2026-11-13T10:22:41Z",
   "news:https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/": "2026-11-06T12:42:01Z",
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
   "news:https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/": "2026-11-03T07:57:18Z",
