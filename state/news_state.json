@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T13:36:07Z"
+  "last_run": "2026-11-13T14:39:24Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -334,6 +334,7 @@
   "news:https://therecord.media/apple-warns-users-99-countries-mercenary-spyware": "2026-11-02T15:42:05Z",
   "news:https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident": "2026-11-04T21:35:29Z",
   "news:https://therecord.media/australia-spies-share-intel-and-want-victims-to-share-back": "2026-10-27T14:11:36Z",
+  "news:https://therecord.media/belarus-cloud-provider-activecloud-ransomware-attack": "2026-11-13T14:39:22Z",
   "news:https://therecord.media/belarus-russia-hackers-ukraine-war": "2026-10-28T16:13:04Z",
   "news:https://therecord.media/beyond-trust-cyberattack-china": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea": "2026-11-03T17:37:38Z",
@@ -790,6 +791,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era": "2026-11-05T17:44:32Z",
   "news:https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up": "2026-11-13T14:39:18Z",
   "news:https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature": "2026-10-28T06:02:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai": "2026-10-22T05:22:33Z",
   "news:https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy": "2026-11-06T22:01:39Z",
@@ -1003,6 +1005,7 @@
   "news:https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/": "2026-11-04T09:19:04Z",
   "news:https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/": "2026-11-12T21:32:07Z",
   "news:https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/": "2026-11-13T14:39:20Z",
   "news:https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/": "2026-10-20T11:54:59Z",
   "news:https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/": "2026-10-23T13:07:16Z",
   "news:https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/": "2026-10-19T10:00:06Z",
