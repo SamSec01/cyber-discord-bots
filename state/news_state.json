@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T05:44:48Z"
+  "last_run": "2026-11-13T06:48:04Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -263,6 +263,7 @@
   "news:https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html": "2026-11-09T19:21:26Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": "2026-11-03T09:41:18Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html": "2026-11-10T20:12:27Z",
+  "news:https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html": "2026-11-13T06:48:02Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": "2026-11-05T06:49:37Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html": "2026-11-09T19:21:31Z",
   "news:https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html": "2026-11-06T17:35:53Z",
