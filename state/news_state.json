@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T06:48:04Z"
+  "last_run": "2026-11-13T08:04:06Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -951,6 +951,7 @@
   "news:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/": "2026-11-06T13:57:32Z",
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
   "news:https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/": "2026-11-12T11:22:42Z",
+  "news:https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/": "2026-11-13T08:04:01Z",
   "news:https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/": "2026-11-09T12:44:54Z",
   "news:https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/": "2026-10-28T10:09:56Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
@@ -1014,6 +1015,7 @@
   "news:https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/": "2026-10-30T16:09:13Z",
   "news:https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/": "2026-10-26T13:41:36Z",
   "news:https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/": "2026-10-22T09:59:09Z",
+  "news:https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/": "2026-11-13T08:04:04Z",
   "news:https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/": "2026-10-21T07:13:07Z",
   "news:https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/": "2026-10-21T16:58:16Z",
   "news:https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/": "2026-10-19T13:11:13Z",
