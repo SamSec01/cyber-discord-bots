@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T15:32:18Z"
+  "last_run": "2026-11-13T16:39:14Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -283,6 +283,7 @@
   "news:https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html": "2026-11-03T19:24:15Z",
   "news:https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html": "2026-11-10T07:57:30Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
+  "news:https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html": "2026-11-13T16:39:05Z",
   "news:https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html": "2026-11-12T13:40:32Z",
   "news:https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html": "2026-11-12T18:37:19Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
@@ -377,7 +378,9 @@
   "news:https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices": "2026-10-30T13:23:47Z",
   "news:https://therecord.media/general-motors-lawsuit-privacy": "2026-10-29T20:07:10Z",
   "news:https://therecord.media/german-officials-among-apple-spyware-warning-recipients": "2026-11-03T19:24:13Z",
+  "news:https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power": "2026-11-13T16:39:12Z",
   "news:https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes": "2026-11-03T20:13:23Z",
+  "news:https://therecord.media/gootloader-ransomware-doj-details": "2026-11-13T16:39:07Z",
   "news:https://therecord.media/hackers-russia-italy-noname": "2026-11-09T14:01:49Z",
   "news:https://therecord.media/hackers-target-government-windows-systems-asia-new-malware": "2026-10-30T13:23:45Z",
   "news:https://therecord.media/hackers-ukraine-belarus-russia": "2026-11-02T17:42:31Z",
@@ -523,6 +526,7 @@
   "news:https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": "2026-10-22T20:56:02Z",
   "news:https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/": "2026-10-31T13:16:33Z",
   "news:https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/": "2026-11-06T14:43:25Z",
+  "news:https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/": "2026-11-13T16:39:09Z",
   "news:https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/": "2026-11-13T11:17:43Z",
   "news:https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/": "2026-11-02T22:05:25Z",
   "news:https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/": "2026-10-26T15:25:01Z",
