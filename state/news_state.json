@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T22:30:14Z"
+  "last_run": "2026-11-13T23:10:41Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -841,6 +841,7 @@
   "news:https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users": "2026-11-05T20:32:15Z",
+  "news:https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai": "2026-11-13T23:10:39Z",
   "news:https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward": "2026-10-30T08:19:27Z",
   "news:https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes": "2026-10-29T10:12:44Z",
