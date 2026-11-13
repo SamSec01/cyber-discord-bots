@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T08:04:06Z"
+  "last_run": "2026-11-13T09:21:16Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -265,6 +265,7 @@
   "news:https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html": "2026-11-10T20:12:27Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html": "2026-11-13T06:48:02Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": "2026-11-05T06:49:37Z",
+  "news:https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html": "2026-11-13T09:21:09Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html": "2026-11-09T19:21:31Z",
   "news:https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html": "2026-11-06T17:35:53Z",
   "news:https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html": "2026-11-06T07:59:53Z",
@@ -628,6 +629,7 @@
   "news:https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/": "2026-10-21T14:57:31Z",
   "news:https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/": "2026-10-20T21:17:05Z",
   "news:https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/": "2026-10-26T10:07:35Z",
+  "news:https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/": "2026-11-13T09:21:12Z",
   "news:https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/": "2026-11-12T15:43:46Z",
   "news:https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/": "2026-10-28T21:03:48Z",
@@ -995,6 +997,7 @@
   "news:https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/": "2026-10-26T10:07:33Z",
   "news:https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/": "2026-11-10T10:41:28Z",
   "news:https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/": "2026-11-03T09:41:20Z",
+  "news:https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/": "2026-11-13T09:21:14Z",
   "news:https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/": "2026-10-28T11:05:55Z",
   "news:https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/": "2026-10-26T11:02:49Z",
   "news:https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/": "2026-11-04T10:28:33Z",
