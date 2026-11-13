@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T14:39:24Z"
+  "last_run": "2026-11-13T15:32:18Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -250,6 +250,7 @@
   "news:https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html": "2026-11-11T12:44:39Z",
   "news:https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html": "2026-11-06T07:59:51Z",
   "news:https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": "2026-11-01T08:14:38Z",
+  "news:https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html": "2026-11-13T15:32:07Z",
   "news:https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html": "2026-11-10T16:35:00Z",
   "news:https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html": "2026-11-09T08:10:46Z",
   "news:https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html": "2026-11-10T09:40:54Z",
@@ -314,6 +315,7 @@
   "news:https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html": "2026-11-12T18:37:21Z",
   "news:https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html": "2026-11-05T15:42:58Z",
   "news:https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html": "2026-11-10T20:12:25Z",
+  "news:https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html": "2026-11-13T15:32:04Z",
   "news:https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html": "2026-11-09T08:10:43Z",
   "news:https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html": "2026-11-11T12:44:41Z",
   "news:https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html": "2026-11-09T11:40:54Z",
@@ -433,6 +435,7 @@
   "news:https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years": "2026-10-30T15:14:53Z",
   "news:https://therecord.media/texas-sues-openai-deceiving-customers": "2026-10-26T21:23:25Z",
   "news:https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach": "2026-10-22T21:19:17Z",
+  "news:https://therecord.media/tsmc-confirms-employee-data-breach-cloud-provider": "2026-11-13T15:32:14Z",
   "news:https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches": "2026-10-28T16:13:06Z",
   "news:https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months": "2026-11-03T00:40:41Z",
   "news:https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report": "2026-10-27T16:05:59Z",
@@ -596,6 +599,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/": "2026-11-11T15:33:46Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/": "2026-11-04T10:28:36Z",
   "news:https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/": "2026-11-03T11:37:51Z",
+  "news:https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/": "2026-11-13T15:32:11Z",
   "news:https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/": "2026-10-23T13:07:18Z",
   "news:https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/": "2026-10-29T23:00:41Z",
   "news:https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/": "2026-11-06T15:31:47Z",
@@ -981,6 +985,7 @@
   "news:https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/": "2026-11-11T10:46:00Z",
   "news:https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/": "2026-10-30T15:14:59Z",
   "news:https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/": "2026-11-13T15:32:16Z",
   "news:https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/": "2026-10-23T15:00:39Z",
   "news:https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/": "2026-11-06T14:43:30Z",
   "news:https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/": "2026-10-22T14:01:22Z",
