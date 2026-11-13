@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-13T01:34:24Z"
+  "last_run": "2026-11-13T02:32:44Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -931,6 +931,7 @@
   "news:https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/": "2026-11-10T19:26:02Z",
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/": "2026-11-02T09:28:57Z",
+  "news:https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/": "2026-11-13T02:32:42Z",
   "news:https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/": "2026-11-11T12:44:45Z",
   "news:https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/": "2026-11-02T15:42:08Z",
   "news:https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/": "2026-10-25T11:12:28Z",
