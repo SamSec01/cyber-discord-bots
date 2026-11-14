@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-14T12:34:43Z"
+  "last_run": "2026-11-14T13:39:29Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -217,6 +217,7 @@
   "news:https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html": "2026-11-04T14:44:48Z",
   "news:https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html": "2026-11-10T16:35:09Z",
   "news:https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html": "2026-11-03T05:38:27Z",
+  "news:https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html": "2026-11-14T13:39:27Z",
   "news:https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html": "2026-11-02T12:13:59Z",
   "news:https://thehackernews.com/2026/11/attackers-target-unpatched.html": "2026-11-03T05:38:25Z",
   "news:https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html": "2026-11-05T10:26:25Z",
