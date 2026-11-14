@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-14T08:35:43Z"
+  "last_run": "2026-11-14T09:29:49Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -1031,6 +1031,7 @@
   "news:https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/": "2026-11-10T10:41:28Z",
   "news:https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/": "2026-11-03T09:41:20Z",
   "news:https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/": "2026-11-13T09:21:14Z",
+  "news:https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/": "2026-11-14T09:29:47Z",
   "news:https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/": "2026-10-28T11:05:55Z",
   "news:https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/": "2026-10-26T11:02:49Z",
   "news:https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/": "2026-11-04T10:28:33Z",
