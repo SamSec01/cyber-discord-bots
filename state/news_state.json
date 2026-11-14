@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-14T14:29:46Z"
+  "last_run": "2026-11-14T15:08:55Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -1008,6 +1008,7 @@
   "news:https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/": "2026-10-27T12:02:04Z",
   "news:https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/": "2026-10-23T07:12:18Z",
   "news:https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/": "2026-11-09T12:45:01Z",
+  "news:https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/": "2026-11-14T15:08:53Z",
   "news:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/": "2026-10-17T11:09:48Z",
   "news:https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/": "2026-11-09T12:44:58Z",
   "news:https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/": "2026-11-02T08:11:24Z",
