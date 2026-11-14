@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-14T11:04:02Z"
+  "last_run": "2026-11-14T11:59:14Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -906,6 +906,7 @@
   "news:https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/": "2026-10-20T14:01:55Z",
   "news:https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/": "2026-11-12T15:43:48Z",
   "news:https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/": "2026-11-13T13:36:03Z",
+  "news:https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/": "2026-11-14T11:59:12Z",
   "news:https://www.securityweek.com/asus-zoom-release-security-patches/": "2026-11-11T14:46:29Z",
   "news:https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/": "2026-10-21T14:00:34Z",
   "news:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/": "2026-10-23T08:58:39Z",
