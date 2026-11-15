@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-15T08:36:42Z"
+  "last_run": "2026-11-15T09:30:35Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -311,6 +311,7 @@
   "news:https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html": "2026-11-10T20:12:30Z",
   "news:https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html": "2026-11-13T12:15:12Z",
   "news:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": "2026-11-04T17:39:05Z",
+  "news:https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html": "2026-11-15T09:30:33Z",
   "news:https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": "2026-11-03T07:57:16Z",
   "news:https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html": "2026-11-09T10:42:19Z",
   "news:https://thehackernews.com/2026/11/the-4-elements-of-exposure.html": "2026-11-03T13:56:39Z",
