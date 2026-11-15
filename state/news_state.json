@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-15T11:09:15Z"
+  "last_run": "2026-11-15T12:01:55Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -276,6 +276,7 @@
   "news:https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html": "2026-11-06T17:35:55Z",
   "news:https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": "2026-11-05T13:39:34Z",
   "news:https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": "2026-11-02T13:35:44Z",
+  "news:https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html": "2026-11-15T12:01:53Z",
   "news:https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html": "2026-11-09T11:40:52Z",
   "news:https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html": "2026-11-06T13:57:27Z",
   "news:https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html": "2026-11-06T13:57:29Z",
