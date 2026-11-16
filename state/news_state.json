@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-16T08:41:12Z"
+  "last_run": "2026-11-16T18:58:43Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -307,6 +307,7 @@
   "news:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": "2026-11-03T13:56:37Z",
   "news:https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html": "2026-11-04T09:19:02Z",
   "news:https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html": "2026-11-10T11:38:21Z",
+  "news:https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html": "2026-11-16T18:58:30Z",
   "news:https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html": "2026-11-10T10:41:31Z",
   "news:https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html": "2026-11-12T16:46:32Z",
   "news:https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html": "2026-11-12T05:45:34Z",
@@ -471,6 +472,7 @@
   "news:https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction": "2026-10-19T20:18:42Z",
   "news:https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/": "2026-10-27T11:00:13Z",
   "news:https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/": "2026-11-10T23:01:52Z",
+  "news:https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/": "2026-11-16T18:58:32Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/": "2026-10-29T23:56:45Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/": "2026-10-26T20:58:37Z",
   "news:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": "2026-10-20T18:16:54Z",
@@ -480,6 +482,7 @@
   "news:https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/": "2026-11-03T12:41:29Z",
   "news:https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/": "2026-10-21T22:16:57Z",
   "news:https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/": "2026-10-26T11:02:51Z",
+  "news:https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/": "2026-11-16T18:58:28Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/": "2026-11-12T20:35:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/": "2026-11-12T10:24:54Z",
@@ -521,6 +524,7 @@
   "news:https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/": "2026-11-12T19:40:35Z",
   "news:https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/": "2026-11-12T14:41:19Z",
   "news:https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/": "2026-10-22T17:20:42Z",
+  "news:https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/": "2026-11-16T18:58:41Z",
   "news:https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": "2026-10-22T09:02:28Z",
   "news:https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/": "2026-11-11T23:13:32Z",
@@ -996,6 +1000,7 @@
   "news:https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/": "2026-11-12T11:22:42Z",
   "news:https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/": "2026-11-13T08:04:01Z",
   "news:https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/": "2026-11-09T12:44:54Z",
+  "news:https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/": "2026-11-16T18:58:37Z",
   "news:https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/": "2026-10-28T10:09:56Z",
   "news:https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/": "2026-10-20T10:54:46Z",
   "news:https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/": "2026-10-29T11:07:15Z",
@@ -1077,6 +1082,7 @@
   "news:https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/": "2026-10-23T08:58:43Z",
   "news:https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": "2026-10-19T15:55:39Z",
+  "news:https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/": "2026-11-16T18:58:39Z",
   "news:https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/": "2026-11-11T08:42:47Z",
   "news:https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/": "2026-11-06T12:42:04Z",
   "news:https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/": "2026-11-02T14:44:29Z",
@@ -1104,6 +1110,8 @@
   "news:https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/": "2026-11-11T09:43:46Z",
   "news:https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/": "2026-10-28T13:25:25Z",
   "news:https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/": "2026-11-10T15:30:48Z",
+  "news:https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/": "2026-11-16T18:58:25Z",
+  "news:https://www.securityweek.com/uber-data-breach-impacts-150000-people/": "2026-11-16T18:58:34Z",
   "news:https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/": "2026-11-03T10:41:47Z",
   "news:https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/": "2026-10-28T15:14:42Z",
