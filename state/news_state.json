@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-16T01:50:37Z"
+  "last_run": "2026-11-16T08:41:12Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -210,6 +210,7 @@
   "news:https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html": "2026-11-12T16:46:35Z",
   "news:https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html": "2026-11-12T08:04:51Z",
   "news:https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html": "2026-11-05T11:22:11Z",
+  "news:https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html": "2026-11-16T08:41:06Z",
   "news:https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html": "2026-11-10T08:47:16Z",
   "news:https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html": "2026-11-11T16:53:14Z",
   "news:https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html": "2026-11-10T11:38:23Z",
@@ -227,6 +228,7 @@
   "news:https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html": "2026-11-10T13:56:18Z",
   "news:https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html": "2026-11-09T16:26:35Z",
   "news:https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html": "2026-11-10T16:35:05Z",
+  "news:https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html": "2026-11-16T08:41:04Z",
   "news:https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html": "2026-11-12T13:40:30Z",
   "news:https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html": "2026-11-06T08:48:29Z",
   "news:https://thehackernews.com/2026/11/chainstack-reports-production-systems.html": "2026-11-03T19:24:10Z",
@@ -491,6 +493,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/": "2026-10-29T15:16:28Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/": "2026-11-02T14:44:31Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/": "2026-11-11T11:42:04Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/": "2026-11-16T08:41:10Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/": "2026-11-10T19:26:00Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/": "2026-10-19T09:03:17Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/": "2026-10-21T12:21:25Z",
@@ -1033,6 +1036,7 @@
   "news:https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/": "2026-11-04T09:19:04Z",
   "news:https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/": "2026-11-12T21:32:07Z",
   "news:https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/": "2026-11-16T08:41:08Z",
   "news:https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/": "2026-11-13T14:39:20Z",
   "news:https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/": "2026-10-20T11:54:59Z",
   "news:https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/": "2026-10-23T13:07:16Z",
