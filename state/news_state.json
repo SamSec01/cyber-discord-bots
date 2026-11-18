@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-17T19:27:15Z"
+  "last_run": "2026-11-18T01:44:19Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -239,6 +239,7 @@
   "news:https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html": "2026-11-11T06:20:04Z",
   "news:https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html": "2026-11-12T16:46:37Z",
   "news:https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html": "2026-11-07T08:18:34Z",
+  "news:https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html": "2026-11-18T01:44:06Z",
   "news:https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html": "2026-11-03T16:37:56Z",
   "news:https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html": "2026-11-12T05:45:36Z",
   "news:https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": "2026-11-02T13:35:46Z",
@@ -276,6 +277,7 @@
   "news:https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html": "2026-11-06T07:59:53Z",
   "news:https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": "2026-11-01T08:14:44Z",
   "news:https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html": "2026-11-11T14:46:31Z",
+  "news:https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html": "2026-11-18T01:44:08Z",
   "news:https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html": "2026-11-06T17:35:55Z",
   "news:https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": "2026-11-05T13:39:34Z",
   "news:https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": "2026-11-02T13:35:44Z",
@@ -286,6 +288,7 @@
   "news:https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html": "2026-11-11T08:42:50Z",
   "news:https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html": "2026-11-11T08:42:43Z",
   "news:https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html": "2026-11-03T19:24:15Z",
+  "news:https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html": "2026-11-18T01:44:04Z",
   "news:https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html": "2026-11-10T07:57:30Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
   "news:https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html": "2026-11-13T16:39:05Z",
@@ -527,6 +530,7 @@
   "news:https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/": "2026-11-11T23:13:30Z",
   "news:https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/": "2026-10-20T11:54:57Z",
   "news:https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/": "2026-10-25T15:51:47Z",
+  "news:https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/": "2026-11-18T01:44:11Z",
   "news:https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/": "2026-11-01T15:23:38Z",
   "news:https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/": "2026-10-22T13:12:07Z",
   "news:https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/": "2026-10-16T21:24:22Z",
@@ -569,6 +573,7 @@
   "news:https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": "2026-10-20T14:01:53Z",
   "news:https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/": "2026-10-21T14:57:28Z",
   "news:https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/": "2026-11-05T15:43:02Z",
+  "news:https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/": "2026-11-18T01:44:15Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": "2026-10-16T21:24:24Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/": "2026-10-26T17:06:25Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/": "2026-10-30T21:56:53Z",
@@ -674,6 +679,7 @@
   "news:https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/": "2026-11-06T20:31:17Z",
   "news:https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/": "2026-10-19T17:52:20Z",
   "news:https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/": "2026-11-05T18:34:28Z",
+  "news:https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/": "2026-11-18T01:44:02Z",
   "news:https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/": "2026-11-02T13:35:48Z",
   "news:https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/": "2026-10-20T11:55:01Z",
   "news:https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/": "2026-10-23T15:59:45Z",
@@ -709,6 +715,7 @@
   "news:https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/": "2026-11-05T20:32:19Z",
   "news:https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/": "2026-11-15T16:00:31Z",
   "news:https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/": "2026-11-10T10:41:33Z",
+  "news:https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/": "2026-11-18T01:44:13Z",
   "news:https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/": "2026-11-03T14:41:11Z",
   "news:https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/": "2026-11-09T12:44:56Z",
   "news:https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/": "2026-10-26T22:57:53Z",
@@ -1087,6 +1094,7 @@
   "news:https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/": "2026-11-06T13:57:36Z",
   "news:https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/": "2026-11-13T10:22:41Z",
   "news:https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/": "2026-11-06T12:42:01Z",
+  "news:https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/": "2026-11-18T01:44:17Z",
   "news:https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/": "2026-10-22T08:04:39Z",
   "news:https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/": "2026-11-03T07:57:18Z",
   "news:https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/": "2026-10-29T13:27:46Z",
