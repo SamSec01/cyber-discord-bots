@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-20T04:29:52Z"
+  "last_run": "2026-11-20T13:26:09Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -261,6 +261,7 @@
   "news:https://thehackernews.com/2026/11/default-adminadmin-server-password.html": "2026-11-09T11:40:58Z",
   "news:https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html": "2026-11-19T17:28:08Z",
   "news:https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html": "2026-11-11T12:44:39Z",
+  "news:https://thehackernews.com/2026/11/everything-is-web-application-including.html": "2026-11-20T13:26:01Z",
   "news:https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html": "2026-11-06T07:59:51Z",
   "news:https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html": "2026-11-19T23:40:46Z",
   "news:https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": "2026-11-01T08:14:38Z",
@@ -302,6 +303,7 @@
   "news:https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html": "2026-11-11T08:42:50Z",
   "news:https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html": "2026-11-11T08:42:43Z",
   "news:https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html": "2026-11-03T19:24:15Z",
+  "news:https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html": "2026-11-20T13:25:54Z",
   "news:https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html": "2026-11-18T01:44:04Z",
   "news:https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html": "2026-11-10T07:57:30Z",
   "news:https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": "2026-11-01T08:14:42Z",
@@ -521,6 +523,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/": "2026-11-12T20:35:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/": "2026-11-19T08:02:35Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/": "2026-11-20T13:25:56Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/": "2026-11-12T10:24:54Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/": "2026-11-13T10:22:44Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/": "2026-10-21T10:22:31Z",
@@ -546,6 +549,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/": "2026-10-22T15:56:49Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/": "2026-10-23T19:03:40Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/": "2026-11-18T09:19:14Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/": "2026-11-20T13:25:58Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/": "2026-11-17T02:15:44Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": "2026-10-23T17:52:48Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/": "2026-10-16T21:24:22Z",
@@ -622,6 +626,7 @@
   "news:https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/": "2026-11-19T17:27:56Z",
   "news:https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/": "2026-11-04T19:44:42Z",
   "news:https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/": "2026-10-26T19:58:43Z",
+  "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/": "2026-11-20T13:26:03Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": "2026-10-17T14:47:53Z",
   "news:https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/": "2026-10-30T11:03:35Z",
   "news:https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/": "2026-11-11T15:33:43Z",
@@ -713,6 +718,7 @@
   "news:https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": "2026-10-19T21:52:53Z",
   "news:https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/": "2026-10-31T18:20:55Z",
   "news:https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/": "2026-11-11T21:15:51Z",
+  "news:https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/": "2026-11-20T13:25:52Z",
   "news:https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/": "2026-10-21T16:58:13Z",
   "news:https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/": "2026-11-05T19:39:36Z",
   "news:https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/": "2026-11-06T20:31:17Z",
@@ -899,6 +905,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos": "2026-11-05T22:15:21Z",
   "news:https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever": "2026-10-30T13:23:33Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday": "2026-11-20T13:26:07Z",
   "news:https://www.darkreading.com/cybersecurity-operations/writing-next-chapter": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack": "2026-11-03T14:41:14Z",
   "news:https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery": "2026-10-19T20:55:26Z",
@@ -1084,6 +1091,7 @@
   "news:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/": "2026-11-06T13:57:32Z",
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
   "news:https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/": "2026-11-12T11:22:42Z",
+  "news:https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/": "2026-11-20T13:26:05Z",
   "news:https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/": "2026-11-13T08:04:01Z",
   "news:https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/": "2026-11-09T12:44:54Z",
   "news:https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/": "2026-11-16T18:58:37Z",
