@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-20T13:26:09Z"
+  "last_run": "2026-11-20T21:22:27Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -255,10 +255,12 @@
   "news:https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html": "2026-11-12T10:24:48Z",
   "news:https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html": "2026-11-04T13:35:19Z",
   "news:https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html": "2026-11-12T16:46:46Z",
+  "news:https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html": "2026-11-20T21:22:16Z",
   "news:https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html": "2026-11-11T17:43:29Z",
   "news:https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html": "2026-11-02T15:42:10Z",
   "news:https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html": "2026-11-04T17:39:07Z",
   "news:https://thehackernews.com/2026/11/default-adminadmin-server-password.html": "2026-11-09T11:40:58Z",
+  "news:https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html": "2026-11-20T21:22:09Z",
   "news:https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html": "2026-11-19T17:28:08Z",
   "news:https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html": "2026-11-11T12:44:39Z",
   "news:https://thehackernews.com/2026/11/everything-is-web-application-including.html": "2026-11-20T13:26:01Z",
@@ -319,7 +321,9 @@
   "news:https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html": "2026-11-13T12:15:10Z",
   "news:https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html": "2026-11-18T18:14:44Z",
   "news:https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html": "2026-11-11T14:00:01Z",
+  "news:https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html": "2026-11-20T21:22:18Z",
   "news:https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html": "2026-11-20T04:29:41Z",
+  "news:https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html": "2026-11-20T21:22:25Z",
   "news:https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html": "2026-11-13T17:37:32Z",
   "news:https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html": "2026-11-12T13:40:28Z",
   "news:https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html": "2026-11-19T17:27:54Z",
@@ -614,6 +618,7 @@
   "news:https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/": "2026-10-26T17:06:25Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/": "2026-11-19T00:33:56Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/": "2026-10-30T21:56:53Z",
+  "news:https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/": "2026-11-20T21:22:12Z",
   "news:https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/": "2026-11-10T16:35:14Z",
   "news:https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/": "2026-11-07T14:28:47Z",
   "news:https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/": "2026-11-14T17:56:02Z",
@@ -646,6 +651,7 @@
   "news:https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/": "2026-11-15T19:11:51Z",
   "news:https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/": "2026-11-02T19:40:51Z",
   "news:https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/": "2026-11-10T07:57:37Z",
+  "news:https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/": "2026-11-20T21:22:14Z",
   "news:https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/": "2026-10-26T21:23:27Z",
   "news:https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/": "2026-11-09T19:21:38Z",
   "news:https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/": "2026-10-31T13:16:35Z",
@@ -727,6 +733,7 @@
   "news:https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/": "2026-11-18T01:44:02Z",
   "news:https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/": "2026-11-02T13:35:48Z",
   "news:https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/": "2026-10-20T11:55:01Z",
+  "news:https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/": "2026-11-20T21:22:22Z",
   "news:https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/": "2026-10-23T15:59:45Z",
   "news:https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/": "2026-10-21T14:57:31Z",
   "news:https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/": "2026-10-20T21:17:05Z",
@@ -1165,6 +1172,7 @@
   "news:https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/": "2026-11-10T13:56:25Z",
   "news:https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/": "2026-10-30T14:18:25Z",
   "news:https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/": "2026-11-15T13:21:02Z",
+  "news:https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/": "2026-11-20T21:22:20Z",
   "news:https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/": "2026-10-30T16:09:13Z",
   "news:https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/": "2026-10-26T13:41:36Z",
   "news:https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/": "2026-10-22T09:59:09Z",
