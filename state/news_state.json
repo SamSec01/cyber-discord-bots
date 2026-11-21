@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-20T21:22:27Z"
+  "last_run": "2026-11-21T02:35:48Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -357,6 +357,7 @@
   "news:https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html": "2026-11-06T11:39:49Z",
   "news:https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html": "2026-11-12T18:37:21Z",
   "news:https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html": "2026-11-05T15:42:58Z",
+  "news:https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html": "2026-11-21T02:35:32Z",
   "news:https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html": "2026-11-10T20:12:25Z",
   "news:https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html": "2026-11-13T15:32:04Z",
   "news:https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html": "2026-11-18T18:14:41Z",
@@ -574,6 +575,7 @@
   "news:https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/": "2026-11-19T08:02:37Z",
   "news:https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/": "2026-11-12T14:41:19Z",
   "news:https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/": "2026-10-22T17:20:42Z",
+  "news:https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/": "2026-11-21T02:35:44Z",
   "news:https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/": "2026-11-16T18:58:41Z",
   "news:https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": "2026-10-22T09:02:28Z",
   "news:https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/": "2026-10-16T21:24:22Z",
@@ -686,6 +688,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": "2026-10-28T13:25:22Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/": "2026-11-12T10:24:50Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/": "2026-11-07T15:58:12Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/": "2026-11-21T02:35:46Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/": "2026-11-11T15:33:46Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/": "2026-11-04T10:28:36Z",
   "news:https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/": "2026-11-03T11:37:51Z",
@@ -765,6 +768,7 @@
   "news:https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/": "2026-11-09T15:17:34Z",
   "news:https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/": "2026-10-27T14:11:50Z",
   "news:https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/": "2026-11-18T18:14:48Z",
+  "news:https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/": "2026-11-21T02:35:30Z",
   "news:https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": "2026-10-30T16:09:19Z",
   "news:https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/": "2026-11-05T20:32:19Z",
   "news:https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/": "2026-11-15T16:00:31Z",
@@ -797,6 +801,7 @@
   "news:https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses": "2026-10-29T19:19:05Z",
   "news:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": "2026-10-20T16:23:15Z",
+  "news:https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell": "2026-11-21T02:35:39Z",
   "news:https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers": "2026-11-04T22:32:27Z",
   "news:https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach": "2026-11-18T18:14:53Z",
   "news:https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice": "2026-10-23T20:12:17Z",
@@ -866,6 +871,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach": "2026-11-04T02:33:31Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached": "2026-11-21T02:35:41Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak": "2026-10-23T03:58:20Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages": "2026-10-16T21:24:22Z",
@@ -960,6 +966,7 @@
   "news:https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem": "2026-11-19T23:40:40Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud": "2026-11-19T17:28:05Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era": "2026-11-21T02:35:37Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves": "2026-11-10T23:01:54Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites": "2026-10-19T15:55:37Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models": "2026-11-17T19:27:00Z",
@@ -1150,6 +1157,7 @@
   "news:https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/": "2026-10-26T10:07:33Z",
   "news:https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/": "2026-11-10T10:41:28Z",
   "news:https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/": "2026-11-03T09:41:20Z",
+  "news:https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/": "2026-11-21T02:35:35Z",
   "news:https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/": "2026-11-13T09:21:14Z",
   "news:https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/": "2026-11-14T09:29:47Z",
   "news:https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/": "2026-10-28T11:05:55Z",
