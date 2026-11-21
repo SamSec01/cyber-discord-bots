@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-21T02:35:48Z"
+  "last_run": "2026-11-21T10:20:34Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -238,6 +238,7 @@
   "news:https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html": "2026-11-06T08:48:29Z",
   "news:https://thehackernews.com/2026/11/chainstack-reports-production-systems.html": "2026-11-03T19:24:10Z",
   "news:https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html": "2026-11-04T13:35:12Z",
+  "news:https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html": "2026-11-21T10:20:32Z",
   "news:https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html": "2026-11-04T08:04:03Z",
   "news:https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html": "2026-11-09T06:55:40Z",
   "news:https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html": "2026-11-19T08:02:31Z",
@@ -313,6 +314,7 @@
   "news:https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html": "2026-11-13T16:39:05Z",
   "news:https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html": "2026-11-12T13:40:32Z",
   "news:https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html": "2026-11-12T18:37:19Z",
+  "news:https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html": "2026-11-21T10:20:21Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
   "news:https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html": "2026-11-12T09:23:08Z",
   "news:https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": "2026-11-05T05:45:15Z",
@@ -336,6 +338,7 @@
   "news:https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html": "2026-11-18T09:19:20Z",
   "news:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html": "2026-11-04T17:38:58Z",
   "news:https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html": "2026-11-17T02:15:37Z",
+  "news:https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html": "2026-11-21T10:20:23Z",
   "news:https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html": "2026-11-20T04:29:50Z",
   "news:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": "2026-11-03T13:56:37Z",
   "news:https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html": "2026-11-19T08:02:24Z",
@@ -559,6 +562,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": "2026-10-23T17:52:48Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/": "2026-10-29T12:04:24Z",
+  "news:https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/": "2026-11-21T10:20:29Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/": "2026-11-10T19:25:55Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/": "2026-10-20T13:10:07Z",
   "news:https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/": "2026-10-29T15:16:24Z",
@@ -785,6 +789,7 @@
   "news:https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/": "2026-11-09T23:57:27Z",
   "news:https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/": "2026-11-06T15:31:49Z",
   "news:https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/": "2026-11-04T21:35:31Z",
+  "news:https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/": "2026-11-21T10:20:18Z",
   "news:https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/": "2026-10-28T16:13:09Z",
   "news:https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/": "2026-10-27T17:08:50Z",
   "news:https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/": "2026-10-26T15:25:06Z",
@@ -836,6 +841,7 @@
   "news:https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks": "2026-11-19T00:33:53Z",
   "news:https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai": "2026-11-10T20:12:23Z",
+  "news:https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering": "2026-11-21T10:20:16Z",
   "news:https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era": "2026-10-29T23:00:36Z",
   "news:https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack": "2026-10-27T22:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too": "2026-10-16T21:24:22Z",
@@ -1135,6 +1141,7 @@
   "news:https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/": "2026-11-09T12:44:58Z",
   "news:https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/": "2026-11-02T08:11:24Z",
   "news:https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/": "2026-11-06T18:34:42Z",
+  "news:https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/": "2026-11-21T10:20:25Z",
   "news:https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/": "2026-11-13T11:17:45Z",
   "news:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/": "2026-10-23T08:58:41Z",
   "news:https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/": "2026-10-28T11:05:59Z",
@@ -1155,6 +1162,7 @@
   "news:https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/": "2026-10-23T13:07:16Z",
   "news:https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/": "2026-10-19T10:00:06Z",
   "news:https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/": "2026-10-26T10:07:33Z",
+  "news:https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/": "2026-11-21T10:20:27Z",
   "news:https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/": "2026-11-10T10:41:28Z",
   "news:https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/": "2026-11-03T09:41:20Z",
   "news:https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/": "2026-11-21T02:35:35Z",
