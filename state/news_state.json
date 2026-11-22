@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-22T02:29:46Z"
+  "last_run": "2026-11-22T10:04:47Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -17,6 +17,7 @@
   "news:https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/": "2026-10-16T21:24:22Z",
   "news:https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/": "2026-10-21T15:59:54Z",
   "news:https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/": "2026-11-19T00:33:58Z",
+  "news:https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/": "2026-11-22T10:04:36Z",
   "news:https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/": "2026-11-10T22:02:08Z",
   "news:https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/": "2026-11-03T03:35:19Z",
   "news:https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/": "2026-11-05T04:43:55Z",
@@ -220,6 +221,7 @@
   "news:https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html": "2026-11-18T09:19:11Z",
   "news:https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html": "2026-11-05T10:26:28Z",
   "news:https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html": "2026-11-04T14:44:48Z",
+  "news:https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html": "2026-11-22T10:04:43Z",
   "news:https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html": "2026-11-19T08:02:26Z",
   "news:https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html": "2026-11-10T16:35:09Z",
   "news:https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html": "2026-11-03T05:38:27Z",
@@ -275,6 +277,7 @@
   "news:https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html": "2026-11-09T08:10:46Z",
   "news:https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html": "2026-11-10T09:40:54Z",
   "news:https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html": "2026-11-10T20:12:32Z",
+  "news:https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html": "2026-11-22T10:04:45Z",
   "news:https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html": "2026-11-12T13:40:37Z",
   "news:https://thehackernews.com/2026/11/google-disrupts-13-million-device.html": "2026-11-02T16:46:16Z",
   "news:https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html": "2026-11-17T02:15:48Z",
@@ -285,6 +288,7 @@
   "news:https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html": "2026-11-09T19:21:26Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": "2026-11-03T09:41:18Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html": "2026-11-21T17:39:58Z",
+  "news:https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html": "2026-11-22T10:04:38Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html": "2026-11-10T20:12:27Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html": "2026-11-13T06:48:02Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": "2026-11-05T06:49:37Z",
@@ -353,6 +357,7 @@
   "news:https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html": "2026-11-12T05:45:34Z",
   "news:https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": "2026-11-03T07:57:14Z",
   "news:https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html": "2026-11-10T20:12:30Z",
+  "news:https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html": "2026-11-22T10:04:41Z",
   "news:https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html": "2026-11-13T12:15:12Z",
   "news:https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html": "2026-11-17T02:15:39Z",
   "news:https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html": "2026-11-21T17:40:03Z",
@@ -405,6 +410,7 @@
   "news:https://therecord.media/ceo-spoofing-scammers-charged": "2026-11-06T14:43:28Z",
   "news:https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack": "2026-11-05T10:26:23Z",
   "news:https://therecord.media/china-cyber-connectwise-ai": "2026-10-22T16:57:57Z",
+  "news:https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation": "2026-11-22T10:04:29Z",
   "news:https://therecord.media/city-of-osaka-japan-email-data-breach": "2026-11-13T20:38:34Z",
   "news:https://therecord.media/connectwise-screenconnect-breaches-third-party-tool": "2026-11-12T16:46:42Z",
   "news:https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack": "2026-10-19T19:56:13Z",
@@ -521,6 +527,7 @@
   "news:https://therecord.media/utilities-cybersecurity-initiative-accenture": "2026-10-21T19:54:20Z",
   "news:https://therecord.media/vanderbilt-cyberattack-ransomware-alert": "2026-11-09T19:21:36Z",
   "news:https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court": "2026-10-28T21:03:50Z",
+  "news:https://therecord.media/west-virginia-legislature-cyberattack": "2026-11-22T10:04:34Z",
   "news:https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction": "2026-10-19T20:18:42Z",
   "news:https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/": "2026-10-27T11:00:13Z",
   "news:https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/": "2026-11-19T00:33:42Z",
@@ -874,6 +881,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon": "2026-11-10T22:02:03Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths": "2026-11-02T23:00:00Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day": "2026-11-22T10:04:32Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks": "2026-11-17T10:52:30Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents": "2026-11-09T22:06:45Z",
