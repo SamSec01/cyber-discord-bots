@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-22T10:04:47Z"
+  "last_run": "2026-11-22T17:55:55Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -213,6 +213,7 @@
   "news:https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html": "2026-11-12T16:46:35Z",
   "news:https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html": "2026-11-12T08:04:51Z",
   "news:https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html": "2026-11-05T11:22:11Z",
+  "news:https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html": "2026-11-22T17:55:35Z",
   "news:https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html": "2026-11-19T17:28:01Z",
   "news:https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html": "2026-11-16T08:41:06Z",
   "news:https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html": "2026-11-10T08:47:16Z",
@@ -600,6 +601,7 @@
   "news:https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/": "2026-11-21T02:35:44Z",
   "news:https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/": "2026-11-16T18:58:41Z",
   "news:https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": "2026-10-22T09:02:28Z",
+  "news:https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/": "2026-11-22T17:55:46Z",
   "news:https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/": "2026-11-11T23:13:32Z",
   "news:https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/": "2026-11-17T19:27:04Z",
@@ -674,6 +676,7 @@
   "news:https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/": "2026-11-09T15:17:32Z",
   "news:https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/": "2026-11-06T01:54:36Z",
   "news:https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/": "2026-11-01T20:19:05Z",
+  "news:https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/": "2026-11-22T17:55:44Z",
   "news:https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/": "2026-11-15T19:11:51Z",
   "news:https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/": "2026-11-02T19:40:51Z",
   "news:https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/": "2026-11-10T07:57:37Z",
@@ -738,6 +741,7 @@
   "news:https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/": "2026-11-11T16:53:19Z",
   "news:https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/": "2026-10-30T15:14:55Z",
   "news:https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/": "2026-11-06T09:48:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/": "2026-11-22T17:55:48Z",
   "news:https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/": "2026-11-19T23:40:42Z",
   "news:https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": "2026-10-21T01:07:54Z",
   "news:https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/": "2026-11-04T16:39:43Z",
@@ -774,6 +778,7 @@
   "news:https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/": "2026-10-29T22:03:24Z",
   "news:https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/": "2026-11-06T17:35:59Z",
   "news:https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/": "2026-10-23T17:02:21Z",
+  "news:https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/": "2026-11-22T17:55:51Z",
   "news:https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/": "2026-10-22T21:54:44Z",
   "news:https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/": "2026-11-10T15:30:50Z",
   "news:https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/": "2026-10-31T14:28:27Z",
@@ -1046,6 +1051,7 @@
   "news:https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/": "2026-11-05T17:44:36Z",
   "news:https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/": "2026-11-04T13:35:23Z",
   "news:https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/": "2026-10-20T13:10:18Z",
+  "news:https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/": "2026-11-22T17:55:37Z",
   "news:https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/": "2026-11-09T11:40:56Z",
   "news:https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/": "2026-11-03T12:41:34Z",
   "news:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/": "2026-10-19T08:07:50Z",
@@ -1119,6 +1125,7 @@
   "news:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/": "2026-11-13T22:30:12Z",
   "news:https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/": "2026-11-02T09:28:57Z",
+  "news:https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/": "2026-11-22T17:55:53Z",
   "news:https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/": "2026-11-13T02:32:42Z",
   "news:https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/": "2026-11-11T12:44:45Z",
   "news:https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/": "2026-11-02T15:42:08Z",
@@ -1227,6 +1234,7 @@
   "news:https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/": "2026-10-19T13:11:13Z",
   "news:https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/": "2026-11-09T14:01:46Z",
   "news:https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/": "2026-11-02T10:27:18Z",
+  "news:https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/": "2026-11-22T17:55:39Z",
   "news:https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/": "2026-10-23T08:58:43Z",
   "news:https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/": "2026-10-19T15:55:39Z",
