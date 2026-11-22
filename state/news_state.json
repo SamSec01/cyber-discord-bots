@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-21T22:29:43Z"
+  "last_run": "2026-11-22T02:29:46Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -228,6 +228,7 @@
   "news:https://thehackernews.com/2026/11/attackers-target-unpatched.html": "2026-11-03T05:38:25Z",
   "news:https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html": "2026-11-05T10:26:25Z",
   "news:https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html": "2026-11-03T17:37:35Z",
+  "news:https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html": "2026-11-22T02:29:29Z",
   "news:https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html": "2026-11-10T12:41:34Z",
   "news:https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html": "2026-11-03T17:37:40Z",
   "news:https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html": "2026-11-10T13:56:18Z",
@@ -374,6 +375,7 @@
   "news:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html": "2026-11-02T18:38:50Z",
   "news:https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html": "2026-11-17T02:15:46Z",
   "news:https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html": "2026-11-09T15:17:26Z",
+  "news:https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html": "2026-11-22T02:29:37Z",
   "news:https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html": "2026-11-13T12:15:14Z",
   "news:https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html": "2026-11-04T13:35:16Z",
   "news:https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html": "2026-11-12T13:40:35Z",
@@ -382,6 +384,7 @@
   "news:https://therecord.media/africa-cybercrime-interpol-arrests": "2026-10-22T14:01:24Z",
   "news:https://therecord.media/ahold-delhaize-cyberattack-grocery": "2026-10-19T16:59:10Z",
   "news:https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks": "2026-11-10T16:35:11Z",
+  "news:https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day": "2026-11-22T02:29:35Z",
   "news:https://therecord.media/amplifon-hearing-aid-company-data-breach": "2026-11-09T21:13:46Z",
   "news:https://therecord.media/anne-arundel-county-maryland-confirms-data-breach": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/anti-putin-messages-disrupt-russian-education-platform": "2026-10-20T14:58:54Z",
@@ -405,6 +408,7 @@
   "news:https://therecord.media/city-of-osaka-japan-email-data-breach": "2026-11-13T20:38:34Z",
   "news:https://therecord.media/connectwise-screenconnect-breaches-third-party-tool": "2026-11-12T16:46:42Z",
   "news:https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack": "2026-10-19T19:56:13Z",
+  "news:https://therecord.media/container-store-restores-systems-cyberattack": "2026-11-22T02:29:44Z",
   "news:https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline": "2026-10-29T14:21:35Z",
   "news:https://therecord.media/cyberattack-germany-ai-mittwald": "2026-11-09T15:17:30Z",
   "news:https://therecord.media/cyberattack-grocery-freezers-europe": "2026-11-02T13:35:50Z",
@@ -593,6 +597,7 @@
   "news:https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/": "2026-11-11T23:13:32Z",
   "news:https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/": "2026-11-17T19:27:04Z",
   "news:https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/": "2026-11-03T15:30:50Z",
+  "news:https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/": "2026-11-22T02:29:41Z",
   "news:https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/": "2026-10-16T21:24:22Z",
   "news:https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/": "2026-11-09T16:26:44Z",
   "news:https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/": "2026-10-30T10:12:52Z",
@@ -702,6 +707,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/": "2026-11-07T15:58:12Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/": "2026-11-21T02:35:46Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/": "2026-11-11T15:33:46Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/": "2026-11-22T02:29:33Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/": "2026-11-04T10:28:36Z",
   "news:https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/": "2026-11-03T11:37:51Z",
   "news:https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/": "2026-11-13T15:32:11Z",
@@ -860,6 +866,7 @@
   "news:https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions": "2026-10-29T16:15:26Z",
   "news:https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it": "2026-10-23T21:17:03Z",
   "news:https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds": "2026-11-05T21:29:22Z",
+  "news:https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry": "2026-11-22T02:29:31Z",
   "news:https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk": "2026-10-23T14:01:58Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years": "2026-10-26T15:25:04Z",
@@ -923,6 +930,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security": "2026-11-09T17:27:25Z",
   "news:https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/security-words-matter": "2026-11-22T02:29:39Z",
   "news:https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era": "2026-11-05T17:44:32Z",
   "news:https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce": "2026-10-16T21:24:22Z",
