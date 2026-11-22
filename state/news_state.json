@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-22T17:55:55Z"
+  "last_run": "2026-11-22T22:53:51Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -327,6 +327,7 @@
   "news:https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html": "2026-11-12T09:23:08Z",
   "news:https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": "2026-11-05T05:45:15Z",
   "news:https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": "2026-11-06T17:35:50Z",
+  "news:https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html": "2026-11-22T22:53:43Z",
   "news:https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html": "2026-11-05T22:15:16Z",
   "news:https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html": "2026-11-13T12:15:10Z",
   "news:https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html": "2026-11-18T18:14:44Z",
@@ -343,6 +344,7 @@
   "news:https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html": "2026-11-20T04:29:48Z",
   "news:https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html": "2026-11-05T22:15:14Z",
   "news:https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html": "2026-11-19T00:33:44Z",
+  "news:https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html": "2026-11-22T22:53:40Z",
   "news:https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html": "2026-11-18T09:19:20Z",
   "news:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html": "2026-11-04T17:38:58Z",
   "news:https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html": "2026-11-17T02:15:37Z",
@@ -636,6 +638,7 @@
   "news:https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/": "2026-10-28T11:05:57Z",
   "news:https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/": "2026-10-29T12:04:21Z",
   "news:https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": "2026-10-20T14:01:53Z",
+  "news:https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/": "2026-11-22T22:53:47Z",
   "news:https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/": "2026-10-21T14:57:28Z",
   "news:https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/": "2026-11-05T15:43:02Z",
   "news:https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/": "2026-11-19T00:33:51Z",
@@ -704,6 +707,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/": "2026-11-10T10:41:35Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/": "2026-10-29T19:19:08Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/": "2026-10-16T21:24:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/": "2026-11-22T22:53:49Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": "2026-10-18T14:48:51Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/": "2026-11-09T16:26:42Z",
   "news:https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/": "2026-11-10T20:12:34Z",
@@ -788,6 +792,7 @@
   "news:https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/": "2026-11-09T19:21:28Z",
   "news:https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/": "2026-11-10T12:41:36Z",
   "news:https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/": "2026-11-09T23:05:43Z",
+  "news:https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/": "2026-11-22T22:53:45Z",
   "news:https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/": "2026-11-07T00:28:29Z",
   "news:https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/": "2026-11-04T14:44:53Z",
   "news:https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/": "2026-10-28T17:11:46Z",
