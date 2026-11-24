@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-24T11:10:06Z"
+  "last_run": "2026-11-24T21:23:26Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -760,6 +760,7 @@
   "news:https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/": "2026-11-11T16:53:19Z",
   "news:https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/": "2026-10-30T15:14:55Z",
   "news:https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/": "2026-11-06T09:48:22Z",
+  "news:https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/": "2026-11-24T21:23:13Z",
   "news:https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/": "2026-11-22T17:55:48Z",
   "news:https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/": "2026-11-19T23:40:42Z",
   "news:https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": "2026-10-21T01:07:54Z",
@@ -780,6 +781,7 @@
   "news:https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/": "2026-11-05T19:39:36Z",
   "news:https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/": "2026-11-06T20:31:17Z",
   "news:https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/": "2026-10-19T17:52:20Z",
+  "news:https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/": "2026-11-24T21:23:15Z",
   "news:https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/": "2026-11-05T18:34:28Z",
   "news:https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/": "2026-11-18T01:44:02Z",
   "news:https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/": "2026-11-02T13:35:48Z",
@@ -811,6 +813,8 @@
   "news:https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/": "2026-11-07T00:28:29Z",
   "news:https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/": "2026-11-04T14:44:53Z",
   "news:https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/": "2026-10-28T17:11:46Z",
+  "news:https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/": "2026-11-24T21:23:19Z",
+  "news:https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/": "2026-11-24T21:23:10Z",
   "news:https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/": "2026-10-30T14:18:27Z",
   "news:https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/": "2026-11-21T22:29:34Z",
   "news:https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/": "2026-10-21T01:07:56Z",
@@ -946,6 +950,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes": "2026-10-29T14:21:28Z",
   "news:https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost": "2026-10-23T17:52:50Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors": "2026-11-24T21:23:08Z",
   "news:https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls": "2026-11-13T13:36:05Z",
   "news:https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down": "2026-10-30T22:57:43Z",
@@ -974,6 +979,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai": "2026-10-22T05:22:33Z",
   "news:https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy": "2026-11-06T22:01:39Z",
   "news:https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk": "2026-11-06T09:48:19Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise": "2026-11-24T21:23:17Z",
   "news:https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos": "2026-11-05T22:15:21Z",
   "news:https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever": "2026-10-30T13:23:33Z",
@@ -986,6 +992,7 @@
   "news:https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants": "2026-10-27T17:08:52Z",
   "news:https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux": "2026-11-09T19:21:33Z",
   "news:https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs": "2026-10-16T21:24:27Z",
+  "news:https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal": "2026-11-24T21:23:21Z",
   "news:https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet": "2026-11-04T17:39:01Z",
   "news:https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools": "2026-11-23T03:17:43Z",
   "news:https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws": "2026-11-11T21:15:48Z",
@@ -995,6 +1002,7 @@
   "news:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french": "2026-10-22T20:55:59Z",
   "news:https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast": "2026-11-06T14:43:21Z",
   "news:https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security": "2026-11-03T23:06:04Z",
+  "news:https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure": "2026-11-24T21:23:24Z",
   "news:https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges": "2026-11-23T13:18:46Z",
   "news:https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap": "2026-11-04T13:35:10Z",
   "news:https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps": "2026-10-19T21:15:21Z",
