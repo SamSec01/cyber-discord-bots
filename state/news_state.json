@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-25T04:22:51Z"
+  "last_run": "2026-11-25T14:41:56Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -211,6 +211,7 @@
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html": "2026-11-19T23:40:48Z",
   "news:https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html": "2026-11-12T16:46:35Z",
+  "news:https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html": "2026-11-25T14:41:41Z",
   "news:https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html": "2026-11-12T08:04:51Z",
   "news:https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html": "2026-11-05T11:22:11Z",
   "news:https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html": "2026-11-22T17:55:35Z",
@@ -286,6 +287,7 @@
   "news:https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html": "2026-11-17T02:15:48Z",
   "news:https://thehackernews.com/2026/11/google-issues-chrome-security-update.html": "2026-11-10T07:57:32Z",
   "news:https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html": "2026-11-04T09:19:00Z",
+  "news:https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html": "2026-11-25T14:41:43Z",
   "news:https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html": "2026-11-03T16:38:03Z",
   "news:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html": "2026-11-02T12:13:56Z",
   "news:https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html": "2026-11-09T19:21:26Z",
@@ -333,6 +335,7 @@
   "news:https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html": "2026-11-21T10:20:21Z",
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
   "news:https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html": "2026-11-12T09:23:08Z",
+  "news:https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html": "2026-11-25T14:41:45Z",
   "news:https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": "2026-11-05T05:45:15Z",
   "news:https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html": "2026-11-25T04:22:36Z",
   "news:https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": "2026-11-06T17:35:50Z",
@@ -387,6 +390,7 @@
   "news:https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html": "2026-11-13T15:32:04Z",
   "news:https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html": "2026-11-18T18:14:41Z",
   "news:https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html": "2026-11-09T08:10:43Z",
+  "news:https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html": "2026-11-25T14:41:48Z",
   "news:https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html": "2026-11-11T12:44:41Z",
   "news:https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html": "2026-11-09T11:40:54Z",
   "news:https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html": "2026-11-24T11:10:04Z",
@@ -763,6 +767,7 @@
   "news:https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/": "2026-10-22T14:57:56Z",
   "news:https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/": "2026-11-11T16:53:19Z",
   "news:https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/": "2026-10-30T15:14:55Z",
+  "news:https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/": "2026-11-25T14:41:52Z",
   "news:https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/": "2026-11-06T09:48:22Z",
   "news:https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/": "2026-11-24T21:23:13Z",
   "news:https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/": "2026-11-22T17:55:48Z",
@@ -774,6 +779,7 @@
   "news:https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/": "2026-10-28T10:09:58Z",
   "news:https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/": "2026-10-31T15:56:29Z",
   "news:https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/": "2026-11-12T20:35:17Z",
+  "news:https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/": "2026-11-25T14:41:50Z",
   "news:https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/": "2026-11-12T16:46:39Z",
   "news:https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/": "2026-11-12T23:11:13Z",
   "news:https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/": "2026-11-04T17:39:03Z",
@@ -1045,6 +1051,7 @@
   "news:https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models": "2026-11-17T19:27:00Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available": "2026-10-16T21:24:22Z",
+  "news:https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks": "2026-11-25T14:41:39Z",
   "news:https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/help-shape-the-future-of-resilient-private-5g": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/how-bitlocker-pins-help-protect-your-data-and-devices": "2026-10-16T21:24:22Z",
@@ -1162,6 +1169,7 @@
   "news:https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/": "2026-10-26T13:41:27Z",
   "news:https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/": "2026-11-25T04:22:43Z",
   "news:https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/": "2026-11-21T17:40:05Z",
+  "news:https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/": "2026-11-25T14:41:54Z",
   "news:https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/": "2026-10-20T13:10:16Z",
   "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
   "news:https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/": "2026-11-10T19:26:02Z",
