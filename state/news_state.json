@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-24T21:23:26Z"
+  "last_run": "2026-11-25T04:22:51Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -295,6 +295,7 @@
   "news:https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html": "2026-11-24T01:02:33Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html": "2026-11-22T10:04:38Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html": "2026-11-10T20:12:27Z",
+  "news:https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html": "2026-11-25T04:22:33Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html": "2026-11-13T06:48:02Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": "2026-11-05T06:49:37Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html": "2026-11-13T09:21:09Z",
@@ -314,6 +315,7 @@
   "news:https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html": "2026-11-19T17:27:59Z",
   "news:https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html": "2026-11-09T11:40:52Z",
   "news:https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html": "2026-11-06T13:57:27Z",
+  "news:https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html": "2026-11-25T04:22:45Z",
   "news:https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html": "2026-11-06T13:57:29Z",
   "news:https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html": "2026-11-11T08:42:50Z",
   "news:https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html": "2026-11-11T08:42:43Z",
@@ -332,6 +334,7 @@
   "news:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": "2026-11-02T06:50:35Z",
   "news:https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html": "2026-11-12T09:23:08Z",
   "news:https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": "2026-11-05T05:45:15Z",
+  "news:https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html": "2026-11-25T04:22:36Z",
   "news:https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": "2026-11-06T17:35:50Z",
   "news:https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html": "2026-11-22T22:53:43Z",
   "news:https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html": "2026-11-05T22:15:16Z",
@@ -393,6 +396,7 @@
   "news:https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html": "2026-11-24T11:09:55Z",
   "news:https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html": "2026-11-22T02:29:37Z",
   "news:https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html": "2026-11-13T12:15:14Z",
+  "news:https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html": "2026-11-25T04:22:38Z",
   "news:https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html": "2026-11-04T13:35:16Z",
   "news:https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html": "2026-11-12T13:40:35Z",
   "news:https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html": "2026-11-05T09:24:02Z",
@@ -1045,6 +1049,7 @@
   "news:https://www.ncsc.gov.uk/blogs/help-shape-the-future-of-resilient-private-5g": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/how-bitlocker-pins-help-protect-your-data-and-devices": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators": "2026-10-27T10:03:14Z",
+  "news:https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc": "2026-11-25T04:22:49Z",
   "news:https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book": "2026-10-20T08:59:26Z",
   "news:https://www.ncsc.gov.uk/blogs/making-forensic-observability-the-norm-for-network-devices": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/blogs/managing-the-cyber-risk-of-agentic-ai": "2026-10-16T21:24:22Z",
@@ -1067,6 +1072,7 @@
   "news:https://www.ncsc.gov.uk/news/ncsc-statement-in-response-to-recent-incidents-resulting-from-frontier-ai-evaluations": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists": "2026-10-16T21:24:22Z",
   "news:https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion": "2026-11-03T00:40:46Z",
+  "news:https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/": "2026-11-25T04:22:47Z",
   "news:https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/": "2026-10-23T08:58:45Z",
   "news:https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/": "2026-10-30T10:12:56Z",
   "news:https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/": "2026-11-06T03:38:29Z",
@@ -1154,6 +1160,7 @@
   "news:https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/": "2026-10-30T12:03:38Z",
   "news:https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/": "2026-10-19T15:55:41Z",
   "news:https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/": "2026-10-26T13:41:27Z",
+  "news:https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/": "2026-11-25T04:22:43Z",
   "news:https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/": "2026-11-21T17:40:05Z",
   "news:https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/": "2026-10-20T13:10:16Z",
   "news:https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/": "2026-10-19T11:23:56Z",
@@ -1261,6 +1268,7 @@
   "news:https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/": "2026-10-29T13:27:46Z",
   "news:https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/": "2026-11-10T13:56:25Z",
   "news:https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/": "2026-10-30T14:18:25Z",
+  "news:https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/": "2026-11-25T04:22:40Z",
   "news:https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/": "2026-11-15T13:21:02Z",
   "news:https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/": "2026-11-20T21:22:20Z",
   "news:https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/": "2026-10-30T16:09:13Z",
