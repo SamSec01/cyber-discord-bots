@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-25T14:41:56Z"
+  "last_run": "2026-11-25T23:23:39Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -311,6 +311,7 @@
   "news:https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html": "2026-11-11T14:46:31Z",
   "news:https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html": "2026-11-18T01:44:08Z",
   "news:https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html": "2026-11-06T17:35:55Z",
+  "news:https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html": "2026-11-25T23:23:28Z",
   "news:https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": "2026-11-05T13:39:34Z",
   "news:https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": "2026-11-02T13:35:44Z",
   "news:https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html": "2026-11-15T12:01:53Z",
@@ -778,6 +779,7 @@
   "news:https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/": "2026-11-09T22:06:42Z",
   "news:https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/": "2026-10-28T10:09:58Z",
   "news:https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/": "2026-10-31T15:56:29Z",
+  "news:https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/": "2026-11-25T23:23:34Z",
   "news:https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/": "2026-11-12T20:35:17Z",
   "news:https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/": "2026-11-25T14:41:50Z",
   "news:https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/": "2026-11-12T16:46:39Z",
@@ -810,6 +812,7 @@
   "news:https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/": "2026-11-06T17:35:59Z",
   "news:https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/": "2026-10-23T17:02:21Z",
   "news:https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/": "2026-11-22T17:55:51Z",
+  "news:https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/": "2026-11-25T23:23:30Z",
   "news:https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/": "2026-10-22T21:54:44Z",
   "news:https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/": "2026-11-10T15:30:50Z",
   "news:https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/": "2026-10-31T14:28:27Z",
@@ -819,6 +822,7 @@
   "news:https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/": "2026-11-09T19:21:28Z",
   "news:https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/": "2026-11-10T12:41:36Z",
   "news:https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/": "2026-11-09T23:05:43Z",
+  "news:https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/": "2026-11-25T23:23:23Z",
   "news:https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/": "2026-11-22T22:53:45Z",
   "news:https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/": "2026-11-07T00:28:29Z",
   "news:https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/": "2026-11-04T14:44:53Z",
@@ -838,6 +842,7 @@
   "news:https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/": "2026-11-05T20:32:19Z",
   "news:https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/": "2026-11-15T16:00:31Z",
   "news:https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/": "2026-11-10T10:41:33Z",
+  "news:https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/": "2026-11-25T23:23:32Z",
   "news:https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/": "2026-11-18T01:44:13Z",
   "news:https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/": "2026-11-03T14:41:11Z",
   "news:https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/": "2026-11-09T12:44:56Z",
@@ -969,6 +974,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud": "2026-11-03T23:06:02Z",
   "news:https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery": "2026-11-13T03:37:51Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data": "2026-11-25T23:23:21Z",
   "news:https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper": "2026-11-04T15:40:51Z",
   "news:https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next": "2026-11-02T14:44:29Z",
   "news:https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-": "2026-10-16T21:24:22Z",
@@ -1040,6 +1046,7 @@
   "news:https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline": "2026-11-17T19:27:02Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience": "2026-10-19T14:05:36Z",
+  "news:https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc": "2026-11-25T23:23:37Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines": "2026-11-17T19:27:11Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem": "2026-11-19T23:40:40Z",
@@ -1337,6 +1344,7 @@
   "news:https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/": "2026-10-18T11:10:04Z",
   "news:https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/": "2026-10-27T14:11:45Z",
   "news:https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/": "2026-10-16T21:24:22Z",
+  "news:https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/": "2026-11-25T23:23:25Z",
   "news:https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/": "2026-11-21T22:29:38Z",
   "news:https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/": "2026-10-29T17:15:07Z",
   "news:https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/": "2026-11-10T15:30:46Z",
