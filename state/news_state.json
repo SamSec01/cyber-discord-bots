@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-26T15:29:51Z"
+  "last_run": "2026-11-26T23:56:55Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -256,6 +256,7 @@
   "news:https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html": "2026-11-26T05:13:43Z",
   "news:https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html": "2026-11-18T01:44:06Z",
   "news:https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html": "2026-11-03T16:37:56Z",
+  "news:https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html": "2026-11-26T23:56:35Z",
   "news:https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html": "2026-11-12T05:45:36Z",
   "news:https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html": "2026-11-19T23:40:44Z",
   "news:https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html": "2026-11-24T01:02:35Z",
@@ -306,6 +307,7 @@
   "news:https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": "2026-11-05T06:49:37Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html": "2026-11-13T09:21:09Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html": "2026-11-09T19:21:31Z",
+  "news:https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html": "2026-11-26T23:56:39Z",
   "news:https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html": "2026-11-26T15:29:38Z",
   "news:https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html": "2026-11-23T13:18:54Z",
   "news:https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html": "2026-11-06T17:35:53Z",
@@ -396,6 +398,7 @@
   "news:https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html": "2026-11-13T15:32:04Z",
   "news:https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html": "2026-11-18T18:14:41Z",
   "news:https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html": "2026-11-09T08:10:43Z",
+  "news:https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html": "2026-11-26T23:56:37Z",
   "news:https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html": "2026-11-25T14:41:48Z",
   "news:https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html": "2026-11-11T12:44:41Z",
   "news:https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html": "2026-11-09T11:40:54Z",
@@ -763,6 +766,7 @@
   "news:https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/": "2026-10-29T23:00:41Z",
   "news:https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/": "2026-11-06T15:31:47Z",
   "news:https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/": "2026-10-28T14:16:56Z",
+  "news:https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/": "2026-11-26T23:56:53Z",
   "news:https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/": "2026-11-18T18:14:39Z",
   "news:https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": "2026-10-19T14:05:38Z",
   "news:https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/": "2026-11-08T15:57:10Z",
@@ -949,6 +953,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets": "2026-10-26T18:30:02Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn": "2026-10-20T15:24:27Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer": "2026-11-12T11:22:44Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing": "2026-11-26T23:56:46Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss": "2026-11-02T15:42:12Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack": "2026-10-22T22:15:59Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel": "2026-10-16T21:24:22Z",
@@ -1216,6 +1221,7 @@
   "news:https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/": "2026-10-29T15:16:33Z",
   "news:https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/": "2026-11-10T17:34:22Z",
   "news:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/": "2026-11-06T13:57:32Z",
+  "news:https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/": "2026-11-26T23:56:42Z",
   "news:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/": "2026-10-22T14:57:59Z",
   "news:https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/": "2026-11-12T11:22:42Z",
   "news:https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/": "2026-11-20T13:26:05Z",
@@ -1329,6 +1335,7 @@
   "news:https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/": "2026-11-10T15:30:43Z",
   "news:https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/": "2026-11-21T17:40:09Z",
   "news:https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/": "2026-10-28T10:10:00Z",
+  "news:https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/": "2026-11-26T23:56:48Z",
   "news:https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/": "2026-10-19T19:05:27Z",
   "news:https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/": "2026-10-22T13:12:04Z",
   "news:https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/": "2026-11-13T13:35:58Z",
@@ -1358,6 +1365,7 @@
   "news:https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/": "2026-10-20T15:57:25Z",
   "news:https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/": "2026-11-06T13:57:34Z",
   "news:https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/": "2026-10-18T11:10:04Z",
+  "news:https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/": "2026-11-26T23:56:44Z",
   "news:https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/": "2026-10-27T14:11:45Z",
   "news:https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/": "2026-10-16T21:24:22Z",
   "news:https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/": "2026-11-25T23:23:25Z",
