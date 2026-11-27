@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-26T23:56:55Z"
+  "last_run": "2026-11-27T05:52:00Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -426,6 +426,7 @@
   "news:https://therecord.media/apple-warns-users-99-countries-mercenary-spyware": "2026-11-02T15:42:05Z",
   "news:https://therecord.media/artex-ai-tool-fbi-flash-alert": "2026-11-13T22:30:10Z",
   "news:https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident": "2026-11-04T21:35:29Z",
+  "news:https://therecord.media/australia-passes-online-safety-legislation-preempt-harms": "2026-11-27T05:51:56Z",
   "news:https://therecord.media/australia-spies-share-intel-and-want-victims-to-share-back": "2026-10-27T14:11:36Z",
   "news:https://therecord.media/austrian-foreign-ministry-says-website-hacked": "2026-11-23T13:18:47Z",
   "news:https://therecord.media/belarus-cloud-provider-activecloud-ransomware-attack": "2026-11-13T14:39:22Z",
@@ -513,6 +514,7 @@
   "news:https://therecord.media/proofpoint-varonis-cybersecurity-acquisition": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/queens-library-ransomware-causes-disruptions": "2026-11-05T23:06:40Z",
   "news:https://therecord.media/quest-diagnostics-network-intrusion": "2026-10-23T13:07:20Z",
+  "news:https://therecord.media/ransomware-doj-indictment-recovery": "2026-11-27T05:51:58Z",
   "news:https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator": "2026-11-13T13:35:56Z",
   "news:https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards": "2026-10-30T19:33:32Z",
   "news:https://therecord.media/romania-russia-cyberattack-emails": "2026-11-12T13:40:44Z",
@@ -668,6 +670,7 @@
   "news:https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/": "2026-11-23T13:18:49Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/": "2026-11-04T12:11:37Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": "2026-10-21T19:05:32Z",
+  "news:https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/": "2026-11-27T05:51:54Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/": "2026-10-29T14:21:44Z",
   "news:https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/": "2026-10-28T11:05:57Z",
   "news:https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/": "2026-10-29T12:04:21Z",
@@ -787,6 +790,7 @@
   "news:https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/": "2026-11-24T21:23:13Z",
   "news:https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/": "2026-11-22T17:55:48Z",
   "news:https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/": "2026-11-19T23:40:42Z",
+  "news:https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/": "2026-11-27T05:51:45Z",
   "news:https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": "2026-10-21T01:07:54Z",
   "news:https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/": "2026-11-04T16:39:43Z",
   "news:https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/": "2026-11-11T12:44:48Z",
@@ -915,6 +919,7 @@
   "news:https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job": "2026-11-06T19:39:38Z",
   "news:https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience": "2026-11-11T22:37:05Z",
   "news:https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials": "2026-10-28T15:14:38Z",
+  "news:https://www.darkreading.com/cyber-risk/bot-world-just-living": "2026-11-27T05:51:47Z",
   "news:https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage": "2026-10-23T12:15:25Z",
   "news:https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough": "2026-10-23T14:01:56Z",
@@ -988,6 +993,7 @@
   "news:https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down": "2026-10-30T22:57:43Z",
   "news:https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut": "2026-11-09T21:13:43Z",
   "news:https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox": "2026-11-12T22:29:40Z",
+  "news:https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide": "2026-11-27T05:51:43Z",
   "news:https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud": "2026-11-03T23:06:02Z",
   "news:https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery": "2026-11-13T03:37:51Z",
@@ -1056,6 +1062,7 @@
   "news:https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge": "2026-11-20T04:29:46Z",
   "news:https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes": "2026-10-29T10:12:44Z",
   "news:https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks": "2026-10-16T21:24:22Z",
+  "news:https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments": "2026-11-27T05:51:52Z",
   "news:https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups": "2026-11-19T23:40:53Z",
   "news:https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry": "2026-11-12T01:40:21Z",
   "news:https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud": "2026-10-16T21:24:22Z",
@@ -1356,6 +1363,7 @@
   "news:https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/": "2026-10-28T13:25:25Z",
   "news:https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/": "2026-11-10T15:30:48Z",
   "news:https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/": "2026-11-16T18:58:25Z",
+  "news:https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/": "2026-11-27T05:51:49Z",
   "news:https://www.securityweek.com/uber-data-breach-impacts-150000-people/": "2026-11-16T18:58:34Z",
   "news:https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/": "2026-11-03T10:41:47Z",
   "news:https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/": "2026-10-16T21:24:22Z",
