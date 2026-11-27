@@ -1,7 +1,7 @@
 {
  "meta": {
   "last_errors": [],
-  "last_run": "2026-11-27T05:52:00Z"
+  "last_run": "2026-11-27T15:40:48Z"
  },
  "seen": {
   "news:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/": "2026-10-16T21:24:22Z",
@@ -210,6 +210,7 @@
   "news:https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html": "2026-10-30T17:05:22Z",
   "news:https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": "2026-10-16T21:24:22Z",
   "news:https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html": "2026-11-19T23:40:48Z",
+  "news:https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html": "2026-11-27T15:40:37Z",
   "news:https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html": "2026-11-12T16:46:35Z",
   "news:https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html": "2026-11-25T14:41:41Z",
   "news:https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html": "2026-11-12T08:04:51Z",
@@ -272,6 +273,7 @@
   "news:https://thehackernews.com/2026/11/default-adminadmin-server-password.html": "2026-11-09T11:40:58Z",
   "news:https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html": "2026-11-26T15:29:49Z",
   "news:https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html": "2026-11-20T21:22:09Z",
+  "news:https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html": "2026-11-27T15:40:42Z",
   "news:https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html": "2026-11-19T17:28:08Z",
   "news:https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html": "2026-11-11T12:44:39Z",
   "news:https://thehackernews.com/2026/11/everything-is-web-application-including.html": "2026-11-20T13:26:01Z",
@@ -296,6 +298,7 @@
   "news:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html": "2026-11-02T12:13:56Z",
   "news:https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html": "2026-11-26T05:13:45Z",
   "news:https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html": "2026-11-09T19:21:26Z",
+  "news:https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html": "2026-11-27T15:40:39Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": "2026-11-03T09:41:18Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html": "2026-11-23T13:18:58Z",
   "news:https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html": "2026-11-21T17:39:58Z",
@@ -434,6 +437,7 @@
   "news:https://therecord.media/beyond-trust-cyberattack-china": "2026-10-16T21:24:22Z",
   "news:https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea": "2026-11-03T17:37:38Z",
   "news:https://therecord.media/binance-hit-by-record-6-billion-crypto-hack": "2026-10-30T10:12:50Z",
+  "news:https://therecord.media/britain-delays-national-cyber-action-plan-again": "2026-11-27T15:40:35Z",
   "news:https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms": "2026-11-11T14:00:03Z",
   "news:https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks": "2026-11-03T18:30:08Z",
   "news:https://therecord.media/california-warns-all-public-school-students-of-data-breach": "2026-10-20T19:54:16Z",
@@ -619,6 +623,7 @@
   "news:https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/": "2026-11-21T10:20:29Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/": "2026-11-10T19:25:55Z",
   "news:https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/": "2026-10-20T13:10:07Z",
+  "news:https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/": "2026-11-27T15:40:30Z",
   "news:https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/": "2026-10-29T15:16:24Z",
   "news:https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/": "2026-11-17T02:15:54Z",
   "news:https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/": "2026-10-23T21:17:00Z",
@@ -816,6 +821,7 @@
   "news:https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/": "2026-11-18T01:44:02Z",
   "news:https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/": "2026-11-02T13:35:48Z",
   "news:https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/": "2026-10-20T11:55:01Z",
+  "news:https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/": "2026-11-27T15:40:33Z",
   "news:https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/": "2026-11-20T21:22:22Z",
   "news:https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/": "2026-10-23T15:59:45Z",
   "news:https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/": "2026-10-21T14:57:31Z",
@@ -953,6 +959,7 @@
   "news:https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents": "2026-11-09T22:06:45Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads": "2026-10-16T21:24:22Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another": "2026-11-20T04:29:37Z",
+  "news:https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers": "2026-11-27T15:40:44Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack": "2026-10-21T13:12:06Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor": "2026-10-30T21:01:44Z",
   "news:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets": "2026-10-26T18:30:02Z",
@@ -1113,6 +1120,7 @@
   "news:https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion": "2026-11-03T00:40:46Z",
   "news:https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/": "2026-11-25T04:22:47Z",
   "news:https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/": "2026-10-23T08:58:45Z",
+  "news:https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/": "2026-11-27T15:40:46Z",
   "news:https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/": "2026-10-30T10:12:56Z",
   "news:https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/": "2026-11-06T03:38:29Z",
   "news:https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/": "2026-11-09T10:42:21Z",
